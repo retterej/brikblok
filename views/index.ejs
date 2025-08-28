@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>LEGO Sets Collection</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🧱 LEGO Sets Collection</h1>
+        </header>
+
+        <section class="add-set">
+            <form method="POST" action="/add">
+                <input type="text" name="setNumber" placeholder="Enter set number (e.g., 10276-1)" required>
+                <button type="submit">Add Set</button>
+            </form>
+            
+            <% if (error) { %>
+                <div class="error"><%= error %></div>
+            <% } %>
+            
+            <% if (success) { %>
+                <div class="success"><%= success %></div>
+            <% } %>
+        </section>
+
+        <section class="sets">
+            <% if (sets.length === 0) { %>
+                <p class="empty">No sets added yet. Enter a set number above to get started!</p>
+            <% } else { %>
+                <div class="sets-grid">
+                    <% sets.forEach(set => { %>
+                        <div class="set-card">
+                            <div class="set-header">
+                                <h3><%= set.name %></h3>
+                                <button class="delete-btn" onclick="deleteSet('<%= set.no %>')">×</button>
+                            </div>
+                            <div class="set-info">
+                                <span class="set-number"><%= set.no %></span>
+                                <span class="set-year">(<%= set.year_released %>)</span>
+                            </div>
+                            <% if (set.dim_x && set.dim_y && set.dim_z) { %>
+                                <div class="dimensions">
+                                    <%= set.dim_x %>" × <%= set.dim_y %>" × <%= set.dim_z %>"
+                                </div>
+                            <% } %>
+                            <% if (set.weight) { %>
+                                <div class="weight"><%= set.weight %>g</div>
+                            <% } %>
+                            <div class="added-date">
+                                Added <%= new Date(set.added_at).toLocaleDateString() %>
+                            </div>
+                        </div>
+                    <% }) %>
+                </div>
+            <% } %>
+        </section>
+    </div>
+
+    <script>
+        async function deleteSet(setNumber) {
+            if (!confirm('Remove this set from your collection?')) return;
+            
+            try {
+                const response = await fetch(`/set/${setNumber}`, { method: 'DELETE' });
+                if (response.ok) {
+                    location.reload();
+                } else {
+                    alert('Failed to remove set');
+                }
+            } catch (error) {
+                alert('Error removing set');
+            }
+        }
+    </script>
+</body>
+</html>
