@@ -1,5 +1,5 @@
 {
-  "name": "bricklink-js-examples",
+  "name": "brikblok",
   "version": "1.0.0",
   "type": "module",
   "description": "Minimal Node.js examples for the BrickLink Store API (OAuth 1.0a): GET, POST, and push notifications.",
