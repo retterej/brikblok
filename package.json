@@ -8,7 +8,14 @@
     "post": "node src/post_example.js",
     "webhook": "node src/webhook_server.js",
     "sets": "node src/lego_sets_app.js",
-    "web": "node web_server.js"
+    "web": "node web_server.js",
+    "track": "node src/simple_sets_tracker.js",
+    "simple": "node simple_web_server.js",
+    "bulk": "node src/bulk_add_sets.js",
+    "import": "node src/import_xml_sets.js",
+    "export": "node src/export_to_xml.js",
+    "conditions": "node src/cross_reference_condition.js",
+    "pieces": "node src/add_piece_counts.js"
   },
   "dependencies": {
     "axios": "^1.7.4",

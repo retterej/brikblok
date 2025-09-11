@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple LEGO Sets Tracker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📝 Simple LEGO Sets Tracker</h1>
+            <p>Track set numbers for later BrickLink queries</p>
+        </header>
+
+        <section class="add-set">
+            <form method="POST" action="/add">
+                <input type="text" name="setNumber" placeholder="Enter set number (e.g., 10276-1)" required>
+                <button type="submit">Track Set</button>
+            </form>
+            
+            <% if (error) { %>
+                <div class="error"><%= error %></div>
+            <% } %>
+            
+            <% if (success) { %>
+                <div class="success"><%= success %></div>
+            <% } %>
+        </section>
+
+        <section class="sets">
+            <% if (sets.length === 0) { %>
+                <p class="empty">No sets tracked yet. Enter a set number above to get started!</p>
+            <% } else { %>
+                <h2>Tracked Sets (<%= sets.length %>)</h2>
+                <div class="simple-list">
+                    <% sets.forEach(set => { %>
+                        <div class="simple-item">
+                            <span class="set-number"><%= set %></span>
+                            <button class="delete-btn" onclick="removeSet('<%= set %>')">×</button>
+                        </div>
+                    <% }) %>
+                </div>
+            <% } %>
+        </section>
+    </div>
+
+    <script>
+        async function removeSet(setNumber) {
+            if (!confirm('Remove this set from tracking?')) return;
+            
+            try {
+                const response = await fetch(`/set/${setNumber}`, { method: 'DELETE' });
+                if (response.ok) {
+                    location.reload();
+                } else {
+                    alert('Failed to remove set');
+                }
+            } catch (error) {
+                alert('Error removing set');
+            }
+        }
+    </script>
+</body>
+</html>
