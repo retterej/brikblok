@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minifigures Database - brikblok</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🧱👤 Minifigures Database</h1>
+            <p><%= Object.keys(minifigs).length %> unique minifigures across <%= totalSets %> sets</p>
+            <a href="/" class="back-link">← Back to Sets</a>
+        </header>
+
+        <section class="minifigs">
+            <div class="minifigs-grid">
+                <% Object.entries(minifigs).forEach(([name, minifig]) => { %>
+                    <div class="minifig-card">
+                        <h3><%- minifig.name %></h3>
+                        <% if (minifig.no && minifig.no !== 'unknown') { %>
+                            <div class="minifig-number"><%= minifig.no %></div>
+                        <% } %>
+                        <div class="total-count">Total: <%= minifig.total_quantity %></div>
+                        
+                        <div class="appears-in">
+                            <strong>Appears in:</strong>
+                            <% minifig.appears_in.forEach(appearance => { %>
+                                <div class="set-appearance">
+                                    <span class="set-link"><%= appearance.set %></span>
+                                    <span class="set-name"><%- appearance.set_name %></span>
+                                    <span class="quantity">(×<%= appearance.quantity %>)</span>
+                                </div>
+                            <% }) %>
+                        </div>
+                    </div>
+                <% }) %>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

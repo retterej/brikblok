@@ -10,7 +10,25 @@
     "dim_y": "12.20",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:25:54.556Z",
-    "piece_count": 40
+    "piece_count": 40,
+    "category_name": "The LEGO Movie 2",
+    "condition": "used",
+    "part_count": 37,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Ice Cream Cone",
+        "quantity": 1
+      },
+      {
+        "name": "Chocolate Bar",
+        "quantity": 1
+      },
+      {
+        "name": "Unikitty - Lopsided Smile",
+        "quantity": 1
+      }
+    ]
   },
   "70823-1": {
     "no": "70823-1",
@@ -23,7 +41,17 @@
     "dim_y": "26.20",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:25:54.701Z",
-    "piece_count": 198
+    "piece_count": 198,
+    "category_name": "The LEGO Movie 2",
+    "condition": "used",
+    "part_count": 197,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Emmet - Smile / Scared, Worn Uniform",
+        "quantity": 1
+      }
+    ]
   },
   "70902-1": {
     "no": "70902-1",
@@ -36,7 +64,25 @@
     "dim_y": "14.00",
     "dim_z": "4.70",
     "added_at": "2025-09-11T04:25:54.841Z",
-    "piece_count": 146
+    "piece_count": 146,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 143,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Batgirl - Minifigure, Dark Purple Suit, Yellow Cape, Open Mouth Smile / Concerned",
+        "quantity": 1
+      },
+      {
+        "name": "Robin - Green Glasses, Smile / Scared Pattern",
+        "quantity": 1
+      },
+      {
+        "name": "Catwoman - Dark Purple Suit",
+        "quantity": 1
+      }
+    ]
   },
   "71221-1": {
     "no": "71221-1",
@@ -49,7 +95,17 @@
     "dim_y": "19.00",
     "dim_z": "5.00",
     "added_at": "2025-09-11T04:25:55.005Z",
-    "piece_count": 44
+    "piece_count": 44,
+    "category_name": "Dimensions",
+    "condition": "used",
+    "part_count": 43,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Wicked Witch",
+        "quantity": 1
+      }
+    ]
   },
   "71237-1": {
     "no": "71237-1",
@@ -62,7 +118,17 @@
     "dim_y": "19.00",
     "dim_z": "5.00",
     "added_at": "2025-09-11T04:25:55.149Z",
-    "piece_count": 41
+    "piece_count": 41,
+    "category_name": "Dimensions",
+    "condition": "used",
+    "part_count": 40,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Aquaman - Yellow Tousled Hair",
+        "quantity": 1
+      }
+    ]
   },
   "71365-1": {
     "no": "71365-1",
@@ -75,7 +141,25 @@
     "dim_y": "18.90",
     "dim_z": "5.70",
     "added_at": "2025-09-11T04:25:55.293Z",
-    "piece_count": 97
+    "piece_count": 97,
+    "category_name": "Super Mario",
+    "condition": "used",
+    "part_count": 93,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Goomba &#40;Dark Bluish Gray Interior Pieces&#41; - Neutral",
+        "quantity": 1
+      },
+      {
+        "name": "Koopa Troopa - Scanner Code with Pink Lines",
+        "quantity": 1
+      },
+      {
+        "name": "Piranha Plant - Hinge Brick",
+        "quantity": 2
+      }
+    ]
   },
   "71366-1": {
     "no": "71366-1",
@@ -88,7 +172,25 @@
     "dim_y": "19.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:55.439Z",
-    "piece_count": 90
+    "piece_count": 90,
+    "category_name": "Super Mario",
+    "condition": "used",
+    "part_count": 86,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Boomer / Banzai Bill",
+        "quantity": 2
+      },
+      {
+        "name": "Shy Guy",
+        "quantity": 1
+      },
+      {
+        "name": "Super Mushroom - Black Hinge Brick / Green Plate 2 x 2 Interior",
+        "quantity": 1
+      }
+    ]
   },
   "71394-1": {
     "no": "71394-1",
@@ -101,7 +203,12 @@
     "dim_y": "14.60",
     "dim_z": "1.50",
     "added_at": "2025-09-11T04:25:55.583Z",
-    "piece_count": 10
+    "piece_count": 10,
+    "category_name": "Super Mario",
+    "condition": "used",
+    "part_count": 0,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75036-1": {
     "no": "75036-1",
@@ -114,7 +221,21 @@
     "dim_y": "14.10",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:55.728Z",
-    "piece_count": 79
+    "piece_count": 79,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 75,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Clone Trooper, 212th Attack Battalion &#40;Phase 2&#41; - Orange Arms, Dirt Stains, Scowl",
+        "quantity": 2
+      },
+      {
+        "name": "Clone Airborne Trooper, 212th Attack Battalion &#40;Phase 2&#41; - Orange Arm, Dirt Stains, Light Bluish Gray Cloth Kama, Scowl",
+        "quantity": 2
+      }
+    ]
   },
   "75050-1": {
     "no": "75050-1",
@@ -127,7 +248,25 @@
     "dim_y": "26.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:25:55.873Z",
-    "piece_count": 469
+    "piece_count": 469,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 466,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Ten Numb &#40;Red Jumpsuit&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "General Airen Cracken",
+        "quantity": 1
+      },
+      {
+        "name": "Gray Squadron Pilot &#40;Horton Salm&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75053-1": {
     "no": "75053-1",
@@ -140,7 +279,33 @@
     "dim_y": "28.00",
     "dim_z": "8.50",
     "added_at": "2025-09-11T04:25:56.035Z",
-    "piece_count": 972
+    "piece_count": 972,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 967,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Garazeb 'Zeb' Orrelios",
+        "quantity": 1
+      },
+      {
+        "name": "Hera Syndulla - Dark Tan Arms",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Stormtrooper - Printed Legs, Dark Azure Helmet Vents",
+        "quantity": 1
+      },
+      {
+        "name": "Kanan Jarrus - Black Hair and Eyebrows",
+        "quantity": 1
+      },
+      {
+        "name": "Kanan Jarrus - Dark Brown Hair and Eyebrows",
+        "quantity": 1
+      }
+    ]
   },
   "75095-1": {
     "no": "75095-1",
@@ -153,7 +318,17 @@
     "dim_y": "47.80",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:25:56.305Z",
-    "piece_count": 1727
+    "piece_count": 1727,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 1726,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Imperial TIE Fighter Pilot - Printed Arms",
+        "quantity": 1
+      }
+    ]
   },
   "75125-1": {
     "no": "75125-1",
@@ -166,7 +341,17 @@
     "dim_y": "12.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:56.453Z",
-    "piece_count": 86
+    "piece_count": 86,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 85,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Resistance Pilot X-wing &#40;Temmin &#39;Snap&#39; Wexley&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75126-1": {
     "no": "75126-1",
@@ -179,7 +364,17 @@
     "dim_y": "12.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:56.597Z",
-    "piece_count": 97
+    "piece_count": 97,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 96,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "First Order Snowtrooper",
+        "quantity": 1
+      }
+    ]
   },
   "75226-1": {
     "no": "75226-1",
@@ -192,7 +387,29 @@
     "dim_y": "14.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:56.743Z",
-    "piece_count": 116
+    "piece_count": 116,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 112,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Inferno Squad Agent &#40;Open Mouth, Grimacing&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Iden Versio &#40;Inferno Squad Commander&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Inferno Squad Agent with Utility Belt &#40;Frown&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Inferno Squad Agent &#40;Frown, Sunken Eyes&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75239-1": {
     "no": "75239-1",
@@ -205,7 +422,21 @@
     "dim_y": "18.80",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:25:56.888Z",
-    "piece_count": 237
+    "piece_count": 237,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 235,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Snowtrooper, Printed Legs, Dark Tan Hands",
+        "quantity": 1
+      },
+      {
+        "name": "Hoth Rebel Trooper White Uniform, Dark Tan Legs &#40;Brown Angular Beard&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75248-1": {
     "no": "75248-1",
@@ -218,7 +449,21 @@
     "dim_y": "19.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:25:57.039Z",
-    "piece_count": 282
+    "piece_count": 282,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 280,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Temmin &#39;Snap&#39; Wexley - Medium Nougat Lines Under Eyes and Chin",
+        "quantity": 1
+      },
+      {
+        "name": "Lieutenant Connix",
+        "quantity": 1
+      }
+    ]
   },
   "75249-1": {
     "no": "75249-1",
@@ -231,7 +476,33 @@
     "dim_y": "26.00",
     "dim_z": "5.50",
     "added_at": "2025-09-11T04:25:57.181Z",
-    "piece_count": 591
+    "piece_count": 591,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 586,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Poe Dameron &#40;White Shirt&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Zorii Bliss",
+        "quantity": 1
+      },
+      {
+        "name": "D-O",
+        "quantity": 1
+      },
+      {
+        "name": "Astromech Droid, K3-R1",
+        "quantity": 1
+      },
+      {
+        "name": "First Order Snowtrooper with Cape",
+        "quantity": 1
+      }
+    ]
   },
   "75250-1": {
     "no": "75250-1",
@@ -244,7 +515,29 @@
     "dim_y": "26.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:25:57.325Z",
-    "piece_count": 393
+    "piece_count": 393,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 389,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "BB-8 &#40;Large Photoreceptor&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Rey - White Tied Robe",
+        "quantity": 1
+      },
+      {
+        "name": "First Order Jet Trooper",
+        "quantity": 1
+      },
+      {
+        "name": "First Order Treadspeeder Driver",
+        "quantity": 1
+      }
+    ]
   },
   "75265-1": {
     "no": "75265-1",
@@ -257,7 +550,21 @@
     "dim_y": "14.10",
     "dim_z": "4.80",
     "added_at": "2025-09-11T04:25:57.480Z",
-    "piece_count": 210
+    "piece_count": 210,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 208,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "T-16 Skyhopper Pilot - Detailed Belts",
+        "quantity": 1
+      },
+      {
+        "name": "Tusken Raider - Head Spikes, Diagonal Belt",
+        "quantity": 1
+      }
+    ]
   },
   "75266-1": {
     "no": "75266-1",
@@ -270,7 +577,25 @@
     "dim_y": "14.10",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:25:57.636Z",
-    "piece_count": 100
+    "piece_count": 100,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 96,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Sith Trooper - Episode 9",
+        "quantity": 1
+      },
+      {
+        "name": "Sith Jet Trooper",
+        "quantity": 2
+      },
+      {
+        "name": "Sith Fleet Officer",
+        "quantity": 1
+      }
+    ]
   },
   "75269-1": {
     "no": "75269-1",
@@ -283,7 +608,21 @@
     "dim_y": "14.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:25:57.779Z",
-    "piece_count": 213
+    "piece_count": 213,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 211,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Obi-Wan Kenobi &#40;Dirt Stains&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Anakin Skywalker &#40;Dirt Stains&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75270-1": {
     "no": "75270-1",
@@ -296,7 +635,29 @@
     "dim_y": "19.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:25:57.921Z",
-    "piece_count": 205
+    "piece_count": 205,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 201,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Luke Skywalker &#40;Tatooine, White Legs, Stern / Smile Face Print&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Tusken Raider - Head Spikes, Diagonal Belt",
+        "quantity": 1
+      },
+      {
+        "name": "Obi-Wan Kenobi &#40;Old, Detailed Robe and Head&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots and Large Receptor",
+        "quantity": 1
+      }
+    ]
   },
   "75274-1": {
     "no": "75274-1",
@@ -309,7 +670,12 @@
     "dim_y": "35.20",
     "dim_z": "11.50",
     "added_at": "2025-09-11T04:25:58.063Z",
-    "piece_count": 739
+    "piece_count": 739,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 739,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75276-1": {
     "no": "75276-1",
@@ -322,7 +688,12 @@
     "dim_y": "35.20",
     "dim_z": "11.50",
     "added_at": "2025-09-11T04:25:58.220Z",
-    "piece_count": 669
+    "piece_count": 669,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 669,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75277-1": {
     "no": "75277-1",
@@ -335,7 +706,12 @@
     "dim_y": "35.20",
     "dim_z": "11.50",
     "added_at": "2025-09-11T04:25:58.362Z",
-    "piece_count": 645
+    "piece_count": 645,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 645,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75278-1": {
     "no": "75278-1",
@@ -348,7 +724,17 @@
     "dim_y": "38.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:25:58.504Z",
-    "piece_count": 535
+    "piece_count": 535,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 534,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "D-O",
+        "quantity": 1
+      }
+    ]
   },
   "75280-1": {
     "no": "75280-1",
@@ -361,7 +747,25 @@
     "dim_y": "19.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:58.647Z",
-    "piece_count": 293
+    "piece_count": 293,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 287,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "Battle Droid - Tan, Angled Arm and Straight Arm",
+        "quantity": 2
+      },
+      {
+        "name": "Clone Jet Trooper, 501st Legion &#40;Phase 2&#41; - Nougat Head",
+        "quantity": 1
+      },
+      {
+        "name": "Clone Trooper, 501st Legion &#40;Phase 2&#41; - White Arms, Nougat Head",
+        "quantity": 3
+      }
+    ]
   },
   "75288-1": {
     "no": "75288-1",
@@ -374,7 +778,37 @@
     "dim_y": "37.50",
     "dim_z": "8.50",
     "added_at": "2025-09-11T04:25:58.788Z",
-    "piece_count": 1273
+    "piece_count": 1273,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 1267,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "Luke Skywalker &#40;Pilot, Printed Legs, Visor Up / Down&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "General Maximillian Veers - Helmet with Goggles Print",
+        "quantity": 1
+      },
+      {
+        "name": "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Snowtrooper, Printed Legs, Dark Tan Hands, Cheek Lines, Frown",
+        "quantity": 1
+      },
+      {
+        "name": "Snowtrooper, Printed Legs, Dark Tan Hands, Frown",
+        "quantity": 1
+      },
+      {
+        "name": "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Frown",
+        "quantity": 1
+      }
+    ]
   },
   "75294-1": {
     "no": "75294-1",
@@ -387,7 +821,21 @@
     "dim_y": "26.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:25:58.931Z",
-    "piece_count": 302
+    "piece_count": 302,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 300,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Luke Skywalker &#40;Cloud City, Dark Tan Shirt&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Darth Vader - Printed Arms, Traditional Starched Fabric Cape",
+        "quantity": 1
+      }
+    ]
   },
   "75295-1": {
     "no": "75295-1",
@@ -400,7 +848,17 @@
     "dim_y": "12.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:59.075Z",
-    "piece_count": 112
+    "piece_count": 112,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 111,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Han Solo, Dark Blue Legs, Vest with Pockets, Wavy Hair",
+        "quantity": 1
+      }
+    ]
   },
   "75297-1": {
     "no": "75297-1",
@@ -413,7 +871,21 @@
     "dim_y": "14.10",
     "dim_z": "4.80",
     "added_at": "2025-09-11T04:25:59.215Z",
-    "piece_count": 56
+    "piece_count": 56,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 54,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "BB-8 &#40;Large Photoreceptor&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Poe Dameron &#40;Medium Nougat Jacket, Helmet&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75298-1": {
     "no": "75298-1",
@@ -426,7 +898,21 @@
     "dim_y": "14.10",
     "dim_z": "4.80",
     "added_at": "2025-09-11T04:25:59.361Z",
-    "piece_count": 218
+    "piece_count": 218,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 216,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Frown",
+        "quantity": 1
+      },
+      {
+        "name": "Luke Skywalker &#40;Hoth, Balaclava Head&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75299-1": {
     "no": "75299-1",
@@ -439,7 +925,25 @@
     "dim_y": "19.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:25:59.504Z",
-    "piece_count": 289
+    "piece_count": 289,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 286,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Tusken Raider - Head Spikes, Diagonal Belt",
+        "quantity": 1
+      },
+      {
+        "name": "Din Grogu / The Child / 'Baby Yoda'",
+        "quantity": 1
+      },
+      {
+        "name": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape",
+        "quantity": 1
+      }
+    ]
   },
   "75304-1": {
     "no": "75304-1",
@@ -452,7 +956,12 @@
     "dim_y": "35.40",
     "dim_z": "11.80",
     "added_at": "2025-09-11T04:25:59.646Z",
-    "piece_count": 853
+    "piece_count": 853,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 853,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75308-1": {
     "no": "75308-1",
@@ -465,7 +974,17 @@
     "dim_y": "58.00",
     "dim_z": "9.70",
     "added_at": "2025-09-11T04:25:59.789Z",
-    "piece_count": 2356
+    "piece_count": 2356,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 2355,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots and Large Receptor",
+        "quantity": 1
+      }
+    ]
   },
   "75312-1": {
     "no": "75312-1",
@@ -478,7 +997,21 @@
     "dim_y": "26.20",
     "dim_z": "7.60",
     "added_at": "2025-09-11T04:25:59.954Z",
-    "piece_count": 628
+    "piece_count": 628,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 626,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape",
+        "quantity": 1
+      },
+      {
+        "name": "Boba Fett - Repainted Beskar Armor, Jet Pack, Rangefinder",
+        "quantity": 1
+      }
+    ]
   },
   "75317-1": {
     "no": "75317-1",
@@ -491,7 +1024,12 @@
     "dim_y": "14.10",
     "dim_z": "6.80",
     "added_at": "2025-09-11T04:26:00.097Z",
-    "piece_count": 316
+    "piece_count": 316,
+    "category_name": "BrickHeadz",
+    "condition": "used",
+    "part_count": 316,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75318-1": {
     "no": "75318-1",
@@ -504,7 +1042,17 @@
     "dim_y": "38.00",
     "dim_z": "12.00",
     "added_at": "2025-09-11T04:26:00.244Z",
-    "piece_count": 1093
+    "piece_count": 1093,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 1092,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Din Grogu / The Child / 'Baby Yoda'",
+        "quantity": 1
+      }
+    ]
   },
   "75321-1": {
     "no": "75321-1",
@@ -517,7 +1065,17 @@
     "dim_y": "12.20",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:26:00.388Z",
-    "piece_count": 103
+    "piece_count": 103,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 102,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack",
+        "quantity": 1
+      }
+    ]
   },
   "75327-1": {
     "no": "75327-1",
@@ -530,7 +1088,12 @@
     "dim_y": "35.30",
     "dim_z": "9.20",
     "added_at": "2025-09-11T04:26:00.531Z",
-    "piece_count": 699
+    "piece_count": 699,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 699,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75328-1": {
     "no": "75328-1",
@@ -543,7 +1106,12 @@
     "dim_y": "35.40",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:26:00.673Z",
-    "piece_count": 592
+    "piece_count": 592,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 592,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75332-1": {
     "no": "75332-1",
@@ -556,7 +1124,25 @@
     "dim_y": "19.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:26:00.816Z",
-    "piece_count": 81
+    "piece_count": 81,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 78,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Imperial AT-ST Driver - Helmet with Molded Goggles, Light Bluish Gray Jumpsuit, Plain Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Wicket &#40;Ewok&#41;, Printed Dark Orange Hood with Wrinkles",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Scout Trooper - Female, Dual Molded Helmet, Reddish Brown Head, Open Mouth Smirk",
+        "quantity": 1
+      }
+    ]
   },
   "75828-1": {
     "no": "75828-1",
@@ -569,7 +1155,37 @@
     "dim_y": "26.00",
     "dim_z": "5.50",
     "added_at": "2025-09-11T04:26:00.968Z",
-    "piece_count": 538
+    "piece_count": 538,
+    "category_name": "Ghostbusters",
+    "condition": "used",
+    "part_count": 532,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "Abby Yates - Proton Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Erin Gilbert - Proton Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Jillian Holtzmann - Proton Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Patty Tolan - Proton Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Kevin Beckman",
+        "quantity": 1
+      },
+      {
+        "name": "Mayhem",
+        "quantity": 1
+      }
+    ]
   },
   "75895-1": {
     "no": "75895-1",
@@ -582,7 +1198,17 @@
     "dim_y": "14.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:26:01.109Z",
-    "piece_count": 202
+    "piece_count": 202,
+    "category_name": "SPEED CHAMPIONS",
+    "condition": "used",
+    "part_count": 201,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "1974 Porsche 911 Turbo 3.0 Driver",
+        "quantity": 1
+      }
+    ]
   },
   "75901-1": {
     "no": "75901-1",
@@ -595,7 +1221,21 @@
     "dim_y": "19.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:26:01.252Z",
-    "piece_count": 135
+    "piece_count": 135,
+    "category_name": "Scooby-Doo",
+    "condition": "used",
+    "part_count": 133,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Shaggy Rogers - Closed Mouth",
+        "quantity": 1
+      },
+      {
+        "name": "Headless Horseman / Elwood Crane",
+        "quantity": 1
+      }
+    ]
   },
   "75902-1": {
     "no": "75902-1",
@@ -608,7 +1248,25 @@
     "dim_y": "26.50",
     "dim_z": "5.50",
     "added_at": "2025-09-11T04:26:01.393Z",
-    "piece_count": 333
+    "piece_count": 333,
+    "category_name": "Scooby-Doo",
+    "condition": "used",
+    "part_count": 330,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Shaggy Rogers - Open Mouth Grin",
+        "quantity": 1
+      },
+      {
+        "name": "Fred Jones",
+        "quantity": 1
+      },
+      {
+        "name": "Zombie / Zeke",
+        "quantity": 1
+      }
+    ]
   },
   "75917-1": {
     "no": "75917-1",
@@ -621,7 +1279,25 @@
     "dim_y": "26.00",
     "dim_z": "5.30",
     "added_at": "2025-09-11T04:26:01.535Z",
-    "piece_count": 349
+    "piece_count": 349,
+    "category_name": "Jurassic World",
+    "condition": "used",
+    "part_count": 346,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "ACU Trooper - Male, Dark Blue Cap, Light Nougat Head, Sand Blue Body Armor Vest",
+        "quantity": 1
+      },
+      {
+        "name": "Owen Grady - Leather Vest",
+        "quantity": 1
+      },
+      {
+        "name": "Claire Dearing - White Shirt Open",
+        "quantity": 1
+      }
+    ]
   },
   "76029-1": {
     "no": "76029-1",
@@ -634,7 +1310,25 @@
     "dim_y": "14.10",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:26:01.677Z",
-    "piece_count": 74
+    "piece_count": 74,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 70,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Iron Man - Mark 45 Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Ultron Sentry Officer",
+        "quantity": 1
+      },
+      {
+        "name": "Ultron Sentry",
+        "quantity": 2
+      }
+    ]
   },
   "76030-1": {
     "no": "76030-1",
@@ -647,7 +1341,25 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:26:01.819Z",
-    "piece_count": 244
+    "piece_count": 244,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 240,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Thor - Spongy Cape, Dark Blue Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Hydra Henchman - Chitauri Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Hawkeye - Black and Dark Red Suit, Reddish Brown Spiked Hair",
+        "quantity": 1
+      }
+    ]
   },
   "76031-1": {
     "no": "76031-1",
@@ -660,7 +1372,29 @@
     "dim_y": "26.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:26:01.961Z",
-    "piece_count": 244
+    "piece_count": 244,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 239,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Iron Man - Mark 43 Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Hulk - Giant, Dark Purple Pants with Avengers Logo",
+        "quantity": 1
+      },
+      {
+        "name": "The Scarlet Witch &#40;Wanda Maximoff&#41; - Printed Legs, Reddish Brown Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Ultron Prime",
+        "quantity": 1
+      }
+    ]
   },
   "76032-1": {
     "no": "76032-1",
@@ -673,7 +1407,33 @@
     "dim_y": "28.20",
     "dim_z": "7.80",
     "added_at": "2025-09-11T04:26:02.104Z",
-    "piece_count": 766
+    "piece_count": 766,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 760,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Iron Man - Mark 43 Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Captain America - Dark Blue Suit, Reddish Brown Hands, Mask",
+        "quantity": 1
+      },
+      {
+        "name": "Vision - Sand Green, Dark Azure Spot on Forehead",
+        "quantity": 1
+      },
+      {
+        "name": "Ultimate Ultron - Foot Repulsors",
+        "quantity": 1
+      },
+      {
+        "name": "Black Widow - Black Jumpsuit, Dark Orange Short Hair, Printed Legs, Dark Azure Trim",
+        "quantity": 1
+      }
+    ]
   },
   "76037-1": {
     "no": "76037-1",
@@ -686,7 +1446,29 @@
     "dim_y": "26.00",
     "dim_z": "5.50",
     "added_at": "2025-09-11T04:26:02.245Z",
-    "piece_count": 427
+    "piece_count": 427,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 422,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Sandman - Tan Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Rhino",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Spider - Bony Appendages",
+        "quantity": 1
+      },
+      {
+        "name": "Spider-Man - Black Web Pattern, Red Boots",
+        "quantity": 1
+      }
+    ]
   },
   "76038-1": {
     "no": "76038-1",
@@ -699,7 +1481,29 @@
     "dim_y": "37.80",
     "dim_z": "7.05",
     "added_at": "2025-09-11T04:26:02.464Z",
-    "piece_count": 548
+    "piece_count": 548,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 542,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Iron Man - Mark 43 Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Legion - Trans-Neon Orange Head, Helmet with Visor",
+        "quantity": 2
+      },
+      {
+        "name": "Ultron MK1 - Trans-Clear Head",
+        "quantity": 1
+      },
+      {
+        "name": "Thor - Spongy Cape, Dark Blue Legs",
+        "quantity": 1
+      }
+    ]
   },
   "76041-1": {
     "no": "76041-1",
@@ -712,7 +1516,33 @@
     "dim_y": "26.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:26:02.686Z",
-    "piece_count": 421
+    "piece_count": 421,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 416,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Hydra Henchman - Chitauri Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Hulk - Giant, Dark Purple Pants with Avengers Logo",
+        "quantity": 1
+      },
+      {
+        "name": "Captain America - Dark Blue Suit, Reddish Brown Hands, Mask",
+        "quantity": 1
+      },
+      {
+        "name": "Quicksilver",
+        "quantity": 1
+      },
+      {
+        "name": "Baron Von Strucker",
+        "quantity": 1
+      }
+    ]
   },
   "76049-1": {
     "no": "76049-1",
@@ -725,7 +1555,33 @@
     "dim_y": "26.00",
     "dim_z": "5.50",
     "added_at": "2025-09-11T04:26:03.112Z",
-    "piece_count": 542
+    "piece_count": 542,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 536,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Captain Marvel - Red Sash",
+        "quantity": 1
+      },
+      {
+        "name": "Hyperion",
+        "quantity": 1
+      },
+      {
+        "name": "Space Captain America",
+        "quantity": 1
+      },
+      {
+        "name": "Space Iron Man",
+        "quantity": 1
+      },
+      {
+        "name": "Thanos - Large Figure, Dark Blue and Pearl Gold Outfit, Arms, and Helmet",
+        "quantity": 1
+      }
+    ]
   },
   "76058-1": {
     "no": "76058-1",
@@ -738,7 +1594,25 @@
     "dim_y": "19.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:26:03.294Z",
-    "piece_count": 234
+    "piece_count": 234,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 230,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Spider-Man - Black Web Pattern",
+        "quantity": 1
+      },
+      {
+        "name": "Ghost Rider, Johnathon &#39;Johnny&#39; Blaze - White Head, Chain Belt",
+        "quantity": 1
+      },
+      {
+        "name": "Hobgoblin - Starched Fabric Cape",
+        "quantity": 1
+      }
+    ]
   },
   "76060-1": {
     "no": "76060-1",
@@ -751,7 +1625,25 @@
     "dim_y": "19.00",
     "dim_z": "5.80",
     "added_at": "2025-09-11T04:26:03.611Z",
-    "piece_count": 377
+    "piece_count": 377,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 374,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Doctor Strange - Necklace, Cloth Starched Cape and Collar",
+        "quantity": 1
+      },
+      {
+        "name": "Karl Mordo - Dark Green Vest",
+        "quantity": 1
+      },
+      {
+        "name": "The Ancient One",
+        "quantity": 1
+      }
+    ]
   },
   "76070-1": {
     "no": "76070-1",
@@ -764,7 +1656,21 @@
     "dim_y": "14.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:26:03.827Z",
-    "piece_count": 91
+    "piece_count": 91,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 89,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Wonder Woman - Gold Tiara, Short Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Doomsday - Short Legs",
+        "quantity": 1
+      }
+    ]
   },
   "76080-1": {
     "no": "76080-1",
@@ -777,7 +1683,29 @@
     "dim_y": "19.10",
     "dim_z": "5.90",
     "added_at": "2025-09-11T04:26:04.122Z",
-    "piece_count": 334
+    "piece_count": 334,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 329,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Ayesha",
+        "quantity": 1
+      },
+      {
+        "name": "Yondu",
+        "quantity": 1
+      },
+      {
+        "name": "Star-Lord - Jet Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Groot - Baby, Reddish Brown with Dark Red Outfit",
+        "quantity": 1
+      }
+    ]
   },
   "76081-1": {
     "no": "76081-1",
@@ -790,7 +1718,33 @@
     "dim_y": "26.20",
     "dim_z": "5.65",
     "added_at": "2025-09-11T04:26:04.338Z",
-    "piece_count": 483
+    "piece_count": 483,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 477,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Star-Lord - Silver Armor, Jet Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Nebula - Dark Azure Head, Torn Outfit",
+        "quantity": 1
+      },
+      {
+        "name": "Drax - Dark Blue Legs, Jet Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Gamora - Silver Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Groot - Baby, Reddish Brown",
+        "quantity": 1
+      }
+    ]
   },
   "76085-1": {
     "no": "76085-1",
@@ -803,7 +1757,29 @@
     "dim_y": "19.00",
     "dim_z": "4.20",
     "added_at": "2025-09-11T04:26:04.664Z",
-    "piece_count": 201
+    "piece_count": 201,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 197,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Aquaman - Dark Brown Long Hair, Dark Green Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Atlantean Guard - Angry Expression",
+        "quantity": 1
+      },
+      {
+        "name": "Parademon - Bright Light Orange, Extended Wings",
+        "quantity": 1
+      },
+      {
+        "name": "Atlantean Guard - Scared Expression",
+        "quantity": 1
+      }
+    ]
   },
   "76108-1": {
     "no": "76108-1",
@@ -816,7 +1792,33 @@
     "dim_y": "37.80",
     "dim_z": "9.40",
     "added_at": "2025-09-11T04:26:04.879Z",
-    "piece_count": 1049
+    "piece_count": 1049,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 1044,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Cull Obsidian",
+        "quantity": 1
+      },
+      {
+        "name": "Ebony Maw - Light Aqua Head",
+        "quantity": 1
+      },
+      {
+        "name": "Doctor Strange - Necklace, Cloth Spongy Cape and Starched Collar",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Spider-Man - Mechanical Arms with Barbs",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Man - Mark 50 Armor, Small Helmet Visor",
+        "quantity": 1
+      }
+    ]
   },
   "76115-1": {
     "no": "76115-1",
@@ -829,7 +1831,29 @@
     "dim_y": "26.00",
     "dim_z": "6.80",
     "added_at": "2025-09-11T04:26:05.174Z",
-    "piece_count": 637
+    "piece_count": 637,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 633,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Spider-Man - Metallic Light Blue Eye Highlights",
+        "quantity": 1
+      },
+      {
+        "name": "Venom - Teeth Parted",
+        "quantity": 1
+      },
+      {
+        "name": "Ghost-Spider / Spider-Gwen &#40;Gwen Stacy&#41; - Black Legs, White Hood",
+        "quantity": 1
+      },
+      {
+        "name": "Aunt May",
+        "quantity": 1
+      }
+    ]
   },
   "76119-1": {
     "no": "76119-1",
@@ -842,7 +1866,21 @@
     "dim_y": "19.00",
     "dim_z": "6.50",
     "added_at": "2025-09-11T04:26:05.388Z",
-    "piece_count": 360
+    "piece_count": 360,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 358,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Batman - Dark Bluish Gray Suit with Gold Outline Belt and Crest, Mask and Cape &#40;Type 3 Cowl, Teardrop Neck Cut Spongy Cape&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "The Joker - Orange Bow Tie, Green Arms",
+        "quantity": 1
+      }
+    ]
   },
   "76123-1": {
     "no": "76123-1",
@@ -855,7 +1893,25 @@
     "dim_y": "19.10",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:26:05.569Z",
-    "piece_count": 155
+    "piece_count": 155,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 151,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Captain America - White Jumpsuit, Helmet",
+        "quantity": 1
+      },
+      {
+        "name": "Outrider - Extended Claws",
+        "quantity": 2
+      },
+      {
+        "name": "Outrider - Shoulder Armor Pad",
+        "quantity": 1
+      }
+    ]
   },
   "76140-1": {
     "no": "76140-1",
@@ -868,7 +1924,17 @@
     "dim_y": "14.10",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:26:05.748Z",
-    "piece_count": 160
+    "piece_count": 160,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 159,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Iron Man - Silver Hexagon on Chest",
+        "quantity": 1
+      }
+    ]
   },
   "76141-1": {
     "no": "76141-1",
@@ -881,7 +1947,17 @@
     "dim_y": "14.10",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:26:05.932Z",
-    "piece_count": 167
+    "piece_count": 167,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 166,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Thanos - Minifigure, Dark Blue and Gold Outfit, Printed Legs",
+        "quantity": 1
+      }
+    ]
   },
   "76142-1": {
     "no": "76142-1",
@@ -894,7 +1970,25 @@
     "dim_y": "19.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:26:06.223Z",
-    "piece_count": 241
+    "piece_count": 241,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 238,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Black Panther - Collar",
+        "quantity": 1
+      },
+      {
+        "name": "Thor - Spongy Cape, Pearl Dark Gray Legs",
+        "quantity": 1
+      },
+      {
+        "name": "AIM Agent - Backpack and Pins with Tow Ball",
+        "quantity": 1
+      }
+    ]
   },
   "76146-1": {
     "no": "76146-1",
@@ -907,7 +2001,17 @@
     "dim_y": "14.10",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:26:06.440Z",
-    "piece_count": 164
+    "piece_count": 164,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 163,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Spider-Man - Dark Red Web Pattern, Blue Legs",
+        "quantity": 1
+      }
+    ]
   },
   "76150-1": {
     "no": "76150-1",
@@ -920,7 +2024,29 @@
     "dim_y": "19.10",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:26:06.578Z",
-    "piece_count": 386
+    "piece_count": 386,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 382,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Spider-Man - Metallic Light Blue Eye Highlights",
+        "quantity": 1
+      },
+      {
+        "name": "Venom - Teeth Parted",
+        "quantity": 1
+      },
+      {
+        "name": "Spider-Man Noir - Shirt Tail",
+        "quantity": 1
+      },
+      {
+        "name": "Spider-Man Noir - No Shirt Tail",
+        "quantity": 1
+      }
+    ]
   },
   "76162-1": {
     "no": "76162-1",
@@ -933,7 +2059,25 @@
     "dim_y": "18.90",
     "dim_z": "6.70",
     "added_at": "2025-09-11T04:26:06.717Z",
-    "piece_count": 303
+    "piece_count": 303,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 300,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Black Widow - Black Jumpsuit, Dark Orange Mid-Length Hair, Printed Legs, Dark Bluish Gray Hands",
+        "quantity": 1
+      },
+      {
+        "name": "Yelena Belova",
+        "quantity": 1
+      },
+      {
+        "name": "Taskmaster - Black Hood",
+        "quantity": 1
+      }
+    ]
   },
   "76171-1": {
     "no": "76171-1",
@@ -946,7 +2090,17 @@
     "dim_y": "15.72",
     "dim_z": "4.44",
     "added_at": "2025-09-11T04:26:06.891Z",
-    "piece_count": 132
+    "piece_count": 132,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 131,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Spider-Man &#40;Miles Morales&#41; - Dark Red Hood, Black Lower Legs",
+        "quantity": 1
+      }
+    ]
   },
   "76172-1": {
     "no": "76172-1",
@@ -959,7 +2113,21 @@
     "dim_y": "12.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:26:07.031Z",
-    "piece_count": 45
+    "piece_count": 45,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 43,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Spider-Man - Printed Blue Arms, Plain Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Sandman - Green Outfit, Tan Sand Form with Swirling Base",
+        "quantity": 1
+      }
+    ]
   },
   "76173-1": {
     "no": "76173-1",
@@ -972,7 +2140,25 @@
     "dim_y": "18.90",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:26:07.171Z",
-    "piece_count": 213
+    "piece_count": 213,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 210,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Ghost Rider, Roberto &#39;Robbie&#39; Reyes - Flat Silver Head",
+        "quantity": 1
+      },
+      {
+        "name": "Carnage - Medium Appendages",
+        "quantity": 1
+      },
+      {
+        "name": "Spider-Man - Printed Blue Arms, Plain Legs",
+        "quantity": 1
+      }
+    ]
   },
   "76177-1": {
     "no": "76177-1",
@@ -985,7 +2171,29 @@
     "dim_y": "26.20",
     "dim_z": "6.20",
     "added_at": "2025-09-11T04:26:07.311Z",
-    "piece_count": 414
+    "piece_count": 414,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 410,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Shang-Chi",
+        "quantity": 1
+      },
+      {
+        "name": "Wenwu &#40;The Mandarin&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Xialing",
+        "quantity": 1
+      },
+      {
+        "name": "Death Dealer",
+        "quantity": 1
+      }
+    ]
   },
   "76188-1": {
     "no": "76188-1",
@@ -998,7 +2206,21 @@
     "dim_y": "18.80",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:26:07.453Z",
-    "piece_count": 364
+    "piece_count": 364,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 362,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Batman - Classic TV Series, Goggles and Light Bluish Gray Torso",
+        "quantity": 1
+      },
+      {
+        "name": "The Joker - Dark Pink Suit, Open Mouth Grin / Closed Mouth",
+        "quantity": 1
+      }
+    ]
   },
   "76202-1": {
     "no": "76202-1",
@@ -1011,7 +2233,17 @@
     "dim_y": "15.50",
     "dim_z": "4.40",
     "added_at": "2025-09-11T04:26:07.593Z",
-    "piece_count": 144
+    "piece_count": 144,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 143,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Wolverine - Bright Light Orange and Black Mask, Blue Hands",
+        "quantity": 1
+      }
+    ]
   },
   "76217-1": {
     "no": "76217-1",
@@ -1024,7 +2256,12 @@
     "dim_y": "35.30",
     "dim_z": "7.30",
     "added_at": "2025-09-11T04:26:07.735Z",
-    "piece_count": 497
+    "piece_count": 497,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 497,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "76388-1": {
     "no": "76388-1",
@@ -1037,7 +2274,41 @@
     "dim_y": "28.20",
     "dim_z": "7.40",
     "added_at": "2025-09-11T04:26:07.877Z",
-    "piece_count": 949
+    "piece_count": 949,
+    "category_name": "Harry Potter",
+    "condition": "used",
+    "part_count": 942,
+    "minifig_count": 7,
+    "minifigs": [
+      {
+        "name": "Dean Thomas - Medium Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Harry Potter - Dark Blue Open Jacket over Sand Blue Shirt, Black Medium Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Madam Rosmerta - Black Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Mr. Flume",
+        "quantity": 1
+      },
+      {
+        "name": "Mrs. Flume - Dark Pink Shawl",
+        "quantity": 1
+      },
+      {
+        "name": "Professor Minerva McGonagall - Dark Green Robe over Dark Blue Dress, Dark Tan Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Ron Weasley - 20th Anniversary Pearl Gold",
+        "quantity": 1
+      }
+    ]
   },
   "76830-1": {
     "no": "76830-1",
@@ -1050,7 +2321,21 @@
     "dim_y": "14.00",
     "dim_z": "4.30",
     "added_at": "2025-09-11T04:26:08.018Z",
-    "piece_count": 81
+    "piece_count": 81,
+    "category_name": "Lightyear",
+    "condition": "used",
+    "part_count": 79,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Buzz Lightyear - Star Command Suit, Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Izzy Hawthorne",
+        "quantity": 1
+      }
+    ]
   },
   "76897-1": {
     "no": "76897-1",
@@ -1063,7 +2348,17 @@
     "dim_y": "14.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:26:08.198Z",
-    "piece_count": 292
+    "piece_count": 292,
+    "category_name": "SPEED CHAMPIONS",
+    "condition": "used",
+    "part_count": 291,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "1985 Audi Sport quattro S1 Driver",
+        "quantity": 1
+      }
+    ]
   },
   "76911-1": {
     "no": "76911-1",
@@ -1076,7 +2371,17 @@
     "dim_y": "14.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:26:08.340Z",
-    "piece_count": 333
+    "piece_count": 333,
+    "category_name": "SPEED CHAMPIONS",
+    "condition": "used",
+    "part_count": 332,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "James Bond - Black Tuxedo &#40;No Time To Die&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "76912-1": {
     "no": "76912-1",
@@ -1089,7 +2394,17 @@
     "dim_y": "14.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:26:08.482Z",
-    "piece_count": 368
+    "piece_count": 368,
+    "category_name": "SPEED CHAMPIONS",
+    "condition": "used",
+    "part_count": 367,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Dominic Toretto",
+        "quantity": 1
+      }
+    ]
   },
   "77906-1": {
     "no": "77906-1",
@@ -1102,7 +2417,25 @@
     "dim_y": "26.00",
     "dim_z": "5.50",
     "added_at": "2025-09-11T04:26:08.625Z",
-    "piece_count": 253
+    "piece_count": 253,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 250,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Wonder Woman, DC Super Heroes &#40;Minifigure Only without Stand and Accessories&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Cheetah, DC Super Heroes &#40;Minifigure Only without Stand and Accessories&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Etta Candy",
+        "quantity": 1
+      }
+    ]
   },
   "1547-1": {
     "no": "1547-1",
@@ -1115,7 +2448,21 @@
     "dim_y": "0.00",
     "dim_z": "0.00",
     "added_at": "2025-09-11T04:27:00.688Z",
-    "piece_count": 55
+    "piece_count": 55,
+    "category_name": "Castle",
+    "condition": "used",
+    "part_count": 53,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Scale Mail - Red with Black Arms, Light Gray Legs with Black Hips, Dark Gray Chin-Guard",
+        "quantity": 1
+      },
+      {
+        "name": "Breastplate - Black, Light Gray Legs with Black Hips, Dark Gray Grille Helmet, Red Plastic Cape",
+        "quantity": 1
+      }
+    ]
   },
   "6048-1": {
     "no": "6048-1",
@@ -1128,7 +2475,21 @@
     "dim_y": "19.00",
     "dim_z": "5.80",
     "added_at": "2025-09-11T04:27:00.859Z",
-    "piece_count": 182
+    "piece_count": 182,
+    "category_name": "Castle",
+    "condition": "used",
+    "part_count": 180,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Dragon Knights - Knight 2, Black Legs with Red Hips, Black Dragon Helmet, Blue Plumes",
+        "quantity": 1
+      },
+      {
+        "name": "Majisto Wizard - Black Plastic Cape",
+        "quantity": 1
+      }
+    ]
   },
   "6057-1": {
     "no": "6057-1",
@@ -1141,7 +2502,33 @@
     "dim_y": "14.30",
     "dim_z": "5.80",
     "added_at": "2025-09-11T04:27:01.004Z",
-    "piece_count": 111
+    "piece_count": 111,
+    "category_name": "Castle",
+    "condition": "used",
+    "part_count": 106,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Black Falcon - Light Gray Legs with Black Hips, Dark Gray Chin-Guard",
+        "quantity": 1
+      },
+      {
+        "name": "Black Falcon - Light Gray Legs with Black Hips, Black Neck-Protector",
+        "quantity": 1
+      },
+      {
+        "name": "Scale Mail - Red with Blue Arms, Black Legs with Red Hips, Dark Gray Neck-Protector",
+        "quantity": 1
+      },
+      {
+        "name": "Scale Mail - Red with Black Arms, Light Gray Legs with Black Hips, Dark Gray Neck-Protector",
+        "quantity": 1
+      },
+      {
+        "name": "Breastplate - Black, Black Legs with Red Hips, Black Neck-Protector, Red Plastic Cape",
+        "quantity": 1
+      }
+    ]
   },
   "6075-1": {
     "no": "6075-1",
@@ -1154,7 +2541,25 @@
     "dim_y": "29.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:01.149Z",
-    "piece_count": 225
+    "piece_count": 225,
+    "category_name": "Castle",
+    "condition": "used",
+    "part_count": 221,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Ghost with 1 x 2 Plate and 1 x 2 Brick as Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Wolfpack - Eye Patch, Brown Arms and Black Legs, Black Hood and Cape",
+        "quantity": 1
+      },
+      {
+        "name": "Wolfpack - Moustache, Black Arms and Light Gray Legs, Brown Hood and Red Cape",
+        "quantity": 2
+      }
+    ]
   },
   "6082-1": {
     "no": "6082-1",
@@ -1167,7 +2572,33 @@
     "dim_y": "28.50",
     "dim_z": "9.50",
     "added_at": "2025-09-11T04:27:01.293Z",
-    "piece_count": 390
+    "piece_count": 390,
+    "category_name": "Castle",
+    "condition": "used",
+    "part_count": 383,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "Dragon Knights - Knight 1, Light Gray Legs with Black Hips, Black Neck-Protector",
+        "quantity": 2
+      },
+      {
+        "name": "Dragon Knights - Dragon Master, Yellow Plumes, Dragon Cape",
+        "quantity": 1
+      },
+      {
+        "name": "Majisto Wizard - Black Plastic Cape",
+        "quantity": 1
+      },
+      {
+        "name": "Dragon Knights - Knight 1, Light Gray Legs with Black Hips, Black Chin-Guard, Quiver",
+        "quantity": 1
+      },
+      {
+        "name": "Wolfpack - Eye Patch, Brown Arms and Black Legs, Black Hood, no Cape",
+        "quantity": 1
+      }
+    ]
   },
   "6254-1": {
     "no": "6254-1",
@@ -1180,7 +2611,25 @@
     "dim_y": "14.40",
     "dim_z": "5.70",
     "added_at": "2025-09-11T04:27:01.440Z",
-    "piece_count": 96
+    "piece_count": 96,
+    "category_name": "Pirates",
+    "condition": "used",
+    "part_count": 93,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Pirate Blue Jacket, Light Gray Legs, Black Pirate Triangle Hat",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate Red / White Stripes Shirt, Blue Legs, Red Bandana",
+        "quantity": 1
+      },
+      {
+        "name": "Skeleton - Standard Skull, Floppy Arms",
+        "quantity": 1
+      }
+    ]
   },
   "6261-1": {
     "no": "6261-1",
@@ -1193,7 +2642,25 @@
     "dim_y": "14.50",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:27:01.583Z",
-    "piece_count": 77
+    "piece_count": 77,
+    "category_name": "Pirates",
+    "condition": "used",
+    "part_count": 74,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Pirate Red / White Stripes Shirt, Black Leg with Peg Leg, Black Pirate Triangle Hat",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate Blue / White Stripes Shirt, Light Gray Legs, Red Bandana",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate Shirt with Knife, Black Legs, Black Pirate Hat with Skull",
+        "quantity": 1
+      }
+    ]
   },
   "6262-1": {
     "no": "6262-1",
@@ -1206,7 +2673,29 @@
     "dim_y": "19.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:27:01.769Z",
-    "piece_count": 133
+    "piece_count": 133,
+    "category_name": "Pirates",
+    "condition": "used",
+    "part_count": 128,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Pirate Blue Jacket, Light Gray Legs, Brown Pirate Triangle Hat",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate Red / Black Stripes Shirt, Black Legs, Blue Bandana",
+        "quantity": 1
+      },
+      {
+        "name": "Islander, King Kahuka",
+        "quantity": 1
+      },
+      {
+        "name": "Islander, Male",
+        "quantity": 2
+      }
+    ]
   },
   "6599-1": {
     "no": "6599-1",
@@ -1219,7 +2708,21 @@
     "dim_y": "12.00",
     "dim_z": "24.00",
     "added_at": "2025-09-11T04:27:01.932Z",
-    "piece_count": 60
+    "piece_count": 60,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 58,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Divers - Control 2, Red Legs, Black Cap, Glasses and Headset",
+        "quantity": 1
+      },
+      {
+        "name": "Divers - Red Diver 2, Red Legs with Black Hips, Black Helmet, Brown Bangs, Stubble",
+        "quantity": 1
+      }
+    ]
   },
   "565-1": {
     "no": "565-1",
@@ -1232,7 +2735,12 @@
     "dim_y": "20.00",
     "dim_z": "5.00",
     "added_at": "2025-09-11T04:27:02.085Z",
-    "piece_count": 372
+    "piece_count": 372,
+    "category_name": "LEGOLAND",
+    "condition": "used",
+    "part_count": 372,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "7470-1": {
     "no": "7470-1",
@@ -1245,7 +2753,12 @@
     "dim_y": "28.50",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:02.230Z",
-    "piece_count": 847
+    "piece_count": 847,
+    "category_name": "Discovery",
+    "condition": "used",
+    "part_count": 846,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "8089-1": {
     "no": "8089-1",
@@ -1258,7 +2771,25 @@
     "dim_y": "26.00",
     "dim_z": "5.60",
     "added_at": "2025-09-11T04:27:02.372Z",
-    "piece_count": 305
+    "piece_count": 305,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 302,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Skeleton, Fantasy Era Torso with Standard Skull, Mechanical Arms Straight",
+        "quantity": 1
+      },
+      {
+        "name": "Zev Senesca",
+        "quantity": 1
+      },
+      {
+        "name": "Luke Skywalker (Hoth)",
+        "quantity": 1
+      }
+    ]
   },
   "9493-1": {
     "no": "9493-1",
@@ -1271,7 +2802,29 @@
     "dim_y": "28.20",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:27:02.675Z",
-    "piece_count": 592
+    "piece_count": 592,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 588,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Astromech Droid, R2-D2, Light Bluish Gray Head",
+        "quantity": 1
+      },
+      {
+        "name": "Luke Skywalker - Light Nougat, X-wing Pilot Suit, Detailed Torso and Helmet",
+        "quantity": 1
+      },
+      {
+        "name": "Jek Porkins",
+        "quantity": 1
+      },
+      {
+        "name": "Astromech Droid, R5-D8 / R5-D4 - Truncated Cone Head, Blue Center Panel",
+        "quantity": 1
+      }
+    ]
   },
   "76023-1": {
     "no": "76023-1",
@@ -1284,7 +2837,21 @@
     "dim_y": "47.50",
     "dim_z": "12.00",
     "added_at": "2025-09-11T04:27:02.955Z",
-    "piece_count": 1928
+    "piece_count": 1928,
+    "category_name": "Super Heroes",
+    "condition": "new",
+    "part_count": 1926,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Batman - Black Suit with Copper Belt &#40;Type 2 Cowl&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "The Joker - Dark Purple Suit, Green Vest, Green Hair",
+        "quantity": 1
+      }
+    ]
   },
   "10696-1": {
     "no": "10696-1",
@@ -1297,7 +2864,12 @@
     "dim_y": "17.80",
     "dim_z": "16.80",
     "added_at": "2025-09-11T04:27:03.254Z",
-    "piece_count": 526
+    "piece_count": 526,
+    "category_name": "Classic",
+    "condition": "used",
+    "part_count": 526,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "40158-1": {
     "no": "40158-1",
@@ -1310,7 +2882,73 @@
     "dim_y": "28.00",
     "dim_z": "7.50",
     "added_at": "2025-09-11T04:27:03.611Z",
-    "piece_count": 809
+    "piece_count": 809,
+    "category_name": "Pirates",
+    "condition": "used",
+    "part_count": 787,
+    "minifig_count": 22,
+    "minifigs": [
+      {
+        "name": "Pirate 3 - Black and Red Stripes, Blue Legs, Scar",
+        "quantity": 2
+      },
+      {
+        "name": "Pirate 5 - Black and Red Stripes, Red Legs, Scar",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate 6 - Black and Red Stripes, Black Legs, Scar",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate 8 - Red and White Stripes, Black Legs, Scowl",
+        "quantity": 2
+      },
+      {
+        "name": "Pirate 9 - Red and White Stripes, Blue Legs, Scowl",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate Chess King",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate Chess Queen",
+        "quantity": 1
+      },
+      {
+        "name": "Bluecoat Soldier 5 - Sweat Drops, Reddish Brown Hair",
+        "quantity": 4
+      },
+      {
+        "name": "Bluecoat Soldier 6 - Cheek Lines, Black Hair",
+        "quantity": 3
+      },
+      {
+        "name": "Chess King",
+        "quantity": 1
+      },
+      {
+        "name": "Chess Queen",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate 7 - Black and Red Stripes, Red Legs, Scared, Black Crow&#39;s Feet",
+        "quantity": 1
+      },
+      {
+        "name": "Pirate 7 - Black and Red Stripes, Red Legs, Scared, Brown Crow&#39;s Feet",
+        "quantity": 1
+      },
+      {
+        "name": "Bluecoat Soldier 7 - Tousled Hair &#40;Head 4549620&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Bluecoat Soldier 7 - Tousled Hair &#40;Head 6123714&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "21028-1": {
     "no": "21028-1",
@@ -1323,7 +2961,12 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:03.972Z",
-    "piece_count": 610
+    "piece_count": 610,
+    "category_name": "Architecture",
+    "condition": "used",
+    "part_count": 610,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "21124-1": {
     "no": "21124-1",
@@ -1336,7 +2979,21 @@
     "dim_y": "26.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:04.154Z",
-    "piece_count": 553
+    "piece_count": 553,
+    "category_name": "Minecraft",
+    "condition": "used",
+    "part_count": 550,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Steve &#40;Light Nougat&#41; - Medium Azure Legs, Helmet and Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Enderman - Light Bluish Gray Block",
+        "quantity": 2
+      }
+    ]
   },
   "10810-1": {
     "no": "10810-1",
@@ -1349,7 +3006,21 @@
     "dim_y": "27.00",
     "dim_z": "13.00",
     "added_at": "2025-09-11T04:27:04.334Z",
-    "piece_count": 45
+    "piece_count": 45,
+    "category_name": "DUPLO",
+    "condition": "used",
+    "part_count": 43,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Duplo Figure Lego Ville, Male, Medium Blue Legs, Tan Top with Medium Blue Overalls, Bandana, Red Cap",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Female, Medium Blue Legs, Red Sweater with Diamond Pattern, Reddish Brown Hair, Blue Eyes",
+        "quantity": 1
+      }
+    ]
   },
   "10254-1": {
     "no": "10254-1",
@@ -1362,7 +3033,33 @@
     "dim_y": "28.00",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:27:04.515Z",
-    "piece_count": 775
+    "piece_count": 775,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 770,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Winter Holiday Train Girl",
+        "quantity": 1
+      },
+      {
+        "name": "Winter Holiday Train Boy",
+        "quantity": 1
+      },
+      {
+        "name": "Winter Holiday Train Grandmother",
+        "quantity": 1
+      },
+      {
+        "name": "Winter Holiday Train Locomotive Driver",
+        "quantity": 1
+      },
+      {
+        "name": "Winter Holiday Train Ticket Collector",
+        "quantity": 1
+      }
+    ]
   },
   "21033-1": {
     "no": "21033-1",
@@ -1375,7 +3072,12 @@
     "dim_y": "26.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:04.697Z",
-    "piece_count": 463
+    "piece_count": 463,
+    "category_name": "Architecture",
+    "condition": "used",
+    "part_count": 463,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "21034-1": {
     "no": "21034-1",
@@ -1388,7 +3090,12 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:04.877Z",
-    "piece_count": 486
+    "piece_count": 486,
+    "category_name": "Architecture",
+    "condition": "used",
+    "part_count": 486,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "21309-1": {
     "no": "21309-1",
@@ -1401,7 +3108,12 @@
     "dim_y": "47.50",
     "dim_z": "10.70",
     "added_at": "2025-09-11T04:27:05.171Z",
-    "piece_count": 1997
+    "piece_count": 1997,
+    "category_name": "LEGO Ideas &#40;CUUSOO&#41;",
+    "condition": "used",
+    "part_count": 1997,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "21312-1": {
     "no": "21312-1",
@@ -1414,7 +3126,29 @@
     "dim_y": "19.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:27:05.391Z",
-    "piece_count": 232
+    "piece_count": 232,
+    "category_name": "LEGO Ideas &#40;CUUSOO&#41;",
+    "condition": "used",
+    "part_count": 228,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Mae Jemison",
+        "quantity": 1
+      },
+      {
+        "name": "Margaret Hamilton",
+        "quantity": 1
+      },
+      {
+        "name": "Nancy G. Roman",
+        "quantity": 1
+      },
+      {
+        "name": "Sally Ride",
+        "quantity": 1
+      }
+    ]
   },
   "21141-1": {
     "no": "21141-1",
@@ -1427,7 +3161,25 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:05.567Z",
-    "piece_count": 248
+    "piece_count": 248,
+    "category_name": "Minecraft",
+    "condition": "used",
+    "part_count": 245,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Zombie - Dark Purple Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Steve &#40;Light Nougat&#41; - Dark Purple Legs, Flat Silver Helmet",
+        "quantity": 1
+      },
+      {
+        "name": "Baby Zombie - Printed Torso",
+        "quantity": 1
+      }
+    ]
   },
   "10871-1": {
     "no": "10871-1",
@@ -1440,7 +3192,25 @@
     "dim_y": "26.20",
     "dim_z": "11.80",
     "added_at": "2025-09-11T04:27:05.748Z",
-    "piece_count": 29
+    "piece_count": 29,
+    "category_name": "DUPLO",
+    "condition": "used",
+    "part_count": 26,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Duplo Figure Lego Ville, Child Boy, Blue Legs, Red Top with Zipper and Pockets, Reddish Brown Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Female Pilot, Dark Blue Legs, Medium Azure Top with Red Tie, Black Hair &#40;6273387&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Male, Dark Bluish Gray Legs, Dark Azure Jacket, Black Shirt, Reddish Brown Hair",
+        "quantity": 1
+      }
+    ]
   },
   "66591-1": {
     "no": "66591-1",
@@ -1453,7 +3223,12 @@
     "dim_y": "12.50",
     "dim_z": "9.50",
     "added_at": "2025-09-11T04:27:05.932Z",
-    "piece_count": 2
+    "piece_count": 2,
+    "category_name": "BrickHeadz",
+    "condition": "used",
+    "part_count": 0,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "60206-1": {
     "no": "60206-1",
@@ -1466,7 +3241,21 @@
     "dim_y": "14.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:27:06.220Z",
-    "piece_count": 53
+    "piece_count": 53,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 51,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Sky Police - Jet Pilot",
+        "quantity": 1
+      },
+      {
+        "name": "Sky Police - Jail Prisoner 50380 Prison Stripes, Stubble, Dark Red Knit Cap",
+        "quantity": 1
+      }
+    ]
   },
   "21043-1": {
     "no": "21043-1",
@@ -1479,7 +3268,12 @@
     "dim_y": "18.50",
     "dim_z": "5.60",
     "added_at": "2025-09-11T04:27:06.439Z",
-    "piece_count": 595
+    "piece_count": 595,
+    "category_name": "Architecture",
+    "condition": "used",
+    "part_count": 595,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75244-1": {
     "no": "75244-1",
@@ -1492,7 +3286,37 @@
     "dim_y": "38.00",
     "dim_z": "10.00",
     "added_at": "2025-09-11T04:27:06.577Z",
-    "piece_count": 1810
+    "piece_count": 1810,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 1804,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "C-3PO - Colorful Wires, Printed Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Astromech Droid, R2-D2 - Flat Silver Head, Lavender Dots and Small Receptor",
+        "quantity": 1
+      },
+      {
+        "name": "Rebel Fleet Trooper - Male, Vest with Pockets, Light Nougat Neck",
+        "quantity": 1
+      },
+      {
+        "name": "Captain Antilles - Dark Tan Shirt, Small Rank Badge",
+        "quantity": 1
+      },
+      {
+        "name": "Princess Leia &#40;White Dress, Detailed Belt, Skirt Part&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Bail Organa - Olive Green Cloak",
+        "quantity": 1
+      }
+    ]
   },
   "40333-1": {
     "no": "40333-1",
@@ -1505,7 +3329,12 @@
     "dim_y": "13.90",
     "dim_z": "4.40",
     "added_at": "2025-09-11T04:27:06.719Z",
-    "piece_count": 207
+    "piece_count": 207,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 207,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "60224-1": {
     "no": "60224-1",
@@ -1518,7 +3347,21 @@
     "dim_y": "14.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:06.860Z",
-    "piece_count": 88
+    "piece_count": 88,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 86,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black and Dark Tan Eyebrows",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black Eyebrows",
+        "quantity": 1
+      }
+    ]
   },
   "60225-1": {
     "no": "60225-1",
@@ -1531,7 +3374,21 @@
     "dim_y": "19.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:27:07.001Z",
-    "piece_count": 211
+    "piece_count": 211,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 209,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Ground Crew Technician - Female, Dark Blue Jumpsuit, White Construction Helmet with Dark Brown Ponytail Hair, Light Blue Goggles",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Stubble, Moustache and Sideburns",
+        "quantity": 1
+      }
+    ]
   },
   "60226-1": {
     "no": "60226-1",
@@ -1544,7 +3401,21 @@
     "dim_y": "26.20",
     "dim_z": "7.60",
     "added_at": "2025-09-11T04:27:07.144Z",
-    "piece_count": 291
+    "piece_count": 291,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 289,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Black Angular Beard",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Female, White Spacesuit with Orange Lines, Closed Mouth Smile",
+        "quantity": 1
+      }
+    ]
   },
   "60227-1": {
     "no": "60227-1",
@@ -1557,7 +3428,37 @@
     "dim_y": "28.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:07.283Z",
-    "piece_count": 417
+    "piece_count": 417,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 411,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "City Space Robot, Drone, Medium Azure Eyes",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Female, Blue Jumpsuit, Tan Hair Tousled with Side Part, Freckles, Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, Blue Jumpsuit, Dark Bluish Gray Hair and Full Angular Beard, Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black and Dark Tan Eyebrows",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black Eyebrows",
+        "quantity": 1
+      }
+    ]
   },
   "60230-1": {
     "no": "60230-1",
@@ -1570,7 +3471,73 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:07.422Z",
-    "piece_count": 167
+    "piece_count": 167,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 152,
+    "minifig_count": 15,
+    "minifigs": [
+      {
+        "name": "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Freckles with Smirk and Winking",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, Bright Light Blue Spacesuit with Blue Belt, Trans-Orange Visor, Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Drone Engineer - White Safety Jumpsuit, Red Goggles and White Mask",
+        "quantity": 1
+      },
+      {
+        "name": "Mechanical Engineer - Welding Mask",
+        "quantity": 1
+      },
+      {
+        "name": "City Space Robot",
+        "quantity": 1
+      },
+      {
+        "name": "Reporter - Sand Blue Suit, Dark Red Tie, Black Hair Swept Back Tousled",
+        "quantity": 1
+      },
+      {
+        "name": "Camera Operator - Hawaiian Shirt, Tan Legs, Medium Nougat Hair Spiked",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Large Smile with Eyes Closed and Smirk",
+        "quantity": 1
+      },
+      {
+        "name": "Scientist, Botanist - Female, Glasses and Medium Nougat Hair Short Swept Sideways",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Female, Blue Jumpsuit, Reddish Brown Hair Swept Back Into Bun, Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Personal Trainer - Female, Red Ball Cap with Reddish Brown Ponytail",
+        "quantity": 1
+      },
+      {
+        "name": "Rocket Engineer - Female, Dark Blue Jumpsuit, White Construction Helmet with Dark Brown Ponytail Hair, Light Blue Goggles and Face Covered with Dirt",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Female, White Spacesuit with Orange Lines, Side Lamp, Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, Blue Jumpsuit, Black Hair Short Tousled with Side Part, Queasy and Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Astronaut - Male, Blue Jumpsuit, Dark Brown Hair Short Combed Sideways Part Left, Scared and Lopsided Smile",
+        "quantity": 1
+      }
+    ]
   },
   "10266-1": {
     "no": "10266-1",
@@ -1583,7 +3550,21 @@
     "dim_y": "28.00",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:27:07.561Z",
-    "piece_count": 1117
+    "piece_count": 1117,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 1115,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "NASA Apollo 11 Astronaut - Male with White Torso with NASA Logo and Thin Grin",
+        "quantity": 1
+      },
+      {
+        "name": "NASA Apollo 11 Astronaut - Male with White Torso with NASA Logo and Lopsided Smile",
+        "quantity": 1
+      }
+    ]
   },
   "40362-1": {
     "no": "40362-1",
@@ -1596,7 +3577,12 @@
     "dim_y": "14.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:27:07.705Z",
-    "piece_count": 207
+    "piece_count": 207,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 207,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "10267-1": {
     "no": "10267-1",
@@ -1609,7 +3595,21 @@
     "dim_y": "28.00",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:27:07.849Z",
-    "piece_count": 1545
+    "piece_count": 1545,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 1543,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Gingerbread Woman",
+        "quantity": 1
+      },
+      {
+        "name": "Gingerbread Man - Moustache",
+        "quantity": 1
+      }
+    ]
   },
   "40384-1": {
     "no": "40384-1",
@@ -1622,7 +3622,12 @@
     "dim_y": "14.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:07.994Z",
-    "piece_count": 274
+    "piece_count": 274,
+    "category_name": "BrickHeadz",
+    "condition": "used",
+    "part_count": 274,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "10921-1": {
     "no": "10921-1",
@@ -1635,7 +3640,25 @@
     "dim_y": "19.10",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:08.137Z",
-    "piece_count": 30
+    "piece_count": 30,
+    "category_name": "DUPLO",
+    "condition": "used",
+    "part_count": 27,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Duplo Figure Lego Ville, Spider-Man, Standard Eyes",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Captain America",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Iron Man",
+        "quantity": 1
+      }
+    ]
   },
   "30342-1": {
     "no": "30342-1",
@@ -1648,7 +3671,12 @@
     "dim_y": "19.30",
     "dim_z": "1.50",
     "added_at": "2025-09-11T04:27:08.281Z",
-    "piece_count": 83
+    "piece_count": 83,
+    "category_name": "SPEED CHAMPIONS",
+    "condition": "used",
+    "part_count": 83,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "40408-1": {
     "no": "40408-1",
@@ -1661,7 +3689,21 @@
     "dim_y": "14.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:08.424Z",
-    "piece_count": 137
+    "piece_count": 137,
+    "category_name": "Hidden Side",
+    "condition": "used",
+    "part_count": 135,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Jack Davids - White Hoodie with Cap and Hood &#40;Lopsided Smile / Scared&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Dwayne - Possessed",
+        "quantity": 1
+      }
+    ]
   },
   "21321-1": {
     "no": "21321-1",
@@ -1674,7 +3716,12 @@
     "dim_y": "26.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:08.568Z",
-    "piece_count": 896
+    "piece_count": 896,
+    "category_name": "LEGO Ideas &#40;CUUSOO&#41;",
+    "condition": "used",
+    "part_count": 896,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "10919-1": {
     "no": "10919-1",
@@ -1687,7 +3734,25 @@
     "dim_y": "19.10",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:08.712Z",
-    "piece_count": 33
+    "piece_count": 33,
+    "category_name": "DUPLO",
+    "condition": "used",
+    "part_count": 30,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Duplo Figure Lego Ville, Robin, Black Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, The Joker, Magenta Legs and Top, White Hands, White Head, Red Lips, Bright Green Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Batman, Black Cowl, Light Bluish Gray Suit and Legs",
+        "quantity": 1
+      }
+    ]
   },
   "10931-1": {
     "no": "10931-1",
@@ -1700,7 +3765,21 @@
     "dim_y": "26.20",
     "dim_z": "9.50",
     "added_at": "2025-09-11T04:27:08.855Z",
-    "piece_count": 20
+    "piece_count": 20,
+    "category_name": "DUPLO",
+    "condition": "used",
+    "part_count": 18,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Duplo Figure Lego Ville, Male, Black Legs, Orange Vest with Badge and Pocket, Medium Azure Arms, White Cap with Headset &#40;6301361&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Male, Black Legs, Orange Vest with Badge and Pocket, Medium Azure Arms, Light Bluish Gray Hands, White Construction Helmet &#40;6308180&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "10275-1": {
     "no": "10275-1",
@@ -1713,7 +3792,29 @@
     "dim_y": "28.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:08.998Z",
-    "piece_count": 1241
+    "piece_count": 1241,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 1237,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Elf - Green Scalloped Collar with Bells, Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Elf - Green Scalloped Collar with Bells, Freckles, Open Mouth Smile with Teeth",
+        "quantity": 1
+      },
+      {
+        "name": "Elf - Green Scalloped Collar with Bells, Glasses",
+        "quantity": 1
+      },
+      {
+        "name": "Elf - Green Scalloped Collar with Bells, Scarf",
+        "quantity": 1
+      }
+    ]
   },
   "21324-1": {
     "no": "21324-1",
@@ -1726,7 +3827,37 @@
     "dim_y": "35.00",
     "dim_z": "8.80",
     "added_at": "2025-09-11T04:27:09.143Z",
-    "piece_count": 1478
+    "piece_count": 1478,
+    "category_name": "LEGO Ideas &#40;CUUSOO&#41;",
+    "condition": "new",
+    "part_count": 1472,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "Elmo",
+        "quantity": 1
+      },
+      {
+        "name": "Cookie Monster",
+        "quantity": 1
+      },
+      {
+        "name": "Ernie",
+        "quantity": 1
+      },
+      {
+        "name": "Bert",
+        "quantity": 1
+      },
+      {
+        "name": "Big Bird",
+        "quantity": 1
+      },
+      {
+        "name": "Oscar the Grouch",
+        "quantity": 1
+      }
+    ]
   },
   "10280-1": {
     "no": "10280-1",
@@ -1739,7 +3870,12 @@
     "dim_y": "38.00",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:09.287Z",
-    "piece_count": 765
+    "piece_count": 765,
+    "category_name": "Botanicals",
+    "condition": "used",
+    "part_count": 765,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "60283-1": {
     "no": "60283-1",
@@ -1752,7 +3888,25 @@
     "dim_y": "19.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:27:09.440Z",
-    "piece_count": 202
+    "piece_count": 202,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 199,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Baby - Dark Turquoise Body with Yellow Hands",
+        "quantity": 1
+      },
+      {
+        "name": "Camper Van Owner - Male, Dark Tan Vest over Dark Azure Shirt, Dark Blue Legs, Reddish Brown Spiked Hair, Stubble",
+        "quantity": 1
+      },
+      {
+        "name": "Holiday Camper Van Mother, Baby Carrier",
+        "quantity": 1
+      }
+    ]
   },
   "11016-1": {
     "no": "11016-1",
@@ -1765,7 +3919,12 @@
     "dim_y": "38.00",
     "dim_z": "14.00",
     "added_at": "2025-09-11T04:27:09.582Z",
-    "piece_count": 1247
+    "piece_count": 1247,
+    "category_name": "Classic",
+    "condition": "used",
+    "part_count": 1247,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "21325-1": {
     "no": "21325-1",
@@ -1778,7 +3937,29 @@
     "dim_y": "37.50",
     "dim_z": "11.00",
     "added_at": "2025-09-11T04:27:09.724Z",
-    "piece_count": 2220
+    "piece_count": 2220,
+    "category_name": "LEGO Ideas &#40;CUUSOO&#41;",
+    "condition": "used",
+    "part_count": 2216,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Blacksmith - Male, Reddish Brown Apron, Dark Orange Beard",
+        "quantity": 1
+      },
+      {
+        "name": "Archer - Female, Green Tunic, Quiver",
+        "quantity": 1
+      },
+      {
+        "name": "Black Falcon - Female, Pearl Dark Gray Detailed Legs, Flat Silver Shoulder Pads",
+        "quantity": 1
+      },
+      {
+        "name": "Black Falcon - Male, Pearl Dark Gray Detailed Legs, Flat Silver Shoulder Pad",
+        "quantity": 1
+      }
+    ]
   },
   "43107-1": {
     "no": "43107-1",
@@ -1791,7 +3972,17 @@
     "dim_y": "11.90",
     "dim_z": "11.90",
     "added_at": "2025-09-11T04:27:10.073Z",
-    "piece_count": 136
+    "piece_count": 136,
+    "category_name": "Vidiyo",
+    "condition": "used",
+    "part_count": 135,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "HipHop Robot",
+        "quantity": 1
+      }
+    ]
   },
   "40454-1": {
     "no": "40454-1",
@@ -1804,7 +3995,29 @@
     "dim_y": "25.00",
     "dim_z": "3.00",
     "added_at": "2025-09-11T04:27:10.234Z",
-    "piece_count": 61
+    "piece_count": 61,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 57,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Venom - Teeth Parted",
+        "quantity": 1
+      },
+      {
+        "name": "Spider-Man - Printed Blue Arms, Plain Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Iron Venom - Headgear Partially Transformed",
+        "quantity": 1
+      },
+      {
+        "name": "Pork Grind",
+        "quantity": 1
+      }
+    ]
   },
   "10283-1": {
     "no": "10283-1",
@@ -1817,7 +4030,12 @@
     "dim_y": "48.00",
     "dim_z": "9.10",
     "added_at": "2025-09-11T04:27:10.377Z",
-    "piece_count": 2434
+    "piece_count": 2434,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 2434,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "76394-1": {
     "no": "76394-1",
@@ -1830,7 +4048,17 @@
     "dim_y": "26.20",
     "dim_z": "5.90",
     "added_at": "2025-09-11T04:27:10.521Z",
-    "piece_count": 620
+    "piece_count": 620,
+    "category_name": "Harry Potter",
+    "condition": "new",
+    "part_count": 619,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Albus Dumbledore - Dark Orange Robe",
+        "quantity": 1
+      }
+    ]
   },
   "76193-1": {
     "no": "76193-1",
@@ -1843,7 +4071,37 @@
     "dim_y": "37.80",
     "dim_z": "8.70",
     "added_at": "2025-09-11T04:27:10.663Z",
-    "piece_count": 1958
+    "piece_count": 1958,
+    "category_name": "Super Heroes",
+    "condition": "new",
+    "part_count": 1952,
+    "minifig_count": 6,
+    "minifigs": [
+      {
+        "name": "Chitauri - Dark Bluish Gray",
+        "quantity": 1
+      },
+      {
+        "name": "Thor - Long Dark Tan Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Rocket Raccoon - Dark Bluish Gray Outfit, Reddish Brown Head",
+        "quantity": 1
+      },
+      {
+        "name": "Groot, Teen Groot - Dark Tan",
+        "quantity": 1
+      },
+      {
+        "name": "Star-Lord - Black Boots",
+        "quantity": 1
+      },
+      {
+        "name": "Mantis - Black Belt with Clasps",
+        "quantity": 1
+      }
+    ]
   },
   "71394-2": {
     "no": "71394-2",
@@ -1856,7 +4114,12 @@
     "dim_y": "14.60",
     "dim_z": "15.00",
     "added_at": "2025-09-11T04:27:10.806Z",
-    "piece_count": 10
+    "piece_count": 10,
+    "category_name": "Super Mario",
+    "condition": "used",
+    "part_count": 0,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "30392-1": {
     "no": "30392-1",
@@ -1869,7 +4132,17 @@
     "dim_y": "17.00",
     "dim_z": "1.50",
     "added_at": "2025-09-11T04:27:10.950Z",
-    "piece_count": 48
+    "piece_count": 48,
+    "category_name": "Harry Potter",
+    "condition": "used",
+    "part_count": 47,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Hermione Granger - Gryffindor Robe Open, Sweater, Shirt and Tie, Black Short Legs",
+        "quantity": 1
+      }
+    ]
   },
   "10293-1": {
     "no": "10293-1",
@@ -1882,7 +4155,29 @@
     "dim_y": "28.00",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:27:11.091Z",
-    "piece_count": 1500
+    "piece_count": 1500,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 1496,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Dad - Medium Nougat Argyle Sweater, Red Scarf, Black Legs, Reddish Brown Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Mom - Medium Lavender Jacket, Dark Blue Legs, Black Coiled Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Girl - Dark Turquoise Pajamas, Dark Turquoise Short Legs, Black Pigtails",
+        "quantity": 1
+      },
+      {
+        "name": "Santa - Fur Lined Jacket with 2 Wrinkles on Back, Red Legs with Black Boots, Santa Hat with Printed Red Top",
+        "quantity": 1
+      }
+    ]
   },
   "40499-1": {
     "no": "40499-1",
@@ -1895,7 +4190,21 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:11.233Z",
-    "piece_count": 374
+    "piece_count": 374,
+    "category_name": "Holiday & Event",
+    "condition": "used",
+    "part_count": 372,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat with Printed Red Top",
+        "quantity": 1
+      },
+      {
+        "name": "Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat with Molded Red Top",
+        "quantity": 1
+      }
+    ]
   },
   "60293-1": {
     "no": "60293-1",
@@ -1908,7 +4217,21 @@
     "dim_y": "26.30",
     "dim_z": "5.90",
     "added_at": "2025-09-11T04:27:11.495Z",
-    "piece_count": 173
+    "piece_count": 173,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 171,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Tread Octane",
+        "quantity": 1
+      },
+      {
+        "name": "Stuntz Driver - Female, Coral Racing Shirt with White Arms, Dark Purple Legs, Dark Brown Hair with Buns",
+        "quantity": 1
+      }
+    ]
   },
   "30495-1": {
     "no": "30495-1",
@@ -1921,7 +4244,12 @@
     "dim_y": "16.00",
     "dim_z": "2.50",
     "added_at": "2025-09-11T04:27:11.635Z",
-    "piece_count": 85
+    "piece_count": 85,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 85,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "40519-1": {
     "no": "40519-1",
@@ -1934,7 +4262,17 @@
     "dim_y": "14.10",
     "dim_z": "7.00",
     "added_at": "2025-09-11T04:27:11.777Z",
-    "piece_count": 278
+    "piece_count": 278,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 277,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Lady Liberty - Hard Plastic Hair with Tiara",
+        "quantity": 1
+      }
+    ]
   },
   "10781-1": {
     "no": "10781-1",
@@ -1947,7 +4285,21 @@
     "dim_y": "14.10",
     "dim_z": "4.60",
     "added_at": "2025-09-11T04:27:11.925Z",
-    "piece_count": 58
+    "piece_count": 58,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 56,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Spider-Man &#40;Miles &#39;Spin&#39; Morales&#41; - Red Medium Legs, Red Spider Logo",
+        "quantity": 1
+      },
+      {
+        "name": "Green Goblin - Lime Skin, Dark Purple Outfit, Medium Legs, Dark Blue Stomach",
+        "quantity": 1
+      }
+    ]
   },
   "10782-1": {
     "no": "10782-1",
@@ -1960,7 +4312,25 @@
     "dim_y": "14.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:27:12.068Z",
-    "piece_count": 108
+    "piece_count": 108,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 105,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Rhino - Shoulder Armor",
+        "quantity": 1
+      },
+      {
+        "name": "Spider-Man &#40;Peter &#39;Spidey&#39; Parker&#41; - Medium Legs, Black Spider Logo",
+        "quantity": 1
+      },
+      {
+        "name": "Hulk - Minifigure, Dark Purple Pants, Short Tousled Hair",
+        "quantity": 1
+      }
+    ]
   },
   "10783-1": {
     "no": "10783-1",
@@ -1973,7 +4343,25 @@
     "dim_y": "19.10",
     "dim_z": "6.10",
     "added_at": "2025-09-11T04:27:12.208Z",
-    "piece_count": 124
+    "piece_count": 124,
+    "category_name": "Super Heroes",
+    "condition": "used",
+    "part_count": 121,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Ghost-Spider &#40;Gwen Stacy&#41; - Dark Purple Medium Legs, White Hood, Medium Azure Spider Logo",
+        "quantity": 1
+      },
+      {
+        "name": "Doc Ock - Female, Medium Legs, Flat Silver Arms",
+        "quantity": 1
+      },
+      {
+        "name": "Spider-Man &#40;Peter &#39;Spidey&#39; Parker&#41; - Medium Legs, Black Spider Logo",
+        "quantity": 1
+      }
+    ]
   },
   "31124-1": {
     "no": "31124-1",
@@ -1986,7 +4374,12 @@
     "dim_y": "14.00",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:27:12.349Z",
-    "piece_count": 162
+    "piece_count": 162,
+    "category_name": "Creator",
+    "condition": "used",
+    "part_count": 162,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "75326-1": {
     "no": "75326-1",
@@ -1999,7 +4392,41 @@
     "dim_y": "27.90",
     "dim_z": "7.30",
     "added_at": "2025-09-11T04:27:12.493Z",
-    "piece_count": 749
+    "piece_count": 749,
+    "category_name": "Star Wars",
+    "condition": "new",
+    "part_count": 742,
+    "minifig_count": 7,
+    "minifigs": [
+      {
+        "name": "Boba Fett - Repainted Beskar Armor, Jet Pack, Rangefinder",
+        "quantity": 1
+      },
+      {
+        "name": "Fennec Shand - Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Bib Fortuna - Black Robe, Reddish Brown Straps",
+        "quantity": 1
+      },
+      {
+        "name": "Theelin Dancer",
+        "quantity": 1
+      },
+      {
+        "name": "Quarren",
+        "quantity": 1
+      },
+      {
+        "name": "Gamorrean Guard - Olive Green, Reddish Brown Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Weequay Guard &#40;Reddish Brown Legs&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "10962-1": {
     "no": "10962-1",
@@ -2012,7 +4439,17 @@
     "dim_y": "26.00",
     "dim_z": "9.50",
     "added_at": "2025-09-11T04:27:12.636Z",
-    "piece_count": 37
+    "piece_count": 37,
+    "category_name": "DUPLO",
+    "condition": "used",
+    "part_count": 36,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Duplo Figure Lego Ville, Male, Buzz Lightyear with Dark Brown Hair",
+        "quantity": 1
+      }
+    ]
   },
   "40531-1": {
     "no": "40531-1",
@@ -2025,7 +4462,17 @@
     "dim_y": "13.90",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:12.779Z",
-    "piece_count": 200
+    "piece_count": 200,
+    "category_name": "Star Wars",
+    "condition": "new",
+    "part_count": 199,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Aunt Beru Whitesun Lars",
+        "quantity": 1
+      }
+    ]
   },
   "60344-1": {
     "no": "60344-1",
@@ -2038,7 +4485,17 @@
     "dim_y": "14.00",
     "dim_z": "4.30",
     "added_at": "2025-09-11T04:27:13.025Z",
-    "piece_count": 107
+    "piece_count": 107,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 106,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Farmer - Female, Lime Overalls over White Shirt, Lime Legs, Reddish Brown Hair, Freckles",
+        "quantity": 1
+      }
+    ]
   },
   "30435-1": {
     "no": "30435-1",
@@ -2051,7 +4508,17 @@
     "dim_y": "19.00",
     "dim_z": "1.50",
     "added_at": "2025-09-11T04:27:13.188Z",
-    "piece_count": 80
+    "piece_count": 80,
+    "category_name": "Harry Potter",
+    "condition": "used",
+    "part_count": 79,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Albus Dumbledore - Magenta Robe, Plain Legs",
+        "quantity": 1
+      }
+    ]
   },
   "10976-1": {
     "no": "10976-1",
@@ -2064,7 +4531,25 @@
     "dim_y": "25.50",
     "dim_z": "9.50",
     "added_at": "2025-09-11T04:27:13.329Z",
-    "piece_count": 50
+    "piece_count": 50,
+    "category_name": "DUPLO",
+    "condition": "used",
+    "part_count": 47,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Duplo Figure Lego Ville, Child Girl, Blue Legs, Bright Light Blue Top with White Snowflakes, Reddish Brown Eyes, Black Hair &#40;6397614&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Child Boy, White Legs, Red Top with Deer Buck, Freckles, Reddish Brown Eyes, Dark Azure Bobble Cap &#40;6397615&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Duplo Figure Lego Ville, Male, Santa with Dark Red Legs, Red Jacket and Hat &#40;6397611&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "76242-1": {
     "no": "76242-1",
@@ -2077,7 +4562,17 @@
     "dim_y": "18.90",
     "dim_z": "4.50",
     "added_at": "2025-09-11T04:27:13.472Z",
-    "piece_count": 112
+    "piece_count": 112,
+    "category_name": "Super Heroes",
+    "condition": "new",
+    "part_count": 111,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Thanos - Minifigure, Dark Blue and Gold Outfit, Medium Lavender Arms",
+        "quantity": 1
+      }
+    ]
   },
   "40582-1": {
     "no": "40582-1",
@@ -2090,7 +4585,25 @@
     "dim_y": "14.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:13.614Z",
-    "piece_count": 171
+    "piece_count": 171,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 168,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Mountain Bike Cyclist - Male, Red Tracksuit, Dark Tan Legs with Pockets, Dark Blue Dirt Bike Helmet, Lopsided Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Paramedic - Male, Dark Turquoise and Neon Yellow Safety Vest, Sand Green Legs, Reddish Brown Hair, Open Mouth Smile",
+        "quantity": 1
+      },
+      {
+        "name": "Paramedic - Female, Dark Turquoise and Neon Yellow Safety Vest, Sand Green Legs, Dark Turquoise Cap with Black Ponytail Hair, Safety Glasses",
+        "quantity": 1
+      }
+    ]
   },
   "75370-1": {
     "no": "75370-1",
@@ -2103,7 +4616,17 @@
     "dim_y": "15.20",
     "dim_z": "4.30",
     "added_at": "2025-09-11T04:27:13.761Z",
-    "piece_count": 143
+    "piece_count": 143,
+    "category_name": "Star Wars",
+    "condition": "new",
+    "part_count": 142,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Nougat Head",
+        "quantity": 1
+      }
+    ]
   },
   "75387-1": {
     "no": "75387-1",
@@ -2116,7 +4639,37 @@
     "dim_y": "19.30",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:27:13.904Z",
-    "piece_count": 509
+    "piece_count": 509,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 502,
+    "minifig_count": 7,
+    "minifigs": [
+      {
+        "name": "Darth Vader - Printed Arms, Spongy Cape, White Head with Frown",
+        "quantity": 1
+      },
+      {
+        "name": "Rebel Fleet Trooper - Male, Vest with Pockets, Black Neck, Reddish Brown Eyebrows",
+        "quantity": 2
+      },
+      {
+        "name": "Clone ARC Trooper Fives, 501st Legion &#40;Phase 2&#41;",
+        "quantity": 1
+      },
+      {
+        "name": "Captain Antilles - Dark Tan Shirt, Large Rank Badge",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Brown Head",
+        "quantity": 1
+      }
+    ]
   },
   "75376-1": {
     "no": "75376-1",
@@ -2129,7 +4682,12 @@
     "dim_y": "19.10",
     "dim_z": "9.00",
     "added_at": "2025-09-11T04:27:14.046Z",
-    "piece_count": 670
+    "piece_count": 670,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 670,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "76286-1": {
     "no": "76286-1",
@@ -2142,7 +4700,33 @@
     "dim_y": "37.20",
     "dim_z": "10.85",
     "added_at": "2025-09-11T04:27:14.245Z",
-    "piece_count": 2131
+    "piece_count": 2131,
+    "category_name": "Super Heroes",
+    "condition": "new",
+    "part_count": 2126,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Rocket Raccoon - Dark Red and Pearl Dark Gray Outfit, Reddish Brown Head",
+        "quantity": 1
+      },
+      {
+        "name": "Star-Lord - Dark Red Printed Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Gamora - Dark Red Printed Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Drax - Dark Red Tattoos",
+        "quantity": 1
+      },
+      {
+        "name": "Groot - Baby, Dark Tan &#40;6490595&#41;",
+        "quantity": 1
+      }
+    ]
   },
   "75386-1": {
     "no": "75386-1",
@@ -2155,7 +4739,25 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:14.387Z",
-    "piece_count": 294
+    "piece_count": 294,
+    "category_name": "Star Wars",
+    "condition": "new",
+    "part_count": 290,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Moff Gideon - Helmet, Jet Pack",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Praetorian Guard",
+        "quantity": 2
+      },
+      {
+        "name": "Paz Vizsla - Backpack without Clip",
+        "quantity": 1
+      }
+    ]
   },
   "77092-1": {
     "no": "77092-1",
@@ -2168,7 +4770,29 @@
     "dim_y": "37.30",
     "dim_z": "11.40",
     "added_at": "2025-09-11T04:27:14.530Z",
-    "piece_count": 2591
+    "piece_count": 2591,
+    "category_name": "The Legend of Zelda",
+    "condition": "used",
+    "part_count": 2587,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Young Link",
+        "quantity": 1
+      },
+      {
+        "name": "Link - Bright Green Tunic",
+        "quantity": 1
+      },
+      {
+        "name": "Link - Dark Azure Champion&#39;s Tunic",
+        "quantity": 1
+      },
+      {
+        "name": "Princess Zelda",
+        "quantity": 1
+      }
+    ]
   },
   "75385-1": {
     "no": "75385-1",
@@ -2181,7 +4805,33 @@
     "dim_y": "22.00",
     "dim_z": "7.40",
     "added_at": "2025-09-11T04:27:14.710Z",
-    "piece_count": 400
+    "piece_count": 400,
+    "category_name": "Star Wars",
+    "condition": "used",
+    "part_count": 395,
+    "minifig_count": 5,
+    "minifigs": [
+      {
+        "name": "Ahsoka Tano &#40;Adult&#41; - Printed Arms, Light Bluish Gray Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Ezra Bridger - Dark Red Robe",
+        "quantity": 1
+      },
+      {
+        "name": "Grand Admiral Thrawn - Medium Blue Skin",
+        "quantity": 1
+      },
+      {
+        "name": "Morgan Elsbeth - Black Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Night Trooper - White Helmet",
+        "quantity": 1
+      }
+    ]
   },
   "40700-1": {
     "no": "40700-1",
@@ -2194,7 +4844,12 @@
     "dim_y": "19.00",
     "dim_z": "6.00",
     "added_at": "2025-09-11T04:27:14.853Z",
-    "piece_count": 315
+    "piece_count": 315,
+    "category_name": "Creator",
+    "condition": "new",
+    "part_count": 315,
+    "minifig_count": 0,
+    "minifigs": []
   },
   "60454-1": {
     "no": "60454-1",
@@ -2207,7 +4862,25 @@
     "dim_y": "22.20",
     "dim_z": "7.60",
     "added_at": "2025-09-11T04:27:14.996Z",
-    "piece_count": 402
+    "piece_count": 402,
+    "category_name": "Town",
+    "condition": "used",
+    "part_count": 399,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Baby - White Body with Yellow Hands, Head with Neck",
+        "quantity": 1
+      },
+      {
+        "name": "Mom - Reddish Brown Jacket, Dark Purple Legs, Dark Brown Hair",
+        "quantity": 1
+      },
+      {
+        "name": "Dad - Dark Turquoise Jacket over Dark Purple Shirt, Tan Legs, Dark Orange Hair, Baby Carrier",
+        "quantity": 1
+      }
+    ]
   },
   "75433-1": {
     "no": "75433-1",
@@ -2220,7 +4893,25 @@
     "dim_y": "26.00",
     "dim_z": "5.50",
     "added_at": "2025-09-11T04:27:15.139Z",
-    "piece_count": 740
+    "piece_count": 740,
+    "category_name": "Star Wars",
+    "condition": "new",
+    "part_count": 737,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Boba Fett, Young - Bright Light Blue Shirt",
+        "quantity": 1
+      },
+      {
+        "name": "Lama Su",
+        "quantity": 1
+      },
+      {
+        "name": "Jango Fett - Nougat Head, Plain Arms",
+        "quantity": 1
+      }
+    ]
   },
   "71050-2": {
     "no": "71050-2",
@@ -2233,6 +4924,11 @@
     "dim_y": "0.00",
     "dim_z": "0.00",
     "added_at": "2025-09-11T04:27:15.281Z",
-    "piece_count": 12
+    "piece_count": 12,
+    "category_name": "Collectible Minifigures",
+    "condition": "used",
+    "part_count": 0,
+    "minifig_count": 0,
+    "minifigs": []
   }
 }

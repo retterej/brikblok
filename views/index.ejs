@@ -9,6 +9,9 @@
     <div class="container">
         <header>
             <h1>🧱 LEGO Sets Collection</h1>
+            <nav>
+                <a href="/minifigs" class="nav-link">View Minifigs Database</a>
+            </nav>
         </header>
 
         <section class="add-set">
@@ -34,13 +37,21 @@
                     <% sets.forEach(set => { %>
                         <div class="set-card">
                             <div class="set-header">
-                                <h3><%= set.name %></h3>
-                                <button class="delete-btn" onclick="deleteSet('<%= set.no %>')">×</button>
+                                <h3><%- set.name %></h3>
+                                <div class="header-actions">
+                                    <% if (set.condition === 'new') { %>
+                                        <span class="new-badge">UNOPENED</span>
+                                    <% } %>
+                                    <button class="delete-btn" onclick="deleteSet('<%= set.no %>')">×</button>
+                                </div>
                             </div>
                             <div class="set-info">
                                 <span class="set-number"><%= set.no %></span>
                                 <span class="set-year">(<%= set.year_released %>)</span>
                             </div>
+                            <% if (set.category_name) { %>
+                                <div class="category"><%- set.category_name %></div>
+                            <% } %>
                             <% if (set.dim_x && set.dim_y && set.dim_z) { %>
                                 <div class="dimensions">
                                     <%= set.dim_x %>" × <%= set.dim_y %>" × <%= set.dim_z %>"
@@ -48,6 +59,15 @@
                             <% } %>
                             <% if (set.weight) { %>
                                 <div class="weight"><%= set.weight %>g</div>
+                            <% } %>
+                            <% if (set.part_count !== undefined) { %>
+                                <div class="part-count"><%= set.part_count %> parts</div>
+                            <% } %>
+                            <% if (set.minifig_count > 0) { %>
+                                <div class="minifig-count"><%= set.minifig_count %> minifigs</div>
+                            <% } %>
+                            <% if (set.piece_count) { %>
+                                <div class="total-pieces"><%= set.piece_count %> total pieces</div>
                             <% } %>
                             <div class="added-date">
                                 Added <%= new Date(set.added_at).toLocaleDateString() %>

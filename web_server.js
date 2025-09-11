@@ -76,6 +76,19 @@ app.post('/add', async (req, res) => {
   }
 });
 
+app.get('/minifigs', async (req, res) => {
+  try {
+    const minifigs = JSON.parse(await fs.readFile('minifig_database.json', 'utf8'));
+    const sets = await loadSets();
+    res.render('minifigs', { 
+      minifigs, 
+      totalSets: Object.keys(sets).length 
+    });
+  } catch (error) {
+    res.status(500).send('Minifig database not found. Run: npm run minifig-db');
+  }
+});
+
 app.delete('/set/:setNumber', async (req, res) => {
   try {
     const sets = await loadSets();

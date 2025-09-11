@@ -1,0 +1,4922 @@
+{
+  "Ice Cream Cone": {
+    "name": "Ice Cream Cone",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "70822-1",
+        "set_name": "Unikitty's Sweetest Friends EVER!",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Chocolate Bar": {
+    "name": "Chocolate Bar",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "70822-1",
+        "set_name": "Unikitty's Sweetest Friends EVER!",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Unikitty - Lopsided Smile": {
+    "name": "Unikitty - Lopsided Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "70822-1",
+        "set_name": "Unikitty's Sweetest Friends EVER!",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Emmet - Smile / Scared, Worn Uniform": {
+    "name": "Emmet - Smile / Scared, Worn Uniform",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "70823-1",
+        "set_name": "Emmet's Thricycle!",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Batgirl - Minifigure, Dark Purple Suit, Yellow Cape, Open Mouth Smile / Concerned": {
+    "name": "Batgirl - Minifigure, Dark Purple Suit, Yellow Cape, Open Mouth Smile / Concerned",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "70902-1",
+        "set_name": "Catwoman Catcycle Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Robin - Green Glasses, Smile / Scared Pattern": {
+    "name": "Robin - Green Glasses, Smile / Scared Pattern",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "70902-1",
+        "set_name": "Catwoman Catcycle Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Catwoman - Dark Purple Suit": {
+    "name": "Catwoman - Dark Purple Suit",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "70902-1",
+        "set_name": "Catwoman Catcycle Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wicked Witch": {
+    "name": "Wicked Witch",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71221-1",
+        "set_name": "Fun Pack - The Wizard of Oz &#40;Wicked Witch and Winged Monkey&#41;",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Aquaman - Yellow Tousled Hair": {
+    "name": "Aquaman - Yellow Tousled Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71237-1",
+        "set_name": "Fun Pack - DC Comics &#40;Aquaman and Aqua Watercraft&#41;",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Goomba &#40;Dark Bluish Gray Interior Pieces&#41; - Neutral": {
+    "name": "Goomba &#40;Dark Bluish Gray Interior Pieces&#41; - Neutral",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71365-1",
+        "set_name": "Piranha Plant Power Slide - Expansion Set",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Koopa Troopa - Scanner Code with Pink Lines": {
+    "name": "Koopa Troopa - Scanner Code with Pink Lines",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71365-1",
+        "set_name": "Piranha Plant Power Slide - Expansion Set",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Piranha Plant - Hinge Brick": {
+    "name": "Piranha Plant - Hinge Brick",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71365-1",
+        "set_name": "Piranha Plant Power Slide - Expansion Set",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Boomer / Banzai Bill": {
+    "name": "Boomer / Banzai Bill",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71366-1",
+        "set_name": "Boomer Bill Barrage - Expansion Set",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Shy Guy": {
+    "name": "Shy Guy",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71366-1",
+        "set_name": "Boomer Bill Barrage - Expansion Set",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Super Mushroom - Black Hinge Brick / Green Plate 2 x 2 Interior": {
+    "name": "Super Mushroom - Black Hinge Brick / Green Plate 2 x 2 Interior",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "71366-1",
+        "set_name": "Boomer Bill Barrage - Expansion Set",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Clone Trooper, 212th Attack Battalion &#40;Phase 2&#41; - Orange Arms, Dirt Stains, Scowl": {
+    "name": "Clone Trooper, 212th Attack Battalion &#40;Phase 2&#41; - Orange Arms, Dirt Stains, Scowl",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75036-1",
+        "set_name": "Utapau Troopers",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Clone Airborne Trooper, 212th Attack Battalion &#40;Phase 2&#41; - Orange Arm, Dirt Stains, Light Bluish Gray Cloth Kama, Scowl": {
+    "name": "Clone Airborne Trooper, 212th Attack Battalion &#40;Phase 2&#41; - Orange Arm, Dirt Stains, Light Bluish Gray Cloth Kama, Scowl",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75036-1",
+        "set_name": "Utapau Troopers",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Ten Numb &#40;Red Jumpsuit&#41;": {
+    "name": "Ten Numb &#40;Red Jumpsuit&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75050-1",
+        "set_name": "B-wing",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "General Airen Cracken": {
+    "name": "General Airen Cracken",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75050-1",
+        "set_name": "B-wing",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Gray Squadron Pilot &#40;Horton Salm&#41;": {
+    "name": "Gray Squadron Pilot &#40;Horton Salm&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75050-1",
+        "set_name": "B-wing",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Garazeb 'Zeb' Orrelios": {
+    "name": "Garazeb 'Zeb' Orrelios",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75053-1",
+        "set_name": "The Ghost",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Hera Syndulla - Dark Tan Arms": {
+    "name": "Hera Syndulla - Dark Tan Arms",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75053-1",
+        "set_name": "The Ghost",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial Stormtrooper - Printed Legs, Dark Azure Helmet Vents": {
+    "name": "Imperial Stormtrooper - Printed Legs, Dark Azure Helmet Vents",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75053-1",
+        "set_name": "The Ghost",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Kanan Jarrus - Black Hair and Eyebrows": {
+    "name": "Kanan Jarrus - Black Hair and Eyebrows",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75053-1",
+        "set_name": "The Ghost",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Kanan Jarrus - Dark Brown Hair and Eyebrows": {
+    "name": "Kanan Jarrus - Dark Brown Hair and Eyebrows",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75053-1",
+        "set_name": "The Ghost",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial TIE Fighter Pilot - Printed Arms": {
+    "name": "Imperial TIE Fighter Pilot - Printed Arms",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75095-1",
+        "set_name": "TIE Fighter - UCS",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Resistance Pilot X-wing &#40;Temmin &#39;Snap&#39; Wexley&#41;": {
+    "name": "Resistance Pilot X-wing &#40;Temmin &#39;Snap&#39; Wexley&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75125-1",
+        "set_name": "Resistance X-Wing Fighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "First Order Snowtrooper": {
+    "name": "First Order Snowtrooper",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75126-1",
+        "set_name": "First Order Snowspeeder",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Inferno Squad Agent &#40;Open Mouth, Grimacing&#41;": {
+    "name": "Inferno Squad Agent &#40;Open Mouth, Grimacing&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75226-1",
+        "set_name": "Inferno Squad Battle Pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iden Versio &#40;Inferno Squad Commander&#41;": {
+    "name": "Iden Versio &#40;Inferno Squad Commander&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75226-1",
+        "set_name": "Inferno Squad Battle Pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Inferno Squad Agent with Utility Belt &#40;Frown&#41;": {
+    "name": "Inferno Squad Agent with Utility Belt &#40;Frown&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75226-1",
+        "set_name": "Inferno Squad Battle Pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Inferno Squad Agent &#40;Frown, Sunken Eyes&#41;": {
+    "name": "Inferno Squad Agent &#40;Frown, Sunken Eyes&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75226-1",
+        "set_name": "Inferno Squad Battle Pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Snowtrooper, Printed Legs, Dark Tan Hands": {
+    "name": "Snowtrooper, Printed Legs, Dark Tan Hands",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75239-1",
+        "set_name": "Action Battle Hoth Generator Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Hoth Rebel Trooper White Uniform, Dark Tan Legs &#40;Brown Angular Beard&#41;": {
+    "name": "Hoth Rebel Trooper White Uniform, Dark Tan Legs &#40;Brown Angular Beard&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75239-1",
+        "set_name": "Action Battle Hoth Generator Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Temmin &#39;Snap&#39; Wexley - Medium Nougat Lines Under Eyes and Chin": {
+    "name": "Temmin &#39;Snap&#39; Wexley - Medium Nougat Lines Under Eyes and Chin",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75248-1",
+        "set_name": "Resistance A-Wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Lieutenant Connix": {
+    "name": "Lieutenant Connix",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75248-1",
+        "set_name": "Resistance A-Wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Poe Dameron &#40;White Shirt&#41;": {
+    "name": "Poe Dameron &#40;White Shirt&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75249-1",
+        "set_name": "Resistance Y-Wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Zorii Bliss": {
+    "name": "Zorii Bliss",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75249-1",
+        "set_name": "Resistance Y-Wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "D-O": {
+    "name": "D-O",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75249-1",
+        "set_name": "Resistance Y-Wing Starfighter",
+        "quantity": 1
+      },
+      {
+        "set": "75278-1",
+        "set_name": "D-O",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Astromech Droid, K3-R1": {
+    "name": "Astromech Droid, K3-R1",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75249-1",
+        "set_name": "Resistance Y-Wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "First Order Snowtrooper with Cape": {
+    "name": "First Order Snowtrooper with Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75249-1",
+        "set_name": "Resistance Y-Wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "BB-8 &#40;Large Photoreceptor&#41;": {
+    "name": "BB-8 &#40;Large Photoreceptor&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75250-1",
+        "set_name": "Pasaana Speeder Chase",
+        "quantity": 1
+      },
+      {
+        "set": "75297-1",
+        "set_name": "Resistance X-Wing",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Rey - White Tied Robe": {
+    "name": "Rey - White Tied Robe",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75250-1",
+        "set_name": "Pasaana Speeder Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "First Order Jet Trooper": {
+    "name": "First Order Jet Trooper",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75250-1",
+        "set_name": "Pasaana Speeder Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "First Order Treadspeeder Driver": {
+    "name": "First Order Treadspeeder Driver",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75250-1",
+        "set_name": "Pasaana Speeder Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "T-16 Skyhopper Pilot - Detailed Belts": {
+    "name": "T-16 Skyhopper Pilot - Detailed Belts",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75265-1",
+        "set_name": "T-16 Skyhopper vs Bantha Microfighters",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Tusken Raider - Head Spikes, Diagonal Belt": {
+    "name": "Tusken Raider - Head Spikes, Diagonal Belt",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75265-1",
+        "set_name": "T-16 Skyhopper vs Bantha Microfighters",
+        "quantity": 1
+      },
+      {
+        "set": "75270-1",
+        "set_name": "Obi-Wan&#39;s Hut",
+        "quantity": 1
+      },
+      {
+        "set": "75299-1",
+        "set_name": "Trouble on Tatooine",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 3
+  },
+  "Sith Trooper - Episode 9": {
+    "name": "Sith Trooper - Episode 9",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75266-1",
+        "set_name": "Sith Troopers Battle Pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Sith Jet Trooper": {
+    "name": "Sith Jet Trooper",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75266-1",
+        "set_name": "Sith Troopers Battle Pack",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Sith Fleet Officer": {
+    "name": "Sith Fleet Officer",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75266-1",
+        "set_name": "Sith Troopers Battle Pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Obi-Wan Kenobi &#40;Dirt Stains&#41;": {
+    "name": "Obi-Wan Kenobi &#40;Dirt Stains&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75269-1",
+        "set_name": "Duel on Mustafar",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Anakin Skywalker &#40;Dirt Stains&#41;": {
+    "name": "Anakin Skywalker &#40;Dirt Stains&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75269-1",
+        "set_name": "Duel on Mustafar",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Luke Skywalker &#40;Tatooine, White Legs, Stern / Smile Face Print&#41;": {
+    "name": "Luke Skywalker &#40;Tatooine, White Legs, Stern / Smile Face Print&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75270-1",
+        "set_name": "Obi-Wan&#39;s Hut",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Obi-Wan Kenobi &#40;Old, Detailed Robe and Head&#41;": {
+    "name": "Obi-Wan Kenobi &#40;Old, Detailed Robe and Head&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75270-1",
+        "set_name": "Obi-Wan&#39;s Hut",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots and Large Receptor": {
+    "name": "Astromech Droid, R2-D2 - Flat Silver Head, Dark Pink Dots and Large Receptor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75270-1",
+        "set_name": "Obi-Wan&#39;s Hut",
+        "quantity": 1
+      },
+      {
+        "set": "75308-1",
+        "set_name": "R2-D2",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Battle Droid - Tan, Angled Arm and Straight Arm": {
+    "name": "Battle Droid - Tan, Angled Arm and Straight Arm",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75280-1",
+        "set_name": "501st Legion Clone Troopers",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Clone Jet Trooper, 501st Legion &#40;Phase 2&#41; - Nougat Head": {
+    "name": "Clone Jet Trooper, 501st Legion &#40;Phase 2&#41; - Nougat Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75280-1",
+        "set_name": "501st Legion Clone Troopers",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Clone Trooper, 501st Legion &#40;Phase 2&#41; - White Arms, Nougat Head": {
+    "name": "Clone Trooper, 501st Legion &#40;Phase 2&#41; - White Arms, Nougat Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75280-1",
+        "set_name": "501st Legion Clone Troopers",
+        "quantity": 3
+      }
+    ],
+    "total_quantity": 3
+  },
+  "Luke Skywalker &#40;Pilot, Printed Legs, Visor Up / Down&#41;": {
+    "name": "Luke Skywalker &#40;Pilot, Printed Legs, Visor Up / Down&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75288-1",
+        "set_name": "AT-AT",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "General Maximillian Veers - Helmet with Goggles Print": {
+    "name": "General Maximillian Veers - Helmet with Goggles Print",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75288-1",
+        "set_name": "AT-AT",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Smile": {
+    "name": "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75288-1",
+        "set_name": "AT-AT",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Snowtrooper, Printed Legs, Dark Tan Hands, Cheek Lines, Frown": {
+    "name": "Snowtrooper, Printed Legs, Dark Tan Hands, Cheek Lines, Frown",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75288-1",
+        "set_name": "AT-AT",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Snowtrooper, Printed Legs, Dark Tan Hands, Frown": {
+    "name": "Snowtrooper, Printed Legs, Dark Tan Hands, Frown",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75288-1",
+        "set_name": "AT-AT",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Frown": {
+    "name": "AT-AT Driver - Dark Red Imperial Logo, Cheek Lines, Frown",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75288-1",
+        "set_name": "AT-AT",
+        "quantity": 1
+      },
+      {
+        "set": "75298-1",
+        "set_name": "AT-AT vs Tauntaun Microfighters",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Luke Skywalker &#40;Cloud City, Dark Tan Shirt&#41;": {
+    "name": "Luke Skywalker &#40;Cloud City, Dark Tan Shirt&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75294-1",
+        "set_name": "Bespin Duel - Star Wars Celebration 2020 Exclusive",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Darth Vader - Printed Arms, Traditional Starched Fabric Cape": {
+    "name": "Darth Vader - Printed Arms, Traditional Starched Fabric Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75294-1",
+        "set_name": "Bespin Duel - Star Wars Celebration 2020 Exclusive",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Han Solo, Dark Blue Legs, Vest with Pockets, Wavy Hair": {
+    "name": "Han Solo, Dark Blue Legs, Vest with Pockets, Wavy Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75295-1",
+        "set_name": "Millennium Falcon Microfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Poe Dameron &#40;Medium Nougat Jacket, Helmet&#41;": {
+    "name": "Poe Dameron &#40;Medium Nougat Jacket, Helmet&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75297-1",
+        "set_name": "Resistance X-Wing",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Luke Skywalker &#40;Hoth, Balaclava Head&#41;": {
+    "name": "Luke Skywalker &#40;Hoth, Balaclava Head&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75298-1",
+        "set_name": "AT-AT vs Tauntaun Microfighters",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Din Grogu / The Child / 'Baby Yoda'": {
+    "name": "Din Grogu / The Child / 'Baby Yoda'",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75299-1",
+        "set_name": "Trouble on Tatooine",
+        "quantity": 1
+      },
+      {
+        "set": "75318-1",
+        "set_name": "The Child",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape": {
+    "name": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75299-1",
+        "set_name": "Trouble on Tatooine",
+        "quantity": 1
+      },
+      {
+        "set": "75312-1",
+        "set_name": "Boba Fett’s Starship {Slave I}",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Boba Fett - Repainted Beskar Armor, Jet Pack, Rangefinder": {
+    "name": "Boba Fett - Repainted Beskar Armor, Jet Pack, Rangefinder",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75312-1",
+        "set_name": "Boba Fett’s Starship {Slave I}",
+        "quantity": 1
+      },
+      {
+        "set": "75326-1",
+        "set_name": "Boba Fett's Throne Room",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack": {
+    "name": "The Mandalorian / Din Djarin / 'Mando' - Silver Beskar Armor, Jet Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75321-1",
+        "set_name": "The Razor Crest Microfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial AT-ST Driver - Helmet with Molded Goggles, Light Bluish Gray Jumpsuit, Plain Legs": {
+    "name": "Imperial AT-ST Driver - Helmet with Molded Goggles, Light Bluish Gray Jumpsuit, Plain Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75332-1",
+        "set_name": "AT-ST",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wicket &#40;Ewok&#41;, Printed Dark Orange Hood with Wrinkles": {
+    "name": "Wicket &#40;Ewok&#41;, Printed Dark Orange Hood with Wrinkles",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75332-1",
+        "set_name": "AT-ST",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial Scout Trooper - Female, Dual Molded Helmet, Reddish Brown Head, Open Mouth Smirk": {
+    "name": "Imperial Scout Trooper - Female, Dual Molded Helmet, Reddish Brown Head, Open Mouth Smirk",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75332-1",
+        "set_name": "AT-ST",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Abby Yates - Proton Pack": {
+    "name": "Abby Yates - Proton Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75828-1",
+        "set_name": "Ecto-1 & 2",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Erin Gilbert - Proton Pack": {
+    "name": "Erin Gilbert - Proton Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75828-1",
+        "set_name": "Ecto-1 & 2",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Jillian Holtzmann - Proton Pack": {
+    "name": "Jillian Holtzmann - Proton Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75828-1",
+        "set_name": "Ecto-1 & 2",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Patty Tolan - Proton Pack": {
+    "name": "Patty Tolan - Proton Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75828-1",
+        "set_name": "Ecto-1 & 2",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Kevin Beckman": {
+    "name": "Kevin Beckman",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75828-1",
+        "set_name": "Ecto-1 & 2",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mayhem": {
+    "name": "Mayhem",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75828-1",
+        "set_name": "Ecto-1 & 2",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "1974 Porsche 911 Turbo 3.0 Driver": {
+    "name": "1974 Porsche 911 Turbo 3.0 Driver",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75895-1",
+        "set_name": "1974 Porsche 911 Turbo 3.0",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Shaggy Rogers - Closed Mouth": {
+    "name": "Shaggy Rogers - Closed Mouth",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75901-1",
+        "set_name": "Mystery Plane Adventures",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Headless Horseman / Elwood Crane": {
+    "name": "Headless Horseman / Elwood Crane",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75901-1",
+        "set_name": "Mystery Plane Adventures",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Shaggy Rogers - Open Mouth Grin": {
+    "name": "Shaggy Rogers - Open Mouth Grin",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75902-1",
+        "set_name": "The Mystery Machine",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Fred Jones": {
+    "name": "Fred Jones",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75902-1",
+        "set_name": "The Mystery Machine",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Zombie / Zeke": {
+    "name": "Zombie / Zeke",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75902-1",
+        "set_name": "The Mystery Machine",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "ACU Trooper - Male, Dark Blue Cap, Light Nougat Head, Sand Blue Body Armor Vest": {
+    "name": "ACU Trooper - Male, Dark Blue Cap, Light Nougat Head, Sand Blue Body Armor Vest",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75917-1",
+        "set_name": "Raptor Rampage",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Owen Grady - Leather Vest": {
+    "name": "Owen Grady - Leather Vest",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75917-1",
+        "set_name": "Raptor Rampage",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Claire Dearing - White Shirt Open": {
+    "name": "Claire Dearing - White Shirt Open",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75917-1",
+        "set_name": "Raptor Rampage",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Man - Mark 45 Armor": {
+    "name": "Iron Man - Mark 45 Armor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76029-1",
+        "set_name": "Iron Man vs. Ultron",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ultron Sentry Officer": {
+    "name": "Ultron Sentry Officer",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76029-1",
+        "set_name": "Iron Man vs. Ultron",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ultron Sentry": {
+    "name": "Ultron Sentry",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76029-1",
+        "set_name": "Iron Man vs. Ultron",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Thor - Spongy Cape, Dark Blue Legs": {
+    "name": "Thor - Spongy Cape, Dark Blue Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76030-1",
+        "set_name": "Avengers Hydra Showdown",
+        "quantity": 1
+      },
+      {
+        "set": "76038-1",
+        "set_name": "Attack on Avengers Tower",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Hydra Henchman - Chitauri Armor": {
+    "name": "Hydra Henchman - Chitauri Armor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76030-1",
+        "set_name": "Avengers Hydra Showdown",
+        "quantity": 1
+      },
+      {
+        "set": "76041-1",
+        "set_name": "The Hydra Fortress Smash",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Hawkeye - Black and Dark Red Suit, Reddish Brown Spiked Hair": {
+    "name": "Hawkeye - Black and Dark Red Suit, Reddish Brown Spiked Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76030-1",
+        "set_name": "Avengers Hydra Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Man - Mark 43 Armor": {
+    "name": "Iron Man - Mark 43 Armor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76031-1",
+        "set_name": "The Hulk Buster Smash",
+        "quantity": 1
+      },
+      {
+        "set": "76032-1",
+        "set_name": "The Avengers Quinjet City Chase",
+        "quantity": 1
+      },
+      {
+        "set": "76038-1",
+        "set_name": "Attack on Avengers Tower",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 3
+  },
+  "Hulk - Giant, Dark Purple Pants with Avengers Logo": {
+    "name": "Hulk - Giant, Dark Purple Pants with Avengers Logo",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76031-1",
+        "set_name": "The Hulk Buster Smash",
+        "quantity": 1
+      },
+      {
+        "set": "76041-1",
+        "set_name": "The Hydra Fortress Smash",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "The Scarlet Witch &#40;Wanda Maximoff&#41; - Printed Legs, Reddish Brown Hair": {
+    "name": "The Scarlet Witch &#40;Wanda Maximoff&#41; - Printed Legs, Reddish Brown Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76031-1",
+        "set_name": "The Hulk Buster Smash",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ultron Prime": {
+    "name": "Ultron Prime",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76031-1",
+        "set_name": "The Hulk Buster Smash",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Captain America - Dark Blue Suit, Reddish Brown Hands, Mask": {
+    "name": "Captain America - Dark Blue Suit, Reddish Brown Hands, Mask",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76032-1",
+        "set_name": "The Avengers Quinjet City Chase",
+        "quantity": 1
+      },
+      {
+        "set": "76041-1",
+        "set_name": "The Hydra Fortress Smash",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Vision - Sand Green, Dark Azure Spot on Forehead": {
+    "name": "Vision - Sand Green, Dark Azure Spot on Forehead",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76032-1",
+        "set_name": "The Avengers Quinjet City Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ultimate Ultron - Foot Repulsors": {
+    "name": "Ultimate Ultron - Foot Repulsors",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76032-1",
+        "set_name": "The Avengers Quinjet City Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Black Widow - Black Jumpsuit, Dark Orange Short Hair, Printed Legs, Dark Azure Trim": {
+    "name": "Black Widow - Black Jumpsuit, Dark Orange Short Hair, Printed Legs, Dark Azure Trim",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76032-1",
+        "set_name": "The Avengers Quinjet City Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Sandman - Tan Legs": {
+    "name": "Sandman - Tan Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76037-1",
+        "set_name": "Rhino and Sandman Super Villain Team-up",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Rhino": {
+    "name": "Rhino",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76037-1",
+        "set_name": "Rhino and Sandman Super Villain Team-up",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Spider - Bony Appendages": {
+    "name": "Iron Spider - Bony Appendages",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76037-1",
+        "set_name": "Rhino and Sandman Super Villain Team-up",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man - Black Web Pattern, Red Boots": {
+    "name": "Spider-Man - Black Web Pattern, Red Boots",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76037-1",
+        "set_name": "Rhino and Sandman Super Villain Team-up",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Legion - Trans-Neon Orange Head, Helmet with Visor": {
+    "name": "Iron Legion - Trans-Neon Orange Head, Helmet with Visor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76038-1",
+        "set_name": "Attack on Avengers Tower",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Ultron MK1 - Trans-Clear Head": {
+    "name": "Ultron MK1 - Trans-Clear Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76038-1",
+        "set_name": "Attack on Avengers Tower",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Quicksilver": {
+    "name": "Quicksilver",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76041-1",
+        "set_name": "The Hydra Fortress Smash",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Baron Von Strucker": {
+    "name": "Baron Von Strucker",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76041-1",
+        "set_name": "The Hydra Fortress Smash",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Captain Marvel - Red Sash": {
+    "name": "Captain Marvel - Red Sash",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76049-1",
+        "set_name": "Avenjet Space Mission",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Hyperion": {
+    "name": "Hyperion",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76049-1",
+        "set_name": "Avenjet Space Mission",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Space Captain America": {
+    "name": "Space Captain America",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76049-1",
+        "set_name": "Avenjet Space Mission",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Space Iron Man": {
+    "name": "Space Iron Man",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76049-1",
+        "set_name": "Avenjet Space Mission",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Thanos - Large Figure, Dark Blue and Pearl Gold Outfit, Arms, and Helmet": {
+    "name": "Thanos - Large Figure, Dark Blue and Pearl Gold Outfit, Arms, and Helmet",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76049-1",
+        "set_name": "Avenjet Space Mission",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man - Black Web Pattern": {
+    "name": "Spider-Man - Black Web Pattern",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76058-1",
+        "set_name": "Spider-Man: Ghost Rider Team-up",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ghost Rider, Johnathon &#39;Johnny&#39; Blaze - White Head, Chain Belt": {
+    "name": "Ghost Rider, Johnathon &#39;Johnny&#39; Blaze - White Head, Chain Belt",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76058-1",
+        "set_name": "Spider-Man: Ghost Rider Team-up",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Hobgoblin - Starched Fabric Cape": {
+    "name": "Hobgoblin - Starched Fabric Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76058-1",
+        "set_name": "Spider-Man: Ghost Rider Team-up",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Doctor Strange - Necklace, Cloth Starched Cape and Collar": {
+    "name": "Doctor Strange - Necklace, Cloth Starched Cape and Collar",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76060-1",
+        "set_name": "Doctor Strange&#39;s Sanctum Sanctorum",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Karl Mordo - Dark Green Vest": {
+    "name": "Karl Mordo - Dark Green Vest",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76060-1",
+        "set_name": "Doctor Strange&#39;s Sanctum Sanctorum",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "The Ancient One": {
+    "name": "The Ancient One",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76060-1",
+        "set_name": "Doctor Strange&#39;s Sanctum Sanctorum",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wonder Woman - Gold Tiara, Short Legs": {
+    "name": "Wonder Woman - Gold Tiara, Short Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76070-1",
+        "set_name": "Mighty Micros: Wonder Woman vs. Doomsday",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Doomsday - Short Legs": {
+    "name": "Doomsday - Short Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76070-1",
+        "set_name": "Mighty Micros: Wonder Woman vs. Doomsday",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ayesha": {
+    "name": "Ayesha",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76080-1",
+        "set_name": "Ayesha&#39;s Revenge",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Yondu": {
+    "name": "Yondu",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76080-1",
+        "set_name": "Ayesha&#39;s Revenge",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Star-Lord - Jet Pack": {
+    "name": "Star-Lord - Jet Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76080-1",
+        "set_name": "Ayesha&#39;s Revenge",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Groot - Baby, Reddish Brown with Dark Red Outfit": {
+    "name": "Groot - Baby, Reddish Brown with Dark Red Outfit",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76080-1",
+        "set_name": "Ayesha&#39;s Revenge",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Star-Lord - Silver Armor, Jet Pack": {
+    "name": "Star-Lord - Silver Armor, Jet Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76081-1",
+        "set_name": "The Milano vs. The Abilisk",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Nebula - Dark Azure Head, Torn Outfit": {
+    "name": "Nebula - Dark Azure Head, Torn Outfit",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76081-1",
+        "set_name": "The Milano vs. The Abilisk",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Drax - Dark Blue Legs, Jet Pack": {
+    "name": "Drax - Dark Blue Legs, Jet Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76081-1",
+        "set_name": "The Milano vs. The Abilisk",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Gamora - Silver Armor": {
+    "name": "Gamora - Silver Armor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76081-1",
+        "set_name": "The Milano vs. The Abilisk",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Groot - Baby, Reddish Brown": {
+    "name": "Groot - Baby, Reddish Brown",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76081-1",
+        "set_name": "The Milano vs. The Abilisk",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Aquaman - Dark Brown Long Hair, Dark Green Legs": {
+    "name": "Aquaman - Dark Brown Long Hair, Dark Green Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76085-1",
+        "set_name": "Battle of Atlantis",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Atlantean Guard - Angry Expression": {
+    "name": "Atlantean Guard - Angry Expression",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76085-1",
+        "set_name": "Battle of Atlantis",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Parademon - Bright Light Orange, Extended Wings": {
+    "name": "Parademon - Bright Light Orange, Extended Wings",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76085-1",
+        "set_name": "Battle of Atlantis",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Atlantean Guard - Scared Expression": {
+    "name": "Atlantean Guard - Scared Expression",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76085-1",
+        "set_name": "Battle of Atlantis",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Cull Obsidian": {
+    "name": "Cull Obsidian",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76108-1",
+        "set_name": "The Sanctum Sanctorum Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ebony Maw - Light Aqua Head": {
+    "name": "Ebony Maw - Light Aqua Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76108-1",
+        "set_name": "The Sanctum Sanctorum Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Doctor Strange - Necklace, Cloth Spongy Cape and Starched Collar": {
+    "name": "Doctor Strange - Necklace, Cloth Spongy Cape and Starched Collar",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76108-1",
+        "set_name": "The Sanctum Sanctorum Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Spider-Man - Mechanical Arms with Barbs": {
+    "name": "Iron Spider-Man - Mechanical Arms with Barbs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76108-1",
+        "set_name": "The Sanctum Sanctorum Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Man - Mark 50 Armor, Small Helmet Visor": {
+    "name": "Iron Man - Mark 50 Armor, Small Helmet Visor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76108-1",
+        "set_name": "The Sanctum Sanctorum Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man - Metallic Light Blue Eye Highlights": {
+    "name": "Spider-Man - Metallic Light Blue Eye Highlights",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76115-1",
+        "set_name": "Spider Mech vs. Venom",
+        "quantity": 1
+      },
+      {
+        "set": "76150-1",
+        "set_name": "Spiderjet vs. Venom Mech",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Venom - Teeth Parted": {
+    "name": "Venom - Teeth Parted",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76115-1",
+        "set_name": "Spider Mech vs. Venom",
+        "quantity": 1
+      },
+      {
+        "set": "76150-1",
+        "set_name": "Spiderjet vs. Venom Mech",
+        "quantity": 1
+      },
+      {
+        "set": "40454-1",
+        "set_name": "Spider-Man vs. Venom and Iron Venom blister pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 3
+  },
+  "Ghost-Spider / Spider-Gwen &#40;Gwen Stacy&#41; - Black Legs, White Hood": {
+    "name": "Ghost-Spider / Spider-Gwen &#40;Gwen Stacy&#41; - Black Legs, White Hood",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76115-1",
+        "set_name": "Spider Mech vs. Venom",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Aunt May": {
+    "name": "Aunt May",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76115-1",
+        "set_name": "Spider Mech vs. Venom",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Batman - Dark Bluish Gray Suit with Gold Outline Belt and Crest, Mask and Cape &#40;Type 3 Cowl, Teardrop Neck Cut Spongy Cape&#41;": {
+    "name": "Batman - Dark Bluish Gray Suit with Gold Outline Belt and Crest, Mask and Cape &#40;Type 3 Cowl, Teardrop Neck Cut Spongy Cape&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76119-1",
+        "set_name": "Batmobile: Pursuit of The Joker",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "The Joker - Orange Bow Tie, Green Arms": {
+    "name": "The Joker - Orange Bow Tie, Green Arms",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76119-1",
+        "set_name": "Batmobile: Pursuit of The Joker",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Captain America - White Jumpsuit, Helmet": {
+    "name": "Captain America - White Jumpsuit, Helmet",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76123-1",
+        "set_name": "Captain America: Outriders Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Outrider - Extended Claws": {
+    "name": "Outrider - Extended Claws",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76123-1",
+        "set_name": "Captain America: Outriders Attack",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Outrider - Shoulder Armor Pad": {
+    "name": "Outrider - Shoulder Armor Pad",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76123-1",
+        "set_name": "Captain America: Outriders Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Man - Silver Hexagon on Chest": {
+    "name": "Iron Man - Silver Hexagon on Chest",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76140-1",
+        "set_name": "Iron Man Mech",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Thanos - Minifigure, Dark Blue and Gold Outfit, Printed Legs": {
+    "name": "Thanos - Minifigure, Dark Blue and Gold Outfit, Printed Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76141-1",
+        "set_name": "Thanos Mech",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Black Panther - Collar": {
+    "name": "Black Panther - Collar",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76142-1",
+        "set_name": "Avengers Speeder Bike Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Thor - Spongy Cape, Pearl Dark Gray Legs": {
+    "name": "Thor - Spongy Cape, Pearl Dark Gray Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76142-1",
+        "set_name": "Avengers Speeder Bike Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "AIM Agent - Backpack and Pins with Tow Ball": {
+    "name": "AIM Agent - Backpack and Pins with Tow Ball",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76142-1",
+        "set_name": "Avengers Speeder Bike Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man - Dark Red Web Pattern, Blue Legs": {
+    "name": "Spider-Man - Dark Red Web Pattern, Blue Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76146-1",
+        "set_name": "Spider-Man Mech",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man Noir - Shirt Tail": {
+    "name": "Spider-Man Noir - Shirt Tail",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76150-1",
+        "set_name": "Spiderjet vs. Venom Mech",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man Noir - No Shirt Tail": {
+    "name": "Spider-Man Noir - No Shirt Tail",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76150-1",
+        "set_name": "Spiderjet vs. Venom Mech",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Black Widow - Black Jumpsuit, Dark Orange Mid-Length Hair, Printed Legs, Dark Bluish Gray Hands": {
+    "name": "Black Widow - Black Jumpsuit, Dark Orange Mid-Length Hair, Printed Legs, Dark Bluish Gray Hands",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76162-1",
+        "set_name": "Black Widow&#39;s Helicopter Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Yelena Belova": {
+    "name": "Yelena Belova",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76162-1",
+        "set_name": "Black Widow&#39;s Helicopter Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Taskmaster - Black Hood": {
+    "name": "Taskmaster - Black Hood",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76162-1",
+        "set_name": "Black Widow&#39;s Helicopter Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man &#40;Miles Morales&#41; - Dark Red Hood, Black Lower Legs": {
+    "name": "Spider-Man &#40;Miles Morales&#41; - Dark Red Hood, Black Lower Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76171-1",
+        "set_name": "Miles Morales Mech Armor",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man - Printed Blue Arms, Plain Legs": {
+    "name": "Spider-Man - Printed Blue Arms, Plain Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76172-1",
+        "set_name": "Spider-Man and Sandman Showdown",
+        "quantity": 1
+      },
+      {
+        "set": "76173-1",
+        "set_name": "Spider-Man and Ghost Rider vs. Carnage",
+        "quantity": 1
+      },
+      {
+        "set": "40454-1",
+        "set_name": "Spider-Man vs. Venom and Iron Venom blister pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 3
+  },
+  "Sandman - Green Outfit, Tan Sand Form with Swirling Base": {
+    "name": "Sandman - Green Outfit, Tan Sand Form with Swirling Base",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76172-1",
+        "set_name": "Spider-Man and Sandman Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ghost Rider, Roberto &#39;Robbie&#39; Reyes - Flat Silver Head": {
+    "name": "Ghost Rider, Roberto &#39;Robbie&#39; Reyes - Flat Silver Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76173-1",
+        "set_name": "Spider-Man and Ghost Rider vs. Carnage",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Carnage - Medium Appendages": {
+    "name": "Carnage - Medium Appendages",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76173-1",
+        "set_name": "Spider-Man and Ghost Rider vs. Carnage",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Shang-Chi": {
+    "name": "Shang-Chi",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76177-1",
+        "set_name": "Battle at the Ancient Village",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wenwu &#40;The Mandarin&#41;": {
+    "name": "Wenwu &#40;The Mandarin&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76177-1",
+        "set_name": "Battle at the Ancient Village",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Xialing": {
+    "name": "Xialing",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76177-1",
+        "set_name": "Battle at the Ancient Village",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Death Dealer": {
+    "name": "Death Dealer",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76177-1",
+        "set_name": "Battle at the Ancient Village",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Batman - Classic TV Series, Goggles and Light Bluish Gray Torso": {
+    "name": "Batman - Classic TV Series, Goggles and Light Bluish Gray Torso",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76188-1",
+        "set_name": "Batman Classic TV Series Batmobile",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "The Joker - Dark Pink Suit, Open Mouth Grin / Closed Mouth": {
+    "name": "The Joker - Dark Pink Suit, Open Mouth Grin / Closed Mouth",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76188-1",
+        "set_name": "Batman Classic TV Series Batmobile",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wolverine - Bright Light Orange and Black Mask, Blue Hands": {
+    "name": "Wolverine - Bright Light Orange and Black Mask, Blue Hands",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76202-1",
+        "set_name": "Wolverine Mech Armor",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Dean Thomas - Medium Legs": {
+    "name": "Dean Thomas - Medium Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76388-1",
+        "set_name": "Hogsmeade Village Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Harry Potter - Dark Blue Open Jacket over Sand Blue Shirt, Black Medium Legs": {
+    "name": "Harry Potter - Dark Blue Open Jacket over Sand Blue Shirt, Black Medium Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76388-1",
+        "set_name": "Hogsmeade Village Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Madam Rosmerta - Black Legs": {
+    "name": "Madam Rosmerta - Black Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76388-1",
+        "set_name": "Hogsmeade Village Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mr. Flume": {
+    "name": "Mr. Flume",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76388-1",
+        "set_name": "Hogsmeade Village Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mrs. Flume - Dark Pink Shawl": {
+    "name": "Mrs. Flume - Dark Pink Shawl",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76388-1",
+        "set_name": "Hogsmeade Village Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Professor Minerva McGonagall - Dark Green Robe over Dark Blue Dress, Dark Tan Hair": {
+    "name": "Professor Minerva McGonagall - Dark Green Robe over Dark Blue Dress, Dark Tan Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76388-1",
+        "set_name": "Hogsmeade Village Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ron Weasley - 20th Anniversary Pearl Gold": {
+    "name": "Ron Weasley - 20th Anniversary Pearl Gold",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76388-1",
+        "set_name": "Hogsmeade Village Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Buzz Lightyear - Star Command Suit, Hair": {
+    "name": "Buzz Lightyear - Star Command Suit, Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76830-1",
+        "set_name": "Zyclops Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Izzy Hawthorne": {
+    "name": "Izzy Hawthorne",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76830-1",
+        "set_name": "Zyclops Chase",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "1985 Audi Sport quattro S1 Driver": {
+    "name": "1985 Audi Sport quattro S1 Driver",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76897-1",
+        "set_name": "1985 Audi Sport quattro S1",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "James Bond - Black Tuxedo &#40;No Time To Die&#41;": {
+    "name": "James Bond - Black Tuxedo &#40;No Time To Die&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76911-1",
+        "set_name": "007 Aston Martin DB5",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Dominic Toretto": {
+    "name": "Dominic Toretto",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76912-1",
+        "set_name": "Fast & Furious 1970 Dodge Charger R/T",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wonder Woman, DC Super Heroes &#40;Minifigure Only without Stand and Accessories&#41;": {
+    "name": "Wonder Woman, DC Super Heroes &#40;Minifigure Only without Stand and Accessories&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "77906-1",
+        "set_name": "Wonder Woman - San Diego Comic-Con 2020 Exclusive",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Cheetah, DC Super Heroes &#40;Minifigure Only without Stand and Accessories&#41;": {
+    "name": "Cheetah, DC Super Heroes &#40;Minifigure Only without Stand and Accessories&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "77906-1",
+        "set_name": "Wonder Woman - San Diego Comic-Con 2020 Exclusive",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Etta Candy": {
+    "name": "Etta Candy",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "77906-1",
+        "set_name": "Wonder Woman - San Diego Comic-Con 2020 Exclusive",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Scale Mail - Red with Black Arms, Light Gray Legs with Black Hips, Dark Gray Chin-Guard": {
+    "name": "Scale Mail - Red with Black Arms, Light Gray Legs with Black Hips, Dark Gray Chin-Guard",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "1547-1",
+        "set_name": "Black Knights Boat",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Breastplate - Black, Light Gray Legs with Black Hips, Dark Gray Grille Helmet, Red Plastic Cape": {
+    "name": "Breastplate - Black, Light Gray Legs with Black Hips, Dark Gray Grille Helmet, Red Plastic Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "1547-1",
+        "set_name": "Black Knights Boat",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Dragon Knights - Knight 2, Black Legs with Red Hips, Black Dragon Helmet, Blue Plumes": {
+    "name": "Dragon Knights - Knight 2, Black Legs with Red Hips, Black Dragon Helmet, Blue Plumes",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6048-1",
+        "set_name": "Majisto's Magical Workshop",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Majisto Wizard - Black Plastic Cape": {
+    "name": "Majisto Wizard - Black Plastic Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6048-1",
+        "set_name": "Majisto's Magical Workshop",
+        "quantity": 1
+      },
+      {
+        "set": "6082-1",
+        "set_name": "Fire Breathing Fortress",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Black Falcon - Light Gray Legs with Black Hips, Dark Gray Chin-Guard": {
+    "name": "Black Falcon - Light Gray Legs with Black Hips, Dark Gray Chin-Guard",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6057-1",
+        "set_name": "Sea Serpent",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Black Falcon - Light Gray Legs with Black Hips, Black Neck-Protector": {
+    "name": "Black Falcon - Light Gray Legs with Black Hips, Black Neck-Protector",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6057-1",
+        "set_name": "Sea Serpent",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Scale Mail - Red with Blue Arms, Black Legs with Red Hips, Dark Gray Neck-Protector": {
+    "name": "Scale Mail - Red with Blue Arms, Black Legs with Red Hips, Dark Gray Neck-Protector",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6057-1",
+        "set_name": "Sea Serpent",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Scale Mail - Red with Black Arms, Light Gray Legs with Black Hips, Dark Gray Neck-Protector": {
+    "name": "Scale Mail - Red with Black Arms, Light Gray Legs with Black Hips, Dark Gray Neck-Protector",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6057-1",
+        "set_name": "Sea Serpent",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Breastplate - Black, Black Legs with Red Hips, Black Neck-Protector, Red Plastic Cape": {
+    "name": "Breastplate - Black, Black Legs with Red Hips, Black Neck-Protector, Red Plastic Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6057-1",
+        "set_name": "Sea Serpent",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ghost with 1 x 2 Plate and 1 x 2 Brick as Legs": {
+    "name": "Ghost with 1 x 2 Plate and 1 x 2 Brick as Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6075-1",
+        "set_name": "Wolfpack Tower",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wolfpack - Eye Patch, Brown Arms and Black Legs, Black Hood and Cape": {
+    "name": "Wolfpack - Eye Patch, Brown Arms and Black Legs, Black Hood and Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6075-1",
+        "set_name": "Wolfpack Tower",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wolfpack - Moustache, Black Arms and Light Gray Legs, Brown Hood and Red Cape": {
+    "name": "Wolfpack - Moustache, Black Arms and Light Gray Legs, Brown Hood and Red Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6075-1",
+        "set_name": "Wolfpack Tower",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Dragon Knights - Knight 1, Light Gray Legs with Black Hips, Black Neck-Protector": {
+    "name": "Dragon Knights - Knight 1, Light Gray Legs with Black Hips, Black Neck-Protector",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6082-1",
+        "set_name": "Fire Breathing Fortress",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Dragon Knights - Dragon Master, Yellow Plumes, Dragon Cape": {
+    "name": "Dragon Knights - Dragon Master, Yellow Plumes, Dragon Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6082-1",
+        "set_name": "Fire Breathing Fortress",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Dragon Knights - Knight 1, Light Gray Legs with Black Hips, Black Chin-Guard, Quiver": {
+    "name": "Dragon Knights - Knight 1, Light Gray Legs with Black Hips, Black Chin-Guard, Quiver",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6082-1",
+        "set_name": "Fire Breathing Fortress",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Wolfpack - Eye Patch, Brown Arms and Black Legs, Black Hood, no Cape": {
+    "name": "Wolfpack - Eye Patch, Brown Arms and Black Legs, Black Hood, no Cape",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6082-1",
+        "set_name": "Fire Breathing Fortress",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Blue Jacket, Light Gray Legs, Black Pirate Triangle Hat": {
+    "name": "Pirate Blue Jacket, Light Gray Legs, Black Pirate Triangle Hat",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6254-1",
+        "set_name": "Rocky Reef",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Red / White Stripes Shirt, Blue Legs, Red Bandana": {
+    "name": "Pirate Red / White Stripes Shirt, Blue Legs, Red Bandana",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6254-1",
+        "set_name": "Rocky Reef",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Skeleton - Standard Skull, Floppy Arms": {
+    "name": "Skeleton - Standard Skull, Floppy Arms",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6254-1",
+        "set_name": "Rocky Reef",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Red / White Stripes Shirt, Black Leg with Peg Leg, Black Pirate Triangle Hat": {
+    "name": "Pirate Red / White Stripes Shirt, Black Leg with Peg Leg, Black Pirate Triangle Hat",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6261-1",
+        "set_name": "Raft Raiders",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Blue / White Stripes Shirt, Light Gray Legs, Red Bandana": {
+    "name": "Pirate Blue / White Stripes Shirt, Light Gray Legs, Red Bandana",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6261-1",
+        "set_name": "Raft Raiders",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Shirt with Knife, Black Legs, Black Pirate Hat with Skull": {
+    "name": "Pirate Shirt with Knife, Black Legs, Black Pirate Hat with Skull",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6261-1",
+        "set_name": "Raft Raiders",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Blue Jacket, Light Gray Legs, Brown Pirate Triangle Hat": {
+    "name": "Pirate Blue Jacket, Light Gray Legs, Brown Pirate Triangle Hat",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6262-1",
+        "set_name": "King Kahuka's Throne",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Red / Black Stripes Shirt, Black Legs, Blue Bandana": {
+    "name": "Pirate Red / Black Stripes Shirt, Black Legs, Blue Bandana",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6262-1",
+        "set_name": "King Kahuka's Throne",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Islander, King Kahuka": {
+    "name": "Islander, King Kahuka",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6262-1",
+        "set_name": "King Kahuka's Throne",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Islander, Male": {
+    "name": "Islander, Male",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6262-1",
+        "set_name": "King Kahuka's Throne",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Divers - Control 2, Red Legs, Black Cap, Glasses and Headset": {
+    "name": "Divers - Control 2, Red Legs, Black Cap, Glasses and Headset",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6599-1",
+        "set_name": "Shark Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Divers - Red Diver 2, Red Legs with Black Hips, Black Helmet, Brown Bangs, Stubble": {
+    "name": "Divers - Red Diver 2, Red Legs with Black Hips, Black Helmet, Brown Bangs, Stubble",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "6599-1",
+        "set_name": "Shark Attack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Skeleton, Fantasy Era Torso with Standard Skull, Mechanical Arms Straight": {
+    "name": "Skeleton, Fantasy Era Torso with Standard Skull, Mechanical Arms Straight",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "8089-1",
+        "set_name": "Hoth Wampa Cave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Zev Senesca": {
+    "name": "Zev Senesca",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "8089-1",
+        "set_name": "Hoth Wampa Cave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Luke Skywalker (Hoth)": {
+    "name": "Luke Skywalker (Hoth)",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "8089-1",
+        "set_name": "Hoth Wampa Cave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astromech Droid, R2-D2, Light Bluish Gray Head": {
+    "name": "Astromech Droid, R2-D2, Light Bluish Gray Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "9493-1",
+        "set_name": "X-wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Luke Skywalker - Light Nougat, X-wing Pilot Suit, Detailed Torso and Helmet": {
+    "name": "Luke Skywalker - Light Nougat, X-wing Pilot Suit, Detailed Torso and Helmet",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "9493-1",
+        "set_name": "X-wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Jek Porkins": {
+    "name": "Jek Porkins",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "9493-1",
+        "set_name": "X-wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astromech Droid, R5-D8 / R5-D4 - Truncated Cone Head, Blue Center Panel": {
+    "name": "Astromech Droid, R5-D8 / R5-D4 - Truncated Cone Head, Blue Center Panel",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "9493-1",
+        "set_name": "X-wing Starfighter",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Batman - Black Suit with Copper Belt &#40;Type 2 Cowl&#41;": {
+    "name": "Batman - Black Suit with Copper Belt &#40;Type 2 Cowl&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76023-1",
+        "set_name": "The Tumbler",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "The Joker - Dark Purple Suit, Green Vest, Green Hair": {
+    "name": "The Joker - Dark Purple Suit, Green Vest, Green Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76023-1",
+        "set_name": "The Tumbler",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate 3 - Black and Red Stripes, Blue Legs, Scar": {
+    "name": "Pirate 3 - Black and Red Stripes, Blue Legs, Scar",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Pirate 5 - Black and Red Stripes, Red Legs, Scar": {
+    "name": "Pirate 5 - Black and Red Stripes, Red Legs, Scar",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate 6 - Black and Red Stripes, Black Legs, Scar": {
+    "name": "Pirate 6 - Black and Red Stripes, Black Legs, Scar",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate 8 - Red and White Stripes, Black Legs, Scowl": {
+    "name": "Pirate 8 - Red and White Stripes, Black Legs, Scowl",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Pirate 9 - Red and White Stripes, Blue Legs, Scowl": {
+    "name": "Pirate 9 - Red and White Stripes, Blue Legs, Scowl",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Chess King": {
+    "name": "Pirate Chess King",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate Chess Queen": {
+    "name": "Pirate Chess Queen",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Bluecoat Soldier 5 - Sweat Drops, Reddish Brown Hair": {
+    "name": "Bluecoat Soldier 5 - Sweat Drops, Reddish Brown Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 4
+      }
+    ],
+    "total_quantity": 4
+  },
+  "Bluecoat Soldier 6 - Cheek Lines, Black Hair": {
+    "name": "Bluecoat Soldier 6 - Cheek Lines, Black Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 3
+      }
+    ],
+    "total_quantity": 3
+  },
+  "Chess King": {
+    "name": "Chess King",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Chess Queen": {
+    "name": "Chess Queen",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate 7 - Black and Red Stripes, Red Legs, Scared, Black Crow&#39;s Feet": {
+    "name": "Pirate 7 - Black and Red Stripes, Red Legs, Scared, Black Crow&#39;s Feet",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pirate 7 - Black and Red Stripes, Red Legs, Scared, Brown Crow&#39;s Feet": {
+    "name": "Pirate 7 - Black and Red Stripes, Red Legs, Scared, Brown Crow&#39;s Feet",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Bluecoat Soldier 7 - Tousled Hair &#40;Head 4549620&#41;": {
+    "name": "Bluecoat Soldier 7 - Tousled Hair &#40;Head 4549620&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Bluecoat Soldier 7 - Tousled Hair &#40;Head 6123714&#41;": {
+    "name": "Bluecoat Soldier 7 - Tousled Hair &#40;Head 6123714&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40158-1",
+        "set_name": "LEGO Chess",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Steve &#40;Light Nougat&#41; - Medium Azure Legs, Helmet and Armor": {
+    "name": "Steve &#40;Light Nougat&#41; - Medium Azure Legs, Helmet and Armor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21124-1",
+        "set_name": "The End Portal",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Enderman - Light Bluish Gray Block": {
+    "name": "Enderman - Light Bluish Gray Block",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21124-1",
+        "set_name": "The End Portal",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Duplo Figure Lego Ville, Male, Medium Blue Legs, Tan Top with Medium Blue Overalls, Bandana, Red Cap": {
+    "name": "Duplo Figure Lego Ville, Male, Medium Blue Legs, Tan Top with Medium Blue Overalls, Bandana, Red Cap",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10810-1",
+        "set_name": "Push Train",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Female, Medium Blue Legs, Red Sweater with Diamond Pattern, Reddish Brown Hair, Blue Eyes": {
+    "name": "Duplo Figure Lego Ville, Female, Medium Blue Legs, Red Sweater with Diamond Pattern, Reddish Brown Hair, Blue Eyes",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10810-1",
+        "set_name": "Push Train",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Winter Holiday Train Girl": {
+    "name": "Winter Holiday Train Girl",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10254-1",
+        "set_name": "Winter Holiday Train",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Winter Holiday Train Boy": {
+    "name": "Winter Holiday Train Boy",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10254-1",
+        "set_name": "Winter Holiday Train",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Winter Holiday Train Grandmother": {
+    "name": "Winter Holiday Train Grandmother",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10254-1",
+        "set_name": "Winter Holiday Train",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Winter Holiday Train Locomotive Driver": {
+    "name": "Winter Holiday Train Locomotive Driver",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10254-1",
+        "set_name": "Winter Holiday Train",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Winter Holiday Train Ticket Collector": {
+    "name": "Winter Holiday Train Ticket Collector",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10254-1",
+        "set_name": "Winter Holiday Train",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mae Jemison": {
+    "name": "Mae Jemison",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21312-1",
+        "set_name": "Women of NASA",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Margaret Hamilton": {
+    "name": "Margaret Hamilton",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21312-1",
+        "set_name": "Women of NASA",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Nancy G. Roman": {
+    "name": "Nancy G. Roman",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21312-1",
+        "set_name": "Women of NASA",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Sally Ride": {
+    "name": "Sally Ride",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21312-1",
+        "set_name": "Women of NASA",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Zombie - Dark Purple Legs": {
+    "name": "Zombie - Dark Purple Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21141-1",
+        "set_name": "The Zombie Cave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Steve &#40;Light Nougat&#41; - Dark Purple Legs, Flat Silver Helmet": {
+    "name": "Steve &#40;Light Nougat&#41; - Dark Purple Legs, Flat Silver Helmet",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21141-1",
+        "set_name": "The Zombie Cave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Baby Zombie - Printed Torso": {
+    "name": "Baby Zombie - Printed Torso",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21141-1",
+        "set_name": "The Zombie Cave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Child Boy, Blue Legs, Red Top with Zipper and Pockets, Reddish Brown Hair": {
+    "name": "Duplo Figure Lego Ville, Child Boy, Blue Legs, Red Top with Zipper and Pockets, Reddish Brown Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10871-1",
+        "set_name": "Airport",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Female Pilot, Dark Blue Legs, Medium Azure Top with Red Tie, Black Hair &#40;6273387&#41;": {
+    "name": "Duplo Figure Lego Ville, Female Pilot, Dark Blue Legs, Medium Azure Top with Red Tie, Black Hair &#40;6273387&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10871-1",
+        "set_name": "Airport",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Male, Dark Bluish Gray Legs, Dark Azure Jacket, Black Shirt, Reddish Brown Hair": {
+    "name": "Duplo Figure Lego Ville, Male, Dark Bluish Gray Legs, Dark Azure Jacket, Black Shirt, Reddish Brown Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10871-1",
+        "set_name": "Airport",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Sky Police - Jet Pilot": {
+    "name": "Sky Police - Jet Pilot",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60206-1",
+        "set_name": "Sky Police Jet Patrol",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Sky Police - Jail Prisoner 50380 Prison Stripes, Stubble, Dark Red Knit Cap": {
+    "name": "Sky Police - Jail Prisoner 50380 Prison Stripes, Stubble, Dark Red Knit Cap",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60206-1",
+        "set_name": "Sky Police Jet Patrol",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "C-3PO - Colorful Wires, Printed Legs": {
+    "name": "C-3PO - Colorful Wires, Printed Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75244-1",
+        "set_name": "Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astromech Droid, R2-D2 - Flat Silver Head, Lavender Dots and Small Receptor": {
+    "name": "Astromech Droid, R2-D2 - Flat Silver Head, Lavender Dots and Small Receptor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75244-1",
+        "set_name": "Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Rebel Fleet Trooper - Male, Vest with Pockets, Light Nougat Neck": {
+    "name": "Rebel Fleet Trooper - Male, Vest with Pockets, Light Nougat Neck",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75244-1",
+        "set_name": "Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Captain Antilles - Dark Tan Shirt, Small Rank Badge": {
+    "name": "Captain Antilles - Dark Tan Shirt, Small Rank Badge",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75244-1",
+        "set_name": "Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Princess Leia &#40;White Dress, Detailed Belt, Skirt Part&#41;": {
+    "name": "Princess Leia &#40;White Dress, Detailed Belt, Skirt Part&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75244-1",
+        "set_name": "Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Bail Organa - Olive Green Cloak": {
+    "name": "Bail Organa - Olive Green Cloak",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75244-1",
+        "set_name": "Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black and Dark Tan Eyebrows": {
+    "name": "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black and Dark Tan Eyebrows",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60224-1",
+        "set_name": "Satellite Service Mission",
+        "quantity": 1
+      },
+      {
+        "set": "60227-1",
+        "set_name": "Lunar Space Station",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black Eyebrows": {
+    "name": "Astronaut - Male, White Spacesuit with Orange Lines, Smirk, Cheek Lines, Black Eyebrows",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60224-1",
+        "set_name": "Satellite Service Mission",
+        "quantity": 1
+      },
+      {
+        "set": "60227-1",
+        "set_name": "Lunar Space Station",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Ground Crew Technician - Female, Dark Blue Jumpsuit, White Construction Helmet with Dark Brown Ponytail Hair, Light Blue Goggles": {
+    "name": "Ground Crew Technician - Female, Dark Blue Jumpsuit, White Construction Helmet with Dark Brown Ponytail Hair, Light Blue Goggles",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60225-1",
+        "set_name": "Rover Testing Drive",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Stubble, Moustache and Sideburns": {
+    "name": "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Stubble, Moustache and Sideburns",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60225-1",
+        "set_name": "Rover Testing Drive",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Black Angular Beard": {
+    "name": "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Black Angular Beard",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60226-1",
+        "set_name": "Mars Research Shuttle",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Female, White Spacesuit with Orange Lines, Closed Mouth Smile": {
+    "name": "Astronaut - Female, White Spacesuit with Orange Lines, Closed Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60226-1",
+        "set_name": "Mars Research Shuttle",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Open Mouth Smile": {
+    "name": "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60227-1",
+        "set_name": "Lunar Space Station",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "City Space Robot, Drone, Medium Azure Eyes": {
+    "name": "City Space Robot, Drone, Medium Azure Eyes",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60227-1",
+        "set_name": "Lunar Space Station",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Female, Blue Jumpsuit, Tan Hair Tousled with Side Part, Freckles, Open Mouth Smile": {
+    "name": "Astronaut - Female, Blue Jumpsuit, Tan Hair Tousled with Side Part, Freckles, Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60227-1",
+        "set_name": "Lunar Space Station",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, Blue Jumpsuit, Dark Bluish Gray Hair and Full Angular Beard, Open Mouth Smile": {
+    "name": "Astronaut - Male, Blue Jumpsuit, Dark Bluish Gray Hair and Full Angular Beard, Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60227-1",
+        "set_name": "Lunar Space Station",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Freckles with Smirk and Winking": {
+    "name": "Astronaut - Female, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Freckles with Smirk and Winking",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, Bright Light Blue Spacesuit with Blue Belt, Trans-Orange Visor, Open Mouth Smile": {
+    "name": "Astronaut - Male, Bright Light Blue Spacesuit with Blue Belt, Trans-Orange Visor, Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Drone Engineer - White Safety Jumpsuit, Red Goggles and White Mask": {
+    "name": "Drone Engineer - White Safety Jumpsuit, Red Goggles and White Mask",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mechanical Engineer - Welding Mask": {
+    "name": "Mechanical Engineer - Welding Mask",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "City Space Robot": {
+    "name": "City Space Robot",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Reporter - Sand Blue Suit, Dark Red Tie, Black Hair Swept Back Tousled": {
+    "name": "Reporter - Sand Blue Suit, Dark Red Tie, Black Hair Swept Back Tousled",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Camera Operator - Hawaiian Shirt, Tan Legs, Medium Nougat Hair Spiked": {
+    "name": "Camera Operator - Hawaiian Shirt, Tan Legs, Medium Nougat Hair Spiked",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Large Smile with Eyes Closed and Smirk": {
+    "name": "Astronaut - Male, Orange Spacesuit with Dark Bluish Gray Lines, Trans-Light Blue Visor, Large Smile with Eyes Closed and Smirk",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Scientist, Botanist - Female, Glasses and Medium Nougat Hair Short Swept Sideways": {
+    "name": "Scientist, Botanist - Female, Glasses and Medium Nougat Hair Short Swept Sideways",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Female, Blue Jumpsuit, Reddish Brown Hair Swept Back Into Bun, Open Mouth Smile": {
+    "name": "Astronaut - Female, Blue Jumpsuit, Reddish Brown Hair Swept Back Into Bun, Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Personal Trainer - Female, Red Ball Cap with Reddish Brown Ponytail": {
+    "name": "Personal Trainer - Female, Red Ball Cap with Reddish Brown Ponytail",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Rocket Engineer - Female, Dark Blue Jumpsuit, White Construction Helmet with Dark Brown Ponytail Hair, Light Blue Goggles and Face Covered with Dirt": {
+    "name": "Rocket Engineer - Female, Dark Blue Jumpsuit, White Construction Helmet with Dark Brown Ponytail Hair, Light Blue Goggles and Face Covered with Dirt",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Female, White Spacesuit with Orange Lines, Side Lamp, Smile": {
+    "name": "Astronaut - Female, White Spacesuit with Orange Lines, Side Lamp, Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, Blue Jumpsuit, Black Hair Short Tousled with Side Part, Queasy and Open Mouth Smile": {
+    "name": "Astronaut - Male, Blue Jumpsuit, Black Hair Short Tousled with Side Part, Queasy and Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Astronaut - Male, Blue Jumpsuit, Dark Brown Hair Short Combed Sideways Part Left, Scared and Lopsided Smile": {
+    "name": "Astronaut - Male, Blue Jumpsuit, Dark Brown Hair Short Combed Sideways Part Left, Scared and Lopsided Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60230-1",
+        "set_name": "People Pack - Space Research and Development",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "NASA Apollo 11 Astronaut - Male with White Torso with NASA Logo and Thin Grin": {
+    "name": "NASA Apollo 11 Astronaut - Male with White Torso with NASA Logo and Thin Grin",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10266-1",
+        "set_name": "NASA Apollo 11 Lunar Lander",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "NASA Apollo 11 Astronaut - Male with White Torso with NASA Logo and Lopsided Smile": {
+    "name": "NASA Apollo 11 Astronaut - Male with White Torso with NASA Logo and Lopsided Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10266-1",
+        "set_name": "NASA Apollo 11 Lunar Lander",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Gingerbread Woman": {
+    "name": "Gingerbread Woman",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10267-1",
+        "set_name": "Gingerbread House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Gingerbread Man - Moustache": {
+    "name": "Gingerbread Man - Moustache",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10267-1",
+        "set_name": "Gingerbread House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Spider-Man, Standard Eyes": {
+    "name": "Duplo Figure Lego Ville, Spider-Man, Standard Eyes",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10921-1",
+        "set_name": "Super Heroes Lab",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Captain America": {
+    "name": "Duplo Figure Lego Ville, Captain America",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10921-1",
+        "set_name": "Super Heroes Lab",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Iron Man": {
+    "name": "Duplo Figure Lego Ville, Iron Man",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10921-1",
+        "set_name": "Super Heroes Lab",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Jack Davids - White Hoodie with Cap and Hood &#40;Lopsided Smile / Scared&#41;": {
+    "name": "Jack Davids - White Hoodie with Cap and Hood &#40;Lopsided Smile / Scared&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40408-1",
+        "set_name": "Drag Racer",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Dwayne - Possessed": {
+    "name": "Dwayne - Possessed",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40408-1",
+        "set_name": "Drag Racer",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Robin, Black Legs": {
+    "name": "Duplo Figure Lego Ville, Robin, Black Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10919-1",
+        "set_name": "Batcave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, The Joker, Magenta Legs and Top, White Hands, White Head, Red Lips, Bright Green Hair": {
+    "name": "Duplo Figure Lego Ville, The Joker, Magenta Legs and Top, White Hands, White Head, Red Lips, Bright Green Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10919-1",
+        "set_name": "Batcave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Batman, Black Cowl, Light Bluish Gray Suit and Legs": {
+    "name": "Duplo Figure Lego Ville, Batman, Black Cowl, Light Bluish Gray Suit and Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10919-1",
+        "set_name": "Batcave",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Male, Black Legs, Orange Vest with Badge and Pocket, Medium Azure Arms, White Cap with Headset &#40;6301361&#41;": {
+    "name": "Duplo Figure Lego Ville, Male, Black Legs, Orange Vest with Badge and Pocket, Medium Azure Arms, White Cap with Headset &#40;6301361&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10931-1",
+        "set_name": "Truck & Tracked Excavator",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Male, Black Legs, Orange Vest with Badge and Pocket, Medium Azure Arms, Light Bluish Gray Hands, White Construction Helmet &#40;6308180&#41;": {
+    "name": "Duplo Figure Lego Ville, Male, Black Legs, Orange Vest with Badge and Pocket, Medium Azure Arms, Light Bluish Gray Hands, White Construction Helmet &#40;6308180&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10931-1",
+        "set_name": "Truck & Tracked Excavator",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Elf - Green Scalloped Collar with Bells, Open Mouth Smile": {
+    "name": "Elf - Green Scalloped Collar with Bells, Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10275-1",
+        "set_name": "Elf Club House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Elf - Green Scalloped Collar with Bells, Freckles, Open Mouth Smile with Teeth": {
+    "name": "Elf - Green Scalloped Collar with Bells, Freckles, Open Mouth Smile with Teeth",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10275-1",
+        "set_name": "Elf Club House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Elf - Green Scalloped Collar with Bells, Glasses": {
+    "name": "Elf - Green Scalloped Collar with Bells, Glasses",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10275-1",
+        "set_name": "Elf Club House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Elf - Green Scalloped Collar with Bells, Scarf": {
+    "name": "Elf - Green Scalloped Collar with Bells, Scarf",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10275-1",
+        "set_name": "Elf Club House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Elmo": {
+    "name": "Elmo",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21324-1",
+        "set_name": "123 Sesame Street",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Cookie Monster": {
+    "name": "Cookie Monster",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21324-1",
+        "set_name": "123 Sesame Street",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ernie": {
+    "name": "Ernie",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21324-1",
+        "set_name": "123 Sesame Street",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Bert": {
+    "name": "Bert",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21324-1",
+        "set_name": "123 Sesame Street",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Big Bird": {
+    "name": "Big Bird",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21324-1",
+        "set_name": "123 Sesame Street",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Oscar the Grouch": {
+    "name": "Oscar the Grouch",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21324-1",
+        "set_name": "123 Sesame Street",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Baby - Dark Turquoise Body with Yellow Hands": {
+    "name": "Baby - Dark Turquoise Body with Yellow Hands",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60283-1",
+        "set_name": "Holiday Camper Van",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Camper Van Owner - Male, Dark Tan Vest over Dark Azure Shirt, Dark Blue Legs, Reddish Brown Spiked Hair, Stubble": {
+    "name": "Camper Van Owner - Male, Dark Tan Vest over Dark Azure Shirt, Dark Blue Legs, Reddish Brown Spiked Hair, Stubble",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60283-1",
+        "set_name": "Holiday Camper Van",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Holiday Camper Van Mother, Baby Carrier": {
+    "name": "Holiday Camper Van Mother, Baby Carrier",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60283-1",
+        "set_name": "Holiday Camper Van",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Blacksmith - Male, Reddish Brown Apron, Dark Orange Beard": {
+    "name": "Blacksmith - Male, Reddish Brown Apron, Dark Orange Beard",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21325-1",
+        "set_name": "Medieval Blacksmith",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Archer - Female, Green Tunic, Quiver": {
+    "name": "Archer - Female, Green Tunic, Quiver",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21325-1",
+        "set_name": "Medieval Blacksmith",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Black Falcon - Female, Pearl Dark Gray Detailed Legs, Flat Silver Shoulder Pads": {
+    "name": "Black Falcon - Female, Pearl Dark Gray Detailed Legs, Flat Silver Shoulder Pads",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21325-1",
+        "set_name": "Medieval Blacksmith",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Black Falcon - Male, Pearl Dark Gray Detailed Legs, Flat Silver Shoulder Pad": {
+    "name": "Black Falcon - Male, Pearl Dark Gray Detailed Legs, Flat Silver Shoulder Pad",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "21325-1",
+        "set_name": "Medieval Blacksmith",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "HipHop Robot": {
+    "name": "HipHop Robot",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "43107-1",
+        "set_name": "Hiphop Robot BeatBox",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Iron Venom - Headgear Partially Transformed": {
+    "name": "Iron Venom - Headgear Partially Transformed",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40454-1",
+        "set_name": "Spider-Man vs. Venom and Iron Venom blister pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Pork Grind": {
+    "name": "Pork Grind",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40454-1",
+        "set_name": "Spider-Man vs. Venom and Iron Venom blister pack",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Albus Dumbledore - Dark Orange Robe": {
+    "name": "Albus Dumbledore - Dark Orange Robe",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76394-1",
+        "set_name": "Fawkes, Dumbledore’s Phoenix",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Chitauri - Dark Bluish Gray": {
+    "name": "Chitauri - Dark Bluish Gray",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76193-1",
+        "set_name": "The Guardians' Ship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Thor - Long Dark Tan Hair": {
+    "name": "Thor - Long Dark Tan Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76193-1",
+        "set_name": "The Guardians' Ship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Rocket Raccoon - Dark Bluish Gray Outfit, Reddish Brown Head": {
+    "name": "Rocket Raccoon - Dark Bluish Gray Outfit, Reddish Brown Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76193-1",
+        "set_name": "The Guardians' Ship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Groot, Teen Groot - Dark Tan": {
+    "name": "Groot, Teen Groot - Dark Tan",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76193-1",
+        "set_name": "The Guardians' Ship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Star-Lord - Black Boots": {
+    "name": "Star-Lord - Black Boots",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76193-1",
+        "set_name": "The Guardians' Ship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mantis - Black Belt with Clasps": {
+    "name": "Mantis - Black Belt with Clasps",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76193-1",
+        "set_name": "The Guardians' Ship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Hermione Granger - Gryffindor Robe Open, Sweater, Shirt and Tie, Black Short Legs": {
+    "name": "Hermione Granger - Gryffindor Robe Open, Sweater, Shirt and Tie, Black Short Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "30392-1",
+        "set_name": "Hermione's Study Desk polybag",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Dad - Medium Nougat Argyle Sweater, Red Scarf, Black Legs, Reddish Brown Hair": {
+    "name": "Dad - Medium Nougat Argyle Sweater, Red Scarf, Black Legs, Reddish Brown Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10293-1",
+        "set_name": "Santa&#39;s Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mom - Medium Lavender Jacket, Dark Blue Legs, Black Coiled Hair": {
+    "name": "Mom - Medium Lavender Jacket, Dark Blue Legs, Black Coiled Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10293-1",
+        "set_name": "Santa&#39;s Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Girl - Dark Turquoise Pajamas, Dark Turquoise Short Legs, Black Pigtails": {
+    "name": "Girl - Dark Turquoise Pajamas, Dark Turquoise Short Legs, Black Pigtails",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10293-1",
+        "set_name": "Santa&#39;s Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Santa - Fur Lined Jacket with 2 Wrinkles on Back, Red Legs with Black Boots, Santa Hat with Printed Red Top": {
+    "name": "Santa - Fur Lined Jacket with 2 Wrinkles on Back, Red Legs with Black Boots, Santa Hat with Printed Red Top",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10293-1",
+        "set_name": "Santa&#39;s Visit",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat with Printed Red Top": {
+    "name": "Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat with Printed Red Top",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40499-1",
+        "set_name": "Santa's Sleigh",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat with Molded Red Top": {
+    "name": "Santa - Fur Lined Jacket with Candy Cane on Back, Red Legs with Black Boots, Santa Hat with Molded Red Top",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40499-1",
+        "set_name": "Santa's Sleigh",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Tread Octane": {
+    "name": "Tread Octane",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60293-1",
+        "set_name": "Stunt Park",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Stuntz Driver - Female, Coral Racing Shirt with White Arms, Dark Purple Legs, Dark Brown Hair with Buns": {
+    "name": "Stuntz Driver - Female, Coral Racing Shirt with White Arms, Dark Purple Legs, Dark Brown Hair with Buns",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60293-1",
+        "set_name": "Stunt Park",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Lady Liberty - Hard Plastic Hair with Tiara": {
+    "name": "Lady Liberty - Hard Plastic Hair with Tiara",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40519-1",
+        "set_name": "New York Postcard",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man &#40;Miles &#39;Spin&#39; Morales&#41; - Red Medium Legs, Red Spider Logo": {
+    "name": "Spider-Man &#40;Miles &#39;Spin&#39; Morales&#41; - Red Medium Legs, Red Spider Logo",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10781-1",
+        "set_name": "Spider-Man’s Techno Trike",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Green Goblin - Lime Skin, Dark Purple Outfit, Medium Legs, Dark Blue Stomach": {
+    "name": "Green Goblin - Lime Skin, Dark Purple Outfit, Medium Legs, Dark Blue Stomach",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10781-1",
+        "set_name": "Spider-Man’s Techno Trike",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Rhino - Shoulder Armor": {
+    "name": "Rhino - Shoulder Armor",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10782-1",
+        "set_name": "Hulk vs. Rhino Truck Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Spider-Man &#40;Peter &#39;Spidey&#39; Parker&#41; - Medium Legs, Black Spider Logo": {
+    "name": "Spider-Man &#40;Peter &#39;Spidey&#39; Parker&#41; - Medium Legs, Black Spider Logo",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10782-1",
+        "set_name": "Hulk vs. Rhino Truck Showdown",
+        "quantity": 1
+      },
+      {
+        "set": "10783-1",
+        "set_name": "Spider-Man at Doc Ock’s Lab",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Hulk - Minifigure, Dark Purple Pants, Short Tousled Hair": {
+    "name": "Hulk - Minifigure, Dark Purple Pants, Short Tousled Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10782-1",
+        "set_name": "Hulk vs. Rhino Truck Showdown",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ghost-Spider &#40;Gwen Stacy&#41; - Dark Purple Medium Legs, White Hood, Medium Azure Spider Logo": {
+    "name": "Ghost-Spider &#40;Gwen Stacy&#41; - Dark Purple Medium Legs, White Hood, Medium Azure Spider Logo",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10783-1",
+        "set_name": "Spider-Man at Doc Ock’s Lab",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Doc Ock - Female, Medium Legs, Flat Silver Arms": {
+    "name": "Doc Ock - Female, Medium Legs, Flat Silver Arms",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10783-1",
+        "set_name": "Spider-Man at Doc Ock’s Lab",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Fennec Shand - Hair": {
+    "name": "Fennec Shand - Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75326-1",
+        "set_name": "Boba Fett's Throne Room",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Bib Fortuna - Black Robe, Reddish Brown Straps": {
+    "name": "Bib Fortuna - Black Robe, Reddish Brown Straps",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75326-1",
+        "set_name": "Boba Fett's Throne Room",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Theelin Dancer": {
+    "name": "Theelin Dancer",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75326-1",
+        "set_name": "Boba Fett's Throne Room",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Quarren": {
+    "name": "Quarren",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75326-1",
+        "set_name": "Boba Fett's Throne Room",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Gamorrean Guard - Olive Green, Reddish Brown Legs": {
+    "name": "Gamorrean Guard - Olive Green, Reddish Brown Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75326-1",
+        "set_name": "Boba Fett's Throne Room",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Weequay Guard &#40;Reddish Brown Legs&#41;": {
+    "name": "Weequay Guard &#40;Reddish Brown Legs&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75326-1",
+        "set_name": "Boba Fett's Throne Room",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Male, Buzz Lightyear with Dark Brown Hair": {
+    "name": "Duplo Figure Lego Ville, Male, Buzz Lightyear with Dark Brown Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10962-1",
+        "set_name": "Buzz Lightyear’s Planetary Mission",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Aunt Beru Whitesun Lars": {
+    "name": "Aunt Beru Whitesun Lars",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40531-1",
+        "set_name": "Lars Family Homestead Kitchen",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Farmer - Female, Lime Overalls over White Shirt, Lime Legs, Reddish Brown Hair, Freckles": {
+    "name": "Farmer - Female, Lime Overalls over White Shirt, Lime Legs, Reddish Brown Hair, Freckles",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60344-1",
+        "set_name": "Chicken Henhouse",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Albus Dumbledore - Magenta Robe, Plain Legs": {
+    "name": "Albus Dumbledore - Magenta Robe, Plain Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "30435-1",
+        "set_name": "Build Your Own Hogwarts Castle polybag",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Child Girl, Blue Legs, Bright Light Blue Top with White Snowflakes, Reddish Brown Eyes, Black Hair &#40;6397614&#41;": {
+    "name": "Duplo Figure Lego Ville, Child Girl, Blue Legs, Bright Light Blue Top with White Snowflakes, Reddish Brown Eyes, Black Hair &#40;6397614&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10976-1",
+        "set_name": "Santa&#39;s Gingerbread House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Child Boy, White Legs, Red Top with Deer Buck, Freckles, Reddish Brown Eyes, Dark Azure Bobble Cap &#40;6397615&#41;": {
+    "name": "Duplo Figure Lego Ville, Child Boy, White Legs, Red Top with Deer Buck, Freckles, Reddish Brown Eyes, Dark Azure Bobble Cap &#40;6397615&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10976-1",
+        "set_name": "Santa&#39;s Gingerbread House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Duplo Figure Lego Ville, Male, Santa with Dark Red Legs, Red Jacket and Hat &#40;6397611&#41;": {
+    "name": "Duplo Figure Lego Ville, Male, Santa with Dark Red Legs, Red Jacket and Hat &#40;6397611&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "10976-1",
+        "set_name": "Santa&#39;s Gingerbread House",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Thanos - Minifigure, Dark Blue and Gold Outfit, Medium Lavender Arms": {
+    "name": "Thanos - Minifigure, Dark Blue and Gold Outfit, Medium Lavender Arms",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76242-1",
+        "set_name": "Thanos Mech Armor",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mountain Bike Cyclist - Male, Red Tracksuit, Dark Tan Legs with Pockets, Dark Blue Dirt Bike Helmet, Lopsided Smile": {
+    "name": "Mountain Bike Cyclist - Male, Red Tracksuit, Dark Tan Legs with Pockets, Dark Blue Dirt Bike Helmet, Lopsided Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40582-1",
+        "set_name": "4x4 Off-Road Ambulance Rescue",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Paramedic - Male, Dark Turquoise and Neon Yellow Safety Vest, Sand Green Legs, Reddish Brown Hair, Open Mouth Smile": {
+    "name": "Paramedic - Male, Dark Turquoise and Neon Yellow Safety Vest, Sand Green Legs, Reddish Brown Hair, Open Mouth Smile",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40582-1",
+        "set_name": "4x4 Off-Road Ambulance Rescue",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Paramedic - Female, Dark Turquoise and Neon Yellow Safety Vest, Sand Green Legs, Dark Turquoise Cap with Black Ponytail Hair, Safety Glasses": {
+    "name": "Paramedic - Female, Dark Turquoise and Neon Yellow Safety Vest, Sand Green Legs, Dark Turquoise Cap with Black Ponytail Hair, Safety Glasses",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "40582-1",
+        "set_name": "4x4 Off-Road Ambulance Rescue",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Nougat Head": {
+    "name": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Nougat Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75370-1",
+        "set_name": "Stormtrooper Mech",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Darth Vader - Printed Arms, Spongy Cape, White Head with Frown": {
+    "name": "Darth Vader - Printed Arms, Spongy Cape, White Head with Frown",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75387-1",
+        "set_name": "Boarding the Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Rebel Fleet Trooper - Male, Vest with Pockets, Black Neck, Reddish Brown Eyebrows": {
+    "name": "Rebel Fleet Trooper - Male, Vest with Pockets, Black Neck, Reddish Brown Eyebrows",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75387-1",
+        "set_name": "Boarding the Tantive IV",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Clone ARC Trooper Fives, 501st Legion &#40;Phase 2&#41;": {
+    "name": "Clone ARC Trooper Fives, 501st Legion &#40;Phase 2&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75387-1",
+        "set_name": "Boarding the Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Captain Antilles - Dark Tan Shirt, Large Rank Badge": {
+    "name": "Captain Antilles - Dark Tan Shirt, Large Rank Badge",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75387-1",
+        "set_name": "Boarding the Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head": {
+    "name": "Imperial Stormtrooper - Male, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Light Nougat Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75387-1",
+        "set_name": "Boarding the Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Brown Head": {
+    "name": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Brown Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75387-1",
+        "set_name": "Boarding the Tantive IV",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Rocket Raccoon - Dark Red and Pearl Dark Gray Outfit, Reddish Brown Head": {
+    "name": "Rocket Raccoon - Dark Red and Pearl Dark Gray Outfit, Reddish Brown Head",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76286-1",
+        "set_name": "The Milano Spaceship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Star-Lord - Dark Red Printed Legs": {
+    "name": "Star-Lord - Dark Red Printed Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76286-1",
+        "set_name": "The Milano Spaceship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Gamora - Dark Red Printed Legs": {
+    "name": "Gamora - Dark Red Printed Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76286-1",
+        "set_name": "The Milano Spaceship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Drax - Dark Red Tattoos": {
+    "name": "Drax - Dark Red Tattoos",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76286-1",
+        "set_name": "The Milano Spaceship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Groot - Baby, Dark Tan &#40;6490595&#41;": {
+    "name": "Groot - Baby, Dark Tan &#40;6490595&#41;",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "76286-1",
+        "set_name": "The Milano Spaceship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Moff Gideon - Helmet, Jet Pack": {
+    "name": "Moff Gideon - Helmet, Jet Pack",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75386-1",
+        "set_name": "Paz Vizsla and Moff Gideon Battle",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Imperial Praetorian Guard": {
+    "name": "Imperial Praetorian Guard",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75386-1",
+        "set_name": "Paz Vizsla and Moff Gideon Battle",
+        "quantity": 2
+      }
+    ],
+    "total_quantity": 2
+  },
+  "Paz Vizsla - Backpack without Clip": {
+    "name": "Paz Vizsla - Backpack without Clip",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75386-1",
+        "set_name": "Paz Vizsla and Moff Gideon Battle",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Young Link": {
+    "name": "Young Link",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "77092-1",
+        "set_name": "Great Deku Tree 2-in-1",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Link - Bright Green Tunic": {
+    "name": "Link - Bright Green Tunic",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "77092-1",
+        "set_name": "Great Deku Tree 2-in-1",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Link - Dark Azure Champion&#39;s Tunic": {
+    "name": "Link - Dark Azure Champion&#39;s Tunic",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "77092-1",
+        "set_name": "Great Deku Tree 2-in-1",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Princess Zelda": {
+    "name": "Princess Zelda",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "77092-1",
+        "set_name": "Great Deku Tree 2-in-1",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ahsoka Tano &#40;Adult&#41; - Printed Arms, Light Bluish Gray Legs": {
+    "name": "Ahsoka Tano &#40;Adult&#41; - Printed Arms, Light Bluish Gray Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75385-1",
+        "set_name": "Ahsoka Tano's Duel on Peridea",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Ezra Bridger - Dark Red Robe": {
+    "name": "Ezra Bridger - Dark Red Robe",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75385-1",
+        "set_name": "Ahsoka Tano's Duel on Peridea",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Grand Admiral Thrawn - Medium Blue Skin": {
+    "name": "Grand Admiral Thrawn - Medium Blue Skin",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75385-1",
+        "set_name": "Ahsoka Tano's Duel on Peridea",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Morgan Elsbeth - Black Legs": {
+    "name": "Morgan Elsbeth - Black Legs",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75385-1",
+        "set_name": "Ahsoka Tano's Duel on Peridea",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Night Trooper - White Helmet": {
+    "name": "Night Trooper - White Helmet",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75385-1",
+        "set_name": "Ahsoka Tano's Duel on Peridea",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Baby - White Body with Yellow Hands, Head with Neck": {
+    "name": "Baby - White Body with Yellow Hands, Head with Neck",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60454-1",
+        "set_name": "Holiday Camper Van",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Mom - Reddish Brown Jacket, Dark Purple Legs, Dark Brown Hair": {
+    "name": "Mom - Reddish Brown Jacket, Dark Purple Legs, Dark Brown Hair",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60454-1",
+        "set_name": "Holiday Camper Van",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Dad - Dark Turquoise Jacket over Dark Purple Shirt, Tan Legs, Dark Orange Hair, Baby Carrier": {
+    "name": "Dad - Dark Turquoise Jacket over Dark Purple Shirt, Tan Legs, Dark Orange Hair, Baby Carrier",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "60454-1",
+        "set_name": "Holiday Camper Van",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Boba Fett, Young - Bright Light Blue Shirt": {
+    "name": "Boba Fett, Young - Bright Light Blue Shirt",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75433-1",
+        "set_name": "Jango Fett's Starship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Lama Su": {
+    "name": "Lama Su",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75433-1",
+        "set_name": "Jango Fett's Starship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  },
+  "Jango Fett - Nougat Head, Plain Arms": {
+    "name": "Jango Fett - Nougat Head, Plain Arms",
+    "no": "unknown",
+    "appears_in": [
+      {
+        "set": "75433-1",
+        "set_name": "Jango Fett's Starship",
+        "quantity": 1
+      }
+    ],
+    "total_quantity": 1
+  }
+}
