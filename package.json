@@ -18,7 +18,8 @@
     "pieces": "node src/add_piece_counts.js",
     "categories": "node src/add_category_names.js",
     "minifigs": "node src/add_minifig_details.js",
-    "minifig-db": "node src/create_minifig_database.js"
+    "minifig-db": "node src/create_minifig_database.js",
+    "add-built": "node src/add_built_sets.js"
   },
   "dependencies": {
     "axios": "^1.7.4",

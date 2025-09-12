@@ -1,40 +1,66 @@
-# BrickLink API – Node.js Examples
+# Brikblok – LEGO Set Management Platform
 
-Minimal, runnable examples for the BrickLink **Store API** using **OAuth 1.0a HMAC-SHA1**.
+Comprehensive LEGO collection management system with BrickLink API integration. Acts as an **artifact codex** within the Redder Edge ecosystem, bridging physical and digital realms through systematic cataloging.
 
-## What’s inside
-- `src/get_examples.js` – authenticated GET requests (item details, price guide, inventories, orders)
-- `src/post_example.js` – authenticated POST request (create an inventory entry) ★
-- `src/webhook_server.js` – tiny Express server to receive BrickLink **push notifications**
+## Core Capabilities
+- **Set Management** – CLI and web interfaces for tracking 200+ sets with rich metadata
+- **BrickLink Integration** – OAuth 1.0a API client for real-time set data, pricing, inventory
+- **Collection Analytics** – Piece counts, minifigure inventories, condition tracking
+- **Data Operations** – XML import/export, bulk operations, database management
+- **Web Interface** – Responsive EJS templates for browsing and managing collections
 
-> ★ POST to `/inventories` requires approved seller API access. Use at your own discretion in a test environment first.
-
-## Setup
+## Quick Start
 ```bash
 npm i
-cp .env.example .env
-# edit .env with your keys
+cp .env.example .env  # Add your BrickLink API credentials
+npm run sets list     # View collection
+npm run web          # Launch web interface
 ```
 
-## Run GET examples
+## Available Commands
 ```bash
-npm run get
+# Collection Management
+npm run sets add <set-number>    # Add set via BrickLink API
+npm run sets list               # List all sets
+npm run sets get <set-number>   # Show set details
+
+# Web Interfaces
+npm run web                     # Full web app with BrickLink data
+npm run simple                  # Simple set tracker
+
+# Data Operations
+npm run bulk                    # Bulk add sets from file
+npm run import                  # Import XML data
+npm run export                  # Export to XML
+npm run conditions              # Cross-reference conditions
+npm run pieces                  # Add piece counts
+npm run categories              # Add category names
+npm run minifigs                # Add minifigure details
+npm run minifig-db              # Create minifigure database
+
+# API Examples
+npm run get                     # BrickLink GET examples
+npm run post                    # Create inventory (seller access required)
+npm run webhook                 # Push notification server
 ```
 
-## Run POST example (create inventory)
-```bash
-npm run post
-```
+## Architecture
+- **`src/bl_client.js`** – OAuth 1.0a BrickLink API client
+- **`src/lego_sets_app.js`** – CLI collection management
+- **`web_server.js`** – Full web application
+- **`lego_sets.json`** – Collection database (200+ sets)
+- **`minifig_database.json`** – Minifigure catalog
+- **`views/`** – EJS templates with responsive design
 
-## Run webhook (push notifications)
-```bash
-npm run webhook
-# Expose publicly (e.g. with ngrok): ngrok http 3000
-# Then set your BrickLink callback URL to: https://<your-ngrok-domain>/bricklink/push
-```
+## Artifact Codex Philosophy
+Brikblok embodies Redder Edge principles:
+- **Vulnerability as Strength** – Open collection sharing, imperfect inventory states
+- **Quiet Leadership** – Tools that enable collectors rather than dictate approaches  
+- **Imperfect Growth** – Continuous evolution through SSP (sync and ship, please) workflow
 
-## Notes
-- BrickLink uses **OAuth 1.0a (HMAC-SHA1)** in the `Authorization: OAuth ...` header.
-- For JSON POST bodies, parameters are **not** included in the OAuth signature base string (only query + OAuth params are). This matches common implementations.
-- Handle **HTTP 429** (rate limits) with backoff/retries.
-- Some endpoints are restricted to seller accounts.
+## Technical Notes
+- BrickLink OAuth 1.0a (HMAC-SHA1) authentication
+- Rate limiting with backoff/retry logic
+- Comprehensive error handling and validation
+- Responsive web design based on lowdiatribe architecture
+- XML/JSON data interchange formats
