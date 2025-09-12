@@ -4930,5 +4930,585 @@
     "part_count": 0,
     "minifig_count": 0,
     "minifigs": []
+  },
+  "40797-1": {
+    "no": "40797-1",
+    "name": "Eeyore",
+    "type": "SET",
+    "category_id": 903,
+    "category_name": "BrickHeadz",
+    "year_released": 2025,
+    "weight": "143.00",
+    "dim_x": "12.20",
+    "dim_y": "13.90",
+    "dim_z": "5.90",
+    "piece_count": 168,
+    "part_count": 168,
+    "minifig_count": 0,
+    "minifigs": [],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:45.990Z"
+  },
+  "75398-1": {
+    "no": "75398-1",
+    "name": "C-3PO",
+    "type": "SET",
+    "category_id": 65,
+    "category_name": "Star Wars",
+    "year_released": 2024,
+    "weight": "1361.00",
+    "dim_x": "27.80",
+    "dim_y": "45.20",
+    "dim_z": "6.80",
+    "piece_count": 1174,
+    "part_count": 1173,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "C-3PO - Molded Light Bluish Gray Lower Leg, Printed Arms",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:46.330Z"
+  },
+  "6206-1": {
+    "no": "6206-1",
+    "name": "TIE Interceptor",
+    "type": "SET",
+    "category_id": 65,
+    "category_name": "Star Wars",
+    "year_released": 2006,
+    "weight": "494.00",
+    "dim_x": "28.50",
+    "dim_y": "28.50",
+    "dim_z": "5.80",
+    "piece_count": 219,
+    "part_count": 218,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Imperial TIE Fighter / Interceptor Pilot - Black Head",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:46.604Z"
+  },
+  "60428-1": {
+    "no": "60428-1",
+    "name": "Space Construction Mech",
+    "type": "SET",
+    "category_id": 67,
+    "category_name": "Town",
+    "year_released": 2024,
+    "weight": "144.00",
+    "dim_x": "15.60",
+    "dim_y": "14.00",
+    "dim_z": "4.50",
+    "piece_count": 147,
+    "part_count": 146,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Astronaut - Male, White Spacesuit with Bright Light Orange Arms, Bright Light Orange Helmet, Trans-Clear Visor, Bright Light Orange Armor",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:46.913Z"
+  },
+  "75416-1": {
+    "no": "75416-1",
+    "name": "Chopper &#40;C1-10P&#41;",
+    "type": "SET",
+    "category_id": 65,
+    "category_name": "Star Wars",
+    "year_released": 2025,
+    "weight": "1140.00",
+    "dim_x": "26.20",
+    "dim_y": "38.00",
+    "dim_z": "9.30",
+    "piece_count": 1080,
+    "part_count": 1079,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Astromech Droid, C1-10P &#40;Chopper&#41; - White Body",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:47.204Z"
+  },
+  "76278-1": {
+    "no": "76278-1",
+    "name": "Rocket's Warbird vs. Ronan",
+    "type": "SET",
+    "category_id": 768,
+    "category_name": "Super Heroes",
+    "year_released": 2024,
+    "weight": "464.00",
+    "dim_x": "26.00",
+    "dim_y": "19.00",
+    "dim_z": "7.00",
+    "piece_count": 291,
+    "part_count": 289,
+    "minifig_count": 2,
+    "minifigs": [
+      {
+        "name": "Rocket Raccoon - Dark Red and Pearl Dark Gray Outfit, Reddish Brown Head",
+        "quantity": 1
+      },
+      {
+        "name": "Ronan the Accuser - Dark Azure Head and Hands",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:47.485Z"
+  },
+  "40547-1": {
+    "no": "40547-1",
+    "name": "Obi-Wan Kenobi & Darth Vader",
+    "type": "SET",
+    "category_id": 903,
+    "category_name": "BrickHeadz",
+    "year_released": 2022,
+    "weight": "270.00",
+    "dim_x": "19.10",
+    "dim_y": "14.10",
+    "dim_z": "7.00",
+    "piece_count": 275,
+    "part_count": 275,
+    "minifig_count": 0,
+    "minifigs": [],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:47.766Z"
+  },
+  "40767-1": {
+    "no": "40767-1",
+    "name": "Up-scaled Baby Astronaut",
+    "type": "SET",
+    "category_id": 34,
+    "category_name": "Space",
+    "year_released": 2025,
+    "weight": "302.40",
+    "dim_x": "13.80",
+    "dim_y": "18.80",
+    "dim_z": "6.90",
+    "piece_count": 257,
+    "part_count": 257,
+    "minifig_count": 0,
+    "minifigs": [],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:48.042Z"
+  },
+  "60430-1": {
+    "no": "60430-1",
+    "name": "Interstellar Spaceship",
+    "type": "SET",
+    "category_id": 67,
+    "category_name": "Town",
+    "year_released": 2024,
+    "weight": "364.00",
+    "dim_x": "25.90",
+    "dim_y": "18.80",
+    "dim_z": "4.50",
+    "piece_count": 244,
+    "part_count": 243,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Astronaut - Female, White Spacesuit with Dark Blue Arms, Dark Blue Helmet, Trans-Clear Visor, Dark Azure Jet Pack",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:48.359Z"
+  },
+  "40765-1": {
+    "no": "40765-1",
+    "name": "Kamino Training Facility",
+    "type": "SET",
+    "category_id": 65,
+    "category_name": "Star Wars",
+    "year_released": 2025,
+    "weight": "235.50",
+    "dim_x": "20.50",
+    "dim_y": "18.70",
+    "dim_z": "4.70",
+    "piece_count": 189,
+    "part_count": 186,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Clone Cadet",
+        "quantity": 3
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:48.633Z"
+  },
+  "75361-1": {
+    "no": "75361-1",
+    "name": "Spider Tank",
+    "type": "SET",
+    "category_id": 65,
+    "category_name": "Star Wars",
+    "year_released": 2023,
+    "weight": "526.00",
+    "dim_x": "26.00",
+    "dim_y": "22.00",
+    "dim_z": "7.50",
+    "piece_count": 537,
+    "part_count": 534,
+    "minifig_count": 3,
+    "minifigs": [
+      {
+        "name": "Din Grogu / The Child / 'Baby Yoda'",
+        "quantity": 1
+      },
+      {
+        "name": "The Mandalorian / Din Djarin / &#39;Mando&#39; - Silver Beskar Armor, Jet Pack, Helmet with Top Lines",
+        "quantity": 1
+      },
+      {
+        "name": "Bo-Katan Kryze - Printed Arms, Dark Orange Hair",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:48.927Z"
+  },
+  "76281-1": {
+    "no": "76281-1",
+    "name": "X-Men X-Jet",
+    "type": "SET",
+    "category_id": 768,
+    "category_name": "Super Heroes",
+    "year_released": 2024,
+    "weight": "622.00",
+    "dim_x": "28.20",
+    "dim_y": "26.20",
+    "dim_z": "7.60",
+    "piece_count": 358,
+    "part_count": 354,
+    "minifig_count": 4,
+    "minifigs": [
+      {
+        "name": "Wolverine - Yellow and Black Mask, Blue Hands",
+        "quantity": 1
+      },
+      {
+        "name": "Magneto - Magenta Outfit",
+        "quantity": 1
+      },
+      {
+        "name": "Cyclops - Blue Outfit, Plain Legs",
+        "quantity": 1
+      },
+      {
+        "name": "Rogue",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:49.199Z"
+  },
+  "75429-1": {
+    "no": "75429-1",
+    "name": "AT-AT Driver Helmet",
+    "type": "SET",
+    "category_id": 65,
+    "category_name": "Star Wars",
+    "year_released": 2025,
+    "weight": "898.00",
+    "dim_x": "19.00",
+    "dim_y": "35.00",
+    "dim_z": "8.80",
+    "piece_count": 752,
+    "part_count": 752,
+    "minifig_count": 0,
+    "minifigs": [],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:49.480Z"
+  },
+  "10363-1": {
+    "no": "10363-1",
+    "name": "Leonardo da Vinci's Flying Machine",
+    "type": "SET",
+    "category_id": 171,
+    "category_name": "Creator",
+    "year_released": 2025,
+    "weight": "563.00",
+    "dim_x": "28.20",
+    "dim_y": "26.20",
+    "dim_z": "5.70",
+    "piece_count": 502,
+    "part_count": 501,
+    "minifig_count": 1,
+    "minifigs": [
+      {
+        "name": "Leonardo da Vinci",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:49.755Z"
+  },
+  "75394-1": {
+    "no": "75394-1",
+    "name": "Imperial Star Destroyer",
+    "type": "SET",
+    "category_id": 65,
+    "category_name": "Star Wars",
+    "year_released": 2024,
+    "weight": "2574.00",
+    "dim_x": "45.30",
+    "dim_y": "28.00",
+    "dim_z": "13.50",
+    "piece_count": 1581,
+    "part_count": 1574,
+    "minifig_count": 7,
+    "minifigs": [
+      {
+        "name": "Darth Vader - Printed Arms, Traditional Starched Fabric Cape, White Head with Frown",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Stormtrooper - Female, Dual Molded Helmet with Light Bluish Gray Panels on Back, Shoulder Belts, Medium Brown Head",
+        "quantity": 1
+      },
+      {
+        "name": "Commander Praji",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Crew - Black Cap, Open Mouth",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Gunner - Helmet with White Imperial Logo, Nougat Head",
+        "quantity": 1
+      },
+      {
+        "name": "Imperial Navy Trooper - Medium Tan Head",
+        "quantity": 1
+      },
+      {
+        "name": "Cal Kestis",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:50.038Z"
+  },
+  "10327-1": {
+    "no": "10327-1",
+    "name": "Atreides Royal Ornithopter",
+    "type": "SET",
+    "category_id": 171,
+    "category_name": "Creator",
+    "year_released": 2024,
+    "weight": "1795.00",
+    "dim_x": "45.40",
+    "dim_y": "27.90",
+    "dim_z": "11.70",
+    "piece_count": 1366,
+    "part_count": 1358,
+    "minifig_count": 8,
+    "minifigs": [
+      {
+        "name": "Paul Atreides",
+        "quantity": 1
+      },
+      {
+        "name": "Lady Jessica",
+        "quantity": 1
+      },
+      {
+        "name": "Duncan Idaho",
+        "quantity": 1
+      },
+      {
+        "name": "Duke Leto Atreides",
+        "quantity": 1
+      },
+      {
+        "name": "Gurney Halleck",
+        "quantity": 1
+      },
+      {
+        "name": "Dr. Liet-Kynes",
+        "quantity": 1
+      },
+      {
+        "name": "Chani",
+        "quantity": 1
+      },
+      {
+        "name": "Baron Vladimir Harkonnen",
+        "quantity": 1
+      }
+    ],
+    "condition": "used",
+    "added_at": "2025-09-11T15:29:50.316Z"
+  },
+  "76232-1": {
+    "no": "76232-1",
+    "name": "The Hoopty",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2023,
+    "weight": "796.47",
+    "dim_x": "38.30",
+    "dim_y": "26.00",
+    "dim_z": "6.90",
+    "added_at": "2025-09-12T04:40:43.511Z"
+  },
+  "75373-1": {
+    "no": "75373-1",
+    "name": "Ambush on Mandalore Battle Pack",
+    "type": "SET",
+    "category_id": 65,
+    "year_released": 2024,
+    "weight": "148.00",
+    "dim_x": "15.70",
+    "dim_y": "14.00",
+    "dim_z": "4.50",
+    "added_at": "2025-09-12T04:40:43.660Z"
+  },
+  "76165-1": {
+    "no": "76165-1",
+    "name": "Iron Man",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2020,
+    "weight": "763.00",
+    "dim_x": "18.90",
+    "dim_y": "35.20",
+    "dim_z": "8.90",
+    "added_at": "2025-09-12T04:40:43.809Z"
+  },
+  "76176-1": {
+    "no": "76176-1",
+    "name": "Escape from The Ten Rings",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2021,
+    "weight": "386.00",
+    "dim_x": "35.00",
+    "dim_y": "19.00",
+    "dim_z": "5.80",
+    "added_at": "2025-09-12T04:40:43.954Z"
+  },
+  "76182-1": {
+    "no": "76182-1",
+    "name": "Batman Cowl",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2021,
+    "weight": "709.00",
+    "dim_x": "19.10",
+    "dim_y": "35.40",
+    "dim_z": "9.10",
+    "added_at": "2025-09-12T04:40:44.101Z"
+  },
+  "76191-1": {
+    "no": "76191-1",
+    "name": "Infinity Gauntlet",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2021,
+    "weight": "737.00",
+    "dim_x": "19.10",
+    "dim_y": "35.40",
+    "dim_z": "9.10",
+    "added_at": "2025-09-12T04:40:44.245Z"
+  },
+  "40418-1": {
+    "no": "40418-1",
+    "name": "Falcon & Black Widow blister pack",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2020,
+    "weight": "78.60",
+    "dim_x": "15.00",
+    "dim_y": "25.00",
+    "dim_z": "3.00",
+    "added_at": "2025-09-12T04:40:44.393Z"
+  },
+  "43240-1": {
+    "no": "43240-1",
+    "name": "Maleficent's Dragon Form and Aurora's Castle",
+    "type": "SET",
+    "category_id": 878,
+    "year_released": 2024,
+    "weight": "820.00",
+    "dim_x": "38.00",
+    "dim_y": "26.00",
+    "dim_z": "5.50",
+    "added_at": "2025-09-12T04:40:44.539Z"
+  },
+  "76047-1": {
+    "no": "76047-1",
+    "name": "Black Panther Pursuit",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2016,
+    "weight": "533.00",
+    "dim_x": "35.00",
+    "dim_y": "18.80",
+    "dim_z": "7.00",
+    "added_at": "2025-09-12T04:40:44.687Z"
+  },
+  "76192-1": {
+    "no": "76192-1",
+    "name": "Avengers: Endgame Final Battle",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2021,
+    "weight": "1056.00",
+    "dim_x": "54.00",
+    "dim_y": "28.40",
+    "dim_z": "5.90",
+    "added_at": "2025-09-12T04:40:44.844Z"
+  },
+  "10790-1": {
+    "no": "10790-1",
+    "name": "Green Goblin's Lighthouse",
+    "type": "SET",
+    "category_id": 768,
+    "year_released": 2023,
+    "weight": "562.30",
+    "dim_x": "26.00",
+    "dim_y": "22.00",
+    "dim_z": "7.40",
+    "added_at": "2025-09-12T04:40:44.989Z"
+  },
+  "10497-1": {
+    "no": "10497-1",
+    "name": "Galaxy Explorer",
+    "type": "SET",
+    "category_id": 34,
+    "year_released": 2022,
+    "weight": "1758.00",
+    "dim_x": "53.40",
+    "dim_y": "27.70",
+    "dim_z": "8.90",
+    "added_at": "2025-09-12T04:40:45.133Z"
+  },
+  "75391-1": {
+    "no": "75391-1",
+    "name": "Captain Rex Y-Wing Microfighter",
+    "type": "SET",
+    "category_id": 65,
+    "year_released": 2024,
+    "weight": "112.00",
+    "dim_x": "14.10",
+    "dim_y": "12.20",
+    "dim_z": "4.60",
+    "added_at": "2025-09-12T04:40:45.282Z"
   }
 }
